@@ -1,0 +1,131 @@
+{
+    "name": "Ferrari AF Corse",
+    "country": "Italy",
+    "picture": "ferrari_af_corse.png",
+    "seasons": {
+        "2025-2025": {
+            "WEC": {
+                "1812 km of Qatar": {
+                    "Free Practice 1": {
+                        "50": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:42.397",
+                            "other_info": {
+                                "Laps": "39"
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:42.123",
+                            "other_info": {
+                                "Laps": "37"
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "50": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:39.906",
+                            "other_info": {
+                                "Laps": "41"
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:40.314",
+                            "other_info": {
+                                "Laps": "39"
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "50": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:39.484",
+                            "other_info": {
+                                "Laps": "28"
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:39.565",
+                            "other_info": {
+                                "Laps": "27"
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    },
+                    "Qualifying - Hypercar": {
+                        "50": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:38.609",
+                            "other_info": {
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:38.587",
+                            "other_info": {
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    },
+                    "Hyperpole - Hypercar": {
+                        "50": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:38.692",
+                            "other_info": {
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "1",
+                            "points": 1,
+                            "fastest_lap": "1:38.359",
+                            "other_info": {
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    },
+                    "Race": {
+                        "50": {
+                            "position": "1",
+                            "points": 38,
+                            "fastest_lap": "1:41.536",
+                            "other_info": {
+                                "Fastest_speed": "192.1 km/h",
+                                "Laps": "318"
+                            },
+                            "drivers": ["Antonio Fuoco", "Miguel Molina", "Nicklas Nielsen"]
+                        },
+                        "51": {
+                            "position": "3",
+                            "points": 23,
+                            "fastest_lap": "1:41.259",
+                            "other_info": {
+                                "Fastest_speed": "192.6 km/h",
+                                "Laps": "318"
+                            },
+                            "drivers": ["Alessandro Pier Guidi", "James Calado", "Antonio Giovinazzi"]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
