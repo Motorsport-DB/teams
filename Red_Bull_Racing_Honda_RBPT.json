@@ -127,6 +127,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "1": {
+                            "position": "2",
+                            "points": "18",
+                            "fastest_lap": "1:23.081",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "228.702",
+                                    "Lap_of_fastest_lap": "43",
+                                    "Gap": "+0.895s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "1:22.970",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.008",
+                                    "Lap_of_fastest_lap": "43",
+                                    "Gap": "DNF",
+                                    "Laps": "46"
+                                }
+                            ]
+                        }
                     }
                 }
             }
@@ -851,6 +885,36 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "32:04.660",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "11": {
+                            "position": "3",
+                            "points": "6",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Sergio_Perez"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+15.258s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
                     }
                 },
                 "CRYPTO.COM MIAMI GRAND PRIX": {
@@ -986,6 +1050,36 @@
                                     "Lap_of_fastest_lap": "55",
                                     "Gap": "+14.650s",
                                     "Laps": "57"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "31:31.383",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "11": {
+                            "position": "3",
+                            "points": "6",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Sergio_Perez"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+5.095s",
+                                    "Laps": "19"
                                 }
                             ]
                         }
@@ -1767,6 +1861,36 @@
                                     "Lap_of_fastest_lap": "56",
                                     "Gap": "+54.672s",
                                     "Laps": "71"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "26:41.389",
+                                    "Laps": "23"
+                                }
+                            ]
+                        },
+                        "11": {
+                            "position": "8",
+                            "points": "1",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Sergio_Perez"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+17.409s",
+                                    "Laps": "23"
                                 }
                             ]
                         }
@@ -3331,6 +3455,36 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "4",
+                            "points": "5",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+6.497s",
+                                    "Laps": "24"
+                                }
+                            ]
+                        },
+                        "11": {
+                            "position": "8",
+                            "points": "1",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Sergio_Perez"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+18.717s",
+                                    "Laps": "24"
+                                }
+                            ]
+                        }
                     }
                 },
                 "HEINEKEN SILVER LAS VEGAS GRAND PRIX": {
@@ -3624,6 +3778,36 @@
                                     "Lap_of_fastest_lap": "31",
                                     "Gap": "DNF",
                                     "Laps": "38"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "8",
+                            "points": "1",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+10.368s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "11": {
+                            "position": "20",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Sergio_Perez"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+74.371s",
+                                    "Laps": "19"
                                 }
                             ]
                         }

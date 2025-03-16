@@ -129,6 +129,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "4": {
+                            "position": "1",
+                            "points": "25",
+                            "fastest_lap": "1:22.167",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "231.246",
+                                    "Lap_of_fastest_lap": "43",
+                                    "Gap": "1:42:06.304",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "9",
+                            "points": "2",
+                            "fastest_lap": "1:23.242",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "228.259",
+                                    "Lap_of_fastest_lap": "43",
+                                    "Gap": "+20.448s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        }
                     }
                 }
             }
@@ -883,6 +917,36 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "4": {
+                            "position": "6",
+                            "points": "3",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+22.088s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "7",
+                            "points": "2",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+24.713s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
                     }
                 },
                 "CRYPTO.COM MIAMI GRAND PRIX": {
@@ -1018,6 +1082,36 @@
                                     "Lap_of_fastest_lap": "43",
                                     "Gap": "+49.756s",
                                     "Laps": "57"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "81": {
+                            "position": "6",
+                            "points": "3",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+15.750s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "DNF",
+                                    "Laps": "0"
                                 }
                             ]
                         }
@@ -1804,6 +1898,36 @@
                                     "Lap_of_fastest_lap": "53",
                                     "Gap": "+7 laps",
                                     "Laps": "64"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "81": {
+                            "position": "2",
+                            "points": "7",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+4.616s",
+                                    "Laps": "23"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "3",
+                            "points": "6",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+5.348s",
+                                    "Laps": "23"
                                 }
                             ]
                         }
@@ -3373,6 +3497,36 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "4": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "29:46.045",
+                                    "Laps": "24"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "2",
+                            "points": "7",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+0.593s",
+                                    "Laps": "24"
+                                }
+                            ]
+                        }
                     }
                 },
                 "HEINEKEN SILVER LAS VEGAS GRAND PRIX": {
@@ -3670,6 +3824,36 @@
                                     "Lap_of_fastest_lap": "56",
                                     "Gap": "+35.762s",
                                     "Laps": "57"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "81": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "27:03.010",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "2",
+                            "points": "7",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+0.136s",
+                                    "Laps": "19"
                                 }
                             ]
                         }
