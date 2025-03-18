@@ -1709,6 +1709,108 @@
                         }
                     }
                 }
+            },
+            "Formula 3": {
+                "Spa-Francorchamps": {
+                    "Feature Race": {
+                        "29": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:24.232",
+                            "drivers": [
+                                "Sophia_Floersch"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "40:10.637",
+                                    "Gap": "20.533",
+                                    "Average_speed": "156.709",
+                                    "Lap_of_fastest_lap": "13",
+                                    "Laps": "15",
+                                    "Car_number": "29"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "29": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:41.705",
+                            "drivers": [
+                                "Sophia_Floersch"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "47:12.794",
+                                    "Gap": "7.616",
+                                    "Average_speed": "154.207",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "21",
+                                    "Car_number": "29"
+                                }
+                            ]
+                        },
+                        "31": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:41.709",
+                            "drivers": [
+                                "Michael_Shin"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "47:16.285",
+                                    "Gap": "11.107",
+                                    "Average_speed": "154.289",
+                                    "Lap_of_fastest_lap": "5",
+                                    "Laps": "21",
+                                    "Car_number": "31"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:41.948",
+                            "drivers": [
+                                "Roberto_Faria"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "40:08.720",
+                                    "Gap": "DNF",
+                                    "Average_speed": "155.382",
+                                    "Lap_of_fastest_lap": "5",
+                                    "Laps": "18",
+                                    "Car_number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "29": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:41.317",
+                            "drivers": [
+                                "Sophia_Floersch"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "34:27.326",
+                                    "Gap": "20.338",
+                                    "Average_speed": "181.042",
+                                    "Lap_of_fastest_lap": "9",
+                                    "Laps": "18",
+                                    "Car_number": "29"
+                                }
+                            ]
+                        }
+                    }
+                }
             }
         }
     }
