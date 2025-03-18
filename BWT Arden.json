@@ -1,6 +1,1456 @@
 {
     "name": "BWT Arden",
     "seasons": {
+        "2019": {
+            "Formula 2": {
+                "Baku": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:58.970",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "48:54.358",
+                                    "Gap": "11.074",
+                                    "Average_speed": "139.802",
+                                    "Lap_of_fastest_lap": "6",
+                                    "Laps": "19",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:58.289",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:02:45.828",
+                                    "Gap": "18.200",
+                                    "Average_speed": "149.105",
+                                    "Lap_of_fastest_lap": "26",
+                                    "Laps": "26",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:56.138",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.583",
+                                    "Average_speed": "186.078",
+                                    "Laps": "11",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:58.164",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.609",
+                                    "Average_speed": "182.888",
+                                    "Laps": "11",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:59.801",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.164",
+                                    "Average_speed": "180.389",
+                                    "Laps": "19",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "2:01.994",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "5.357",
+                                    "Average_speed": "177.146",
+                                    "Laps": "17",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Barcelona": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:33.320",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "42:38.483",
+                                    "Gap": "12.567",
+                                    "Average_speed": "170.122",
+                                    "Lap_of_fastest_lap": "15",
+                                    "Laps": "26",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:33.986",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "42:58.185",
+                                    "Gap": "32.269",
+                                    "Average_speed": "168.822",
+                                    "Lap_of_fastest_lap": "16",
+                                    "Laps": "26",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:32.942",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:01:23.177",
+                                    "Gap": "12.489",
+                                    "Average_speed": "168.222",
+                                    "Lap_of_fastest_lap": "35",
+                                    "Laps": "37",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:34.736",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:01:56.477",
+                                    "Gap": "45.789",
+                                    "Average_speed": "166.714",
+                                    "Lap_of_fastest_lap": "27",
+                                    "Laps": "37",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:28.980",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.949",
+                                    "Average_speed": "188.334",
+                                    "Laps": "11",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:29.590",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.559",
+                                    "Average_speed": "187.052",
+                                    "Laps": "11",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:30.402",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.940",
+                                    "Average_speed": "185.372",
+                                    "Laps": "19",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:32.362",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.900",
+                                    "Average_speed": "181.438",
+                                    "Laps": "20",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Le Castellet": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:45.633",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "37:19.524",
+                                    "Gap": "-",
+                                    "Average_speed": "197.312",
+                                    "Lap_of_fastest_lap": "18",
+                                    "Laps": "21",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:47.736",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "32:51.508",
+                                    "Gap": "DNF",
+                                    "Average_speed": "192.133",
+                                    "Lap_of_fastest_lap": "13",
+                                    "Laps": "18",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:45.300",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:16:05.384",
+                                    "Gap": "29.959",
+                                    "Average_speed": "138.250",
+                                    "Lap_of_fastest_lap": "27",
+                                    "Laps": "30",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:47.182",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:16:44.796",
+                                    "Gap": "69.371",
+                                    "Average_speed": "137.067",
+                                    "Lap_of_fastest_lap": "29",
+                                    "Laps": "30",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:44.612",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.588",
+                                    "Average_speed": "201.040",
+                                    "Laps": "12",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:47.006",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.982",
+                                    "Average_speed": "196.542",
+                                    "Laps": "12",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:46.043",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.034",
+                                    "Average_speed": "198.327",
+                                    "Laps": "19",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:47.822",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.813",
+                                    "Average_speed": "195.054",
+                                    "Laps": "20",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Spielberg": {
+                    "Sprint Race": {
+                        "18": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:19.440",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "39:06.827",
+                                    "Gap": "21.136",
+                                    "Average_speed": "185.271",
+                                    "Lap_of_fastest_lap": "7",
+                                    "Laps": "28",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        },
+                        "19": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:18.829",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "39:09.748",
+                                    "Gap": "24.057",
+                                    "Average_speed": "185.041",
+                                    "Lap_of_fastest_lap": "4",
+                                    "Laps": "28",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:18.573",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "53:43.392",
+                                    "Gap": "10.786",
+                                    "Average_speed": "192.759",
+                                    "Lap_of_fastest_lap": "10",
+                                    "Laps": "40",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:19.837",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "54:49.192",
+                                    "Gap": "76.586",
+                                    "Average_speed": "188.903",
+                                    "Lap_of_fastest_lap": "34",
+                                    "Laps": "40",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:14.309",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.166",
+                                    "Average_speed": "209.191",
+                                    "Laps": "12",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:16.164",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.021",
+                                    "Average_speed": "204.096",
+                                    "Laps": "15",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:15.714",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.932",
+                                    "Average_speed": "205.309",
+                                    "Laps": "27",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:17.159",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.377",
+                                    "Average_speed": "201.464",
+                                    "Laps": "24",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:41.666",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "37:22.131",
+                                    "Gap": "34.309",
+                                    "Average_speed": "198.417",
+                                    "Lap_of_fastest_lap": "19",
+                                    "Laps": "21",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:42.850",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "37:47.820",
+                                    "Gap": "59.998",
+                                    "Average_speed": "196.169",
+                                    "Lap_of_fastest_lap": "18",
+                                    "Laps": "21",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "18": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:43.650",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:40.269",
+                                    "Gap": "79.155",
+                                    "Average_speed": "198.220",
+                                    "Lap_of_fastest_lap": "26",
+                                    "Laps": "29",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        },
+                        "19": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:41.258",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:45.723",
+                                    "Gap": "1 LAP",
+                                    "Average_speed": "191.044",
+                                    "Lap_of_fastest_lap": "28",
+                                    "Laps": "28",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:39.046",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.864",
+                                    "Average_speed": "214.118",
+                                    "Laps": "11",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:40.530",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.348",
+                                    "Average_speed": "210.957",
+                                    "Laps": "12",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:40.789",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.623",
+                                    "Average_speed": "210.415",
+                                    "Laps": "21",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:41.841",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.675",
+                                    "Average_speed": "208.242",
+                                    "Laps": "20",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:33.871",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "44:26.732",
+                                    "Gap": "26.891",
+                                    "Average_speed": "165.543",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "28",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:32.438",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:03:00.693",
+                                    "Gap": "20.018",
+                                    "Average_speed": "154.311",
+                                    "Lap_of_fastest_lap": "32",
+                                    "Laps": "37",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:35.161",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:03:56.498",
+                                    "Gap": "75.823",
+                                    "Average_speed": "152.067",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "37",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:51.513",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.704",
+                                    "Average_speed": "141.432",
+                                    "Laps": "12",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:53.997",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "4.188",
+                                    "Average_speed": "138.351",
+                                    "Laps": "12",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:29.544",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.308",
+                                    "Average_speed": "176.132",
+                                    "Laps": "18",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:31.668",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.432",
+                                    "Average_speed": "172.051",
+                                    "Laps": "18",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "2:00.005",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.701",
+                                    "Average_speed": "210.111",
+                                    "Laps": "7",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "2:03.224",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "4.920",
+                                    "Average_speed": "204.622",
+                                    "Laps": "8",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:01.301",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.792",
+                                    "Average_speed": "207.866",
+                                    "Laps": "13",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "2:02.819",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.310",
+                                    "Average_speed": "205.297",
+                                    "Laps": "15",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Monza": {
+                    "Sprint Race": {
+                        "18": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:36.993",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "35:19.309",
+                                    "Gap": "53.021",
+                                    "Average_speed": "206.123",
+                                    "Lap_of_fastest_lap": "19",
+                                    "Laps": "21",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "18": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:36.691",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "3.674",
+                                    "Average_speed": "215.685",
+                                    "Laps": "11",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Sochi": {
+                    "Sprint Race": {
+                        "22": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:52.822",
+                            "drivers": [
+                                "Artem_Markelov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:18:38.098",
+                                    "Gap": "16.769",
+                                    "Average_speed": "66.780",
+                                    "Lap_of_fastest_lap": "15",
+                                    "Laps": "15",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:54.201",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:19:04.386",
+                                    "Gap": "43.057",
+                                    "Average_speed": "66.410",
+                                    "Lap_of_fastest_lap": "10",
+                                    "Laps": "15",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "18": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:53.351",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "55:21.971",
+                                    "Gap": "69.884",
+                                    "Average_speed": "177.232",
+                                    "Lap_of_fastest_lap": "24",
+                                    "Laps": "28",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "22": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:49.244",
+                            "drivers": [
+                                "Artem_Markelov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.804",
+                                    "Average_speed": "192.713",
+                                    "Laps": "11",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:50.255",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.815",
+                                    "Average_speed": "190.946",
+                                    "Laps": "11",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "18": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:51.758",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.873",
+                                    "Average_speed": "188.378",
+                                    "Laps": "13",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:53.244",
+                            "drivers": [
+                                "Artem_Markelov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "4.359",
+                                    "Average_speed": "185.906",
+                                    "Laps": "10",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Yas Island": {
+                    "Sprint Race": {
+                        "18": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:57.355",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "45:05.701",
+                                    "Gap": "43.149",
+                                    "Average_speed": "162.421",
+                                    "Lap_of_fastest_lap": "4",
+                                    "Laps": "22",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "18": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:57.356",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:03:15.613",
+                                    "Gap": "58.602",
+                                    "Average_speed": "163.191",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "31",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "22": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:51.412",
+                            "drivers": [
+                                "Artem_Markelov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.661",
+                                    "Average_speed": "179.463",
+                                    "Laps": "10",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:52.412",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.661",
+                                    "Average_speed": "177.867",
+                                    "Laps": "10",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "22": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:53.051",
+                            "drivers": [
+                                "Artem_Markelov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.110",
+                                    "Average_speed": "176.861",
+                                    "Laps": "12",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:54.901",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.960",
+                                    "Average_speed": "174.014",
+                                    "Laps": "11",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Sakhir": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:48.785",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "43:06.706",
+                                    "Gap": "30.514",
+                                    "Average_speed": "172.894",
+                                    "Lap_of_fastest_lap": "16",
+                                    "Laps": "23",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:50.248",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "43:22.198",
+                                    "Gap": "46.006",
+                                    "Average_speed": "171.865",
+                                    "Lap_of_fastest_lap": "4",
+                                    "Laps": "23",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:48.483",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "59:36.790",
+                                    "Gap": "17.273",
+                                    "Average_speed": "174.060",
+                                    "Lap_of_fastest_lap": "19",
+                                    "Laps": "32",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:48.911",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:00:15.292",
+                                    "Gap": "55.775",
+                                    "Average_speed": "172.206",
+                                    "Lap_of_fastest_lap": "24",
+                                    "Laps": "32",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "19": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:41.596",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.092",
+                                    "Average_speed": "191.771",
+                                    "Laps": "9",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:42.810",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.306",
+                                    "Average_speed": "189.506",
+                                    "Laps": "9",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:44.834",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.216",
+                                    "Average_speed": "185.848",
+                                    "Laps": "17",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:46.363",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "2.745",
+                                    "Average_speed": "183.176",
+                                    "Laps": "14",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "Monte Carlo": {
+                    "Sprint Race": {
+                        "19": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:24.280",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "44:23.388",
+                                    "Gap": "-",
+                                    "Average_speed": "135.314",
+                                    "Lap_of_fastest_lap": "6",
+                                    "Laps": "30",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Feature Race": {
+                        "19": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:24.718",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:31:31.567",
+                                    "Gap": "1 LAP",
+                                    "Average_speed": "87.502",
+                                    "Lap_of_fastest_lap": "23",
+                                    "Laps": "40",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:25.667",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "1:32:15.851",
+                                    "Gap": "2 LAPS",
+                                    "Average_speed": "84.632",
+                                    "Lap_of_fastest_lap": "26",
+                                    "Laps": "39",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "18": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:24.791",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "4.115",
+                                    "Average_speed": "141.680",
+                                    "Laps": "10",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "19": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:21.675",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "0.213",
+                                    "Average_speed": "147.085",
+                                    "Laps": "9",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:23.167",
+                            "drivers": [
+                                "Anthoine_Hubert"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1.280",
+                                    "Average_speed": "144.446",
+                                    "Laps": "25",
+                                    "Car_number": "19"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:26.050",
+                            "drivers": [
+                                "Tatiana_Calderón"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "4.163",
+                                    "Average_speed": "139.607",
+                                    "Laps": "24",
+                                    "Car_number": "18"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "2018": {
             "Formula 2": {
                 "Sakhir": {
@@ -1572,1456 +3022,6 @@
                                     "Average_speed": "174.903",
                                     "Laps": "18",
                                     "Car_number": "11"
-                                }
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "2019": {
-            "Formula 2": {
-                "Baku": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:58.970",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "48:54.358",
-                                    "Gap": "11.074",
-                                    "Average_speed": "139.802",
-                                    "Lap_of_fastest_lap": "6",
-                                    "Laps": "19",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:58.289",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:02:45.828",
-                                    "Gap": "18.200",
-                                    "Average_speed": "149.105",
-                                    "Lap_of_fastest_lap": "26",
-                                    "Laps": "26",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:56.138",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.583",
-                                    "Average_speed": "186.078",
-                                    "Laps": "11",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:58.164",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.609",
-                                    "Average_speed": "182.888",
-                                    "Laps": "11",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:59.801",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.164",
-                                    "Average_speed": "180.389",
-                                    "Laps": "19",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "2:01.994",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "5.357",
-                                    "Average_speed": "177.146",
-                                    "Laps": "17",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Barcelona": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:33.320",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "42:38.483",
-                                    "Gap": "12.567",
-                                    "Average_speed": "170.122",
-                                    "Lap_of_fastest_lap": "15",
-                                    "Laps": "26",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:33.986",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "42:58.185",
-                                    "Gap": "32.269",
-                                    "Average_speed": "168.822",
-                                    "Lap_of_fastest_lap": "16",
-                                    "Laps": "26",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:32.942",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:01:23.177",
-                                    "Gap": "12.489",
-                                    "Average_speed": "168.222",
-                                    "Lap_of_fastest_lap": "35",
-                                    "Laps": "37",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:34.736",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:01:56.477",
-                                    "Gap": "45.789",
-                                    "Average_speed": "166.714",
-                                    "Lap_of_fastest_lap": "27",
-                                    "Laps": "37",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:28.980",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.949",
-                                    "Average_speed": "188.334",
-                                    "Laps": "11",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:29.590",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.559",
-                                    "Average_speed": "187.052",
-                                    "Laps": "11",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:30.402",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.940",
-                                    "Average_speed": "185.372",
-                                    "Laps": "19",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:32.362",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.900",
-                                    "Average_speed": "181.438",
-                                    "Laps": "20",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Le Castellet": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:45.633",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "37:19.524",
-                                    "Gap": "-",
-                                    "Average_speed": "197.312",
-                                    "Lap_of_fastest_lap": "18",
-                                    "Laps": "21",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:47.736",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "32:51.508",
-                                    "Gap": "DNF",
-                                    "Average_speed": "192.133",
-                                    "Lap_of_fastest_lap": "13",
-                                    "Laps": "18",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:45.300",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:16:05.384",
-                                    "Gap": "29.959",
-                                    "Average_speed": "138.250",
-                                    "Lap_of_fastest_lap": "27",
-                                    "Laps": "30",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:47.182",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:16:44.796",
-                                    "Gap": "69.371",
-                                    "Average_speed": "137.067",
-                                    "Lap_of_fastest_lap": "29",
-                                    "Laps": "30",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:44.612",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.588",
-                                    "Average_speed": "201.040",
-                                    "Laps": "12",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:47.006",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.982",
-                                    "Average_speed": "196.542",
-                                    "Laps": "12",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:46.043",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.034",
-                                    "Average_speed": "198.327",
-                                    "Laps": "19",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:47.822",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.813",
-                                    "Average_speed": "195.054",
-                                    "Laps": "20",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Spielberg": {
-                    "Sprint Race": {
-                        "18": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:19.440",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "39:06.827",
-                                    "Gap": "21.136",
-                                    "Average_speed": "185.271",
-                                    "Lap_of_fastest_lap": "7",
-                                    "Laps": "28",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        },
-                        "19": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:18.829",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "39:09.748",
-                                    "Gap": "24.057",
-                                    "Average_speed": "185.041",
-                                    "Lap_of_fastest_lap": "4",
-                                    "Laps": "28",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:18.573",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "53:43.392",
-                                    "Gap": "10.786",
-                                    "Average_speed": "192.759",
-                                    "Lap_of_fastest_lap": "10",
-                                    "Laps": "40",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:19.837",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "54:49.192",
-                                    "Gap": "76.586",
-                                    "Average_speed": "188.903",
-                                    "Lap_of_fastest_lap": "34",
-                                    "Laps": "40",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:14.309",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.166",
-                                    "Average_speed": "209.191",
-                                    "Laps": "12",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:16.164",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.021",
-                                    "Average_speed": "204.096",
-                                    "Laps": "15",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:15.714",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.932",
-                                    "Average_speed": "205.309",
-                                    "Laps": "27",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:17.159",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.377",
-                                    "Average_speed": "201.464",
-                                    "Laps": "24",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Silverstone": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:41.666",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "37:22.131",
-                                    "Gap": "34.309",
-                                    "Average_speed": "198.417",
-                                    "Lap_of_fastest_lap": "19",
-                                    "Laps": "21",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:42.850",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "37:47.820",
-                                    "Gap": "59.998",
-                                    "Average_speed": "196.169",
-                                    "Lap_of_fastest_lap": "18",
-                                    "Laps": "21",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "18": {
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "1:43.650",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "51:40.269",
-                                    "Gap": "79.155",
-                                    "Average_speed": "198.220",
-                                    "Lap_of_fastest_lap": "26",
-                                    "Laps": "29",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        },
-                        "19": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:41.258",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "51:45.723",
-                                    "Gap": "1 LAP",
-                                    "Average_speed": "191.044",
-                                    "Lap_of_fastest_lap": "28",
-                                    "Laps": "28",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:39.046",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.864",
-                                    "Average_speed": "214.118",
-                                    "Laps": "11",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:40.530",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.348",
-                                    "Average_speed": "210.957",
-                                    "Laps": "12",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:40.789",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.623",
-                                    "Average_speed": "210.415",
-                                    "Laps": "21",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:41.841",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.675",
-                                    "Average_speed": "208.242",
-                                    "Laps": "20",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Budapest": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:33.871",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "44:26.732",
-                                    "Gap": "26.891",
-                                    "Average_speed": "165.543",
-                                    "Lap_of_fastest_lap": "11",
-                                    "Laps": "28",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:32.438",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:03:00.693",
-                                    "Gap": "20.018",
-                                    "Average_speed": "154.311",
-                                    "Lap_of_fastest_lap": "32",
-                                    "Laps": "37",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:35.161",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:03:56.498",
-                                    "Gap": "75.823",
-                                    "Average_speed": "152.067",
-                                    "Lap_of_fastest_lap": "11",
-                                    "Laps": "37",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:51.513",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.704",
-                                    "Average_speed": "141.432",
-                                    "Laps": "12",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:53.997",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "4.188",
-                                    "Average_speed": "138.351",
-                                    "Laps": "12",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:29.544",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.308",
-                                    "Average_speed": "176.132",
-                                    "Laps": "18",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:31.668",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.432",
-                                    "Average_speed": "172.051",
-                                    "Laps": "18",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Spa-Francorchamps": {
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "2:00.005",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.701",
-                                    "Average_speed": "210.111",
-                                    "Laps": "7",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "2:03.224",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "4.920",
-                                    "Average_speed": "204.622",
-                                    "Laps": "8",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "2:01.301",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.792",
-                                    "Average_speed": "207.866",
-                                    "Laps": "13",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "2:02.819",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.310",
-                                    "Average_speed": "205.297",
-                                    "Laps": "15",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Monza": {
-                    "Sprint Race": {
-                        "18": {
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "1:36.993",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "35:19.309",
-                                    "Gap": "53.021",
-                                    "Average_speed": "206.123",
-                                    "Lap_of_fastest_lap": "19",
-                                    "Laps": "21",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "18": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:36.691",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "3.674",
-                                    "Average_speed": "215.685",
-                                    "Laps": "11",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Sochi": {
-                    "Sprint Race": {
-                        "22": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:52.822",
-                            "drivers": [
-                                "Artem_Markelov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:18:38.098",
-                                    "Gap": "16.769",
-                                    "Average_speed": "66.780",
-                                    "Lap_of_fastest_lap": "15",
-                                    "Laps": "15",
-                                    "Car_number": "22"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:54.201",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:19:04.386",
-                                    "Gap": "43.057",
-                                    "Average_speed": "66.410",
-                                    "Lap_of_fastest_lap": "10",
-                                    "Laps": "15",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "18": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:53.351",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "55:21.971",
-                                    "Gap": "69.884",
-                                    "Average_speed": "177.232",
-                                    "Lap_of_fastest_lap": "24",
-                                    "Laps": "28",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "22": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:49.244",
-                            "drivers": [
-                                "Artem_Markelov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.804",
-                                    "Average_speed": "192.713",
-                                    "Laps": "11",
-                                    "Car_number": "22"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:50.255",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.815",
-                                    "Average_speed": "190.946",
-                                    "Laps": "11",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "18": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:51.758",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.873",
-                                    "Average_speed": "188.378",
-                                    "Laps": "13",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        },
-                        "22": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:53.244",
-                            "drivers": [
-                                "Artem_Markelov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "4.359",
-                                    "Average_speed": "185.906",
-                                    "Laps": "10",
-                                    "Car_number": "22"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Yas Island": {
-                    "Sprint Race": {
-                        "18": {
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "1:57.355",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "45:05.701",
-                                    "Gap": "43.149",
-                                    "Average_speed": "162.421",
-                                    "Lap_of_fastest_lap": "4",
-                                    "Laps": "22",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "18": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:57.356",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:03:15.613",
-                                    "Gap": "58.602",
-                                    "Average_speed": "163.191",
-                                    "Lap_of_fastest_lap": "11",
-                                    "Laps": "31",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "22": {
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "1:51.412",
-                            "drivers": [
-                                "Artem_Markelov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.661",
-                                    "Average_speed": "179.463",
-                                    "Laps": "10",
-                                    "Car_number": "22"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:52.412",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.661",
-                                    "Average_speed": "177.867",
-                                    "Laps": "10",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "22": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:53.051",
-                            "drivers": [
-                                "Artem_Markelov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.110",
-                                    "Average_speed": "176.861",
-                                    "Laps": "12",
-                                    "Car_number": "22"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:54.901",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.960",
-                                    "Average_speed": "174.014",
-                                    "Laps": "11",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Sakhir": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:48.785",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "43:06.706",
-                                    "Gap": "30.514",
-                                    "Average_speed": "172.894",
-                                    "Lap_of_fastest_lap": "16",
-                                    "Laps": "23",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:50.248",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "43:22.198",
-                                    "Gap": "46.006",
-                                    "Average_speed": "171.865",
-                                    "Lap_of_fastest_lap": "4",
-                                    "Laps": "23",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:48.483",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "59:36.790",
-                                    "Gap": "17.273",
-                                    "Average_speed": "174.060",
-                                    "Lap_of_fastest_lap": "19",
-                                    "Laps": "32",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:48.911",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:00:15.292",
-                                    "Gap": "55.775",
-                                    "Average_speed": "172.206",
-                                    "Lap_of_fastest_lap": "24",
-                                    "Laps": "32",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Session": {
-                        "19": {
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:41.596",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.092",
-                                    "Average_speed": "191.771",
-                                    "Laps": "9",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:42.810",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.306",
-                                    "Average_speed": "189.506",
-                                    "Laps": "9",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:44.834",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.216",
-                                    "Average_speed": "185.848",
-                                    "Laps": "17",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:46.363",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "2.745",
-                                    "Average_speed": "183.176",
-                                    "Laps": "14",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                },
-                "Monte Carlo": {
-                    "Sprint Race": {
-                        "19": {
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:24.280",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "44:23.388",
-                                    "Gap": "-",
-                                    "Average_speed": "135.314",
-                                    "Lap_of_fastest_lap": "6",
-                                    "Laps": "30",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Feature Race": {
-                        "19": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:24.718",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:31:31.567",
-                                    "Gap": "1 LAP",
-                                    "Average_speed": "87.502",
-                                    "Lap_of_fastest_lap": "23",
-                                    "Laps": "40",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "1:25.667",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "1:32:15.851",
-                                    "Gap": "2 LAPS",
-                                    "Average_speed": "84.632",
-                                    "Lap_of_fastest_lap": "26",
-                                    "Laps": "39",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Group B": {
-                        "18": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:24.791",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "4.115",
-                                    "Average_speed": "141.680",
-                                    "Laps": "10",
-                                    "Car_number": "18"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying Group A": {
-                        "19": {
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:21.675",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.213",
-                                    "Average_speed": "147.085",
-                                    "Laps": "9",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        }
-                    },
-                    "Free Practice": {
-                        "19": {
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:23.167",
-                            "drivers": [
-                                "Anthoine_Hubert"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.280",
-                                    "Average_speed": "144.446",
-                                    "Laps": "25",
-                                    "Car_number": "19"
-                                }
-                            ]
-                        },
-                        "18": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:26.050",
-                            "drivers": [
-                                "Tatiana_Calderón"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "4.163",
-                                    "Average_speed": "139.607",
-                                    "Laps": "24",
-                                    "Car_number": "18"
                                 }
                             ]
                         }
