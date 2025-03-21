@@ -162,6 +162,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "1": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:33.284",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "24",
+                                    "Car_Number": "1"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:33.631",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "1": {
+                            "position": "2",
+                            "points": "1:30.867",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.521",
+                                    "Laps": "1:31.916"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "20",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:32.729"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

@@ -161,6 +161,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "27": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:32.507",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_Number": "27"
+                                }
+                            ]
+                        },
+                        "5": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:33.822",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "24",
+                                    "Car_Number": "5"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "5": {
+                            "position": "14",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:32.564",
+                                    "Laps": "1:32.539"
+                                }
+                            ]
+                        },
+                        "27": {
+                            "position": "19",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:32.675"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

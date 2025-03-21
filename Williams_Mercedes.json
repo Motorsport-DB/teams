@@ -164,6 +164,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "23": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:32.687",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "24",
+                                    "Car_Number": "23"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:33.145",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "26",
+                                    "Car_Number": "55"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "23": {
+                            "position": "9",
+                            "points": "1:31.852",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.539",
+                                    "Laps": "1:32.462"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "13",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:32.325",
+                                    "Laps": "1:32.457"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

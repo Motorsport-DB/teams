@@ -162,6 +162,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "14": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:32.766",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "14"
+                                }
+                            ]
+                        },
+                        "18": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:32.984",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "19",
+                                    "Car_Number": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "18": {
+                            "position": "10",
+                            "points": "1:31.982",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.742",
+                                    "Laps": "1:32.327"
+                                }
+                            ]
+                        },
+                        "14": {
+                            "position": "11",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.815",
+                                    "Laps": "1:32.121"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

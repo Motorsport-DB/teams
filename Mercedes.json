@@ -162,6 +162,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "63": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:32.377",
+                            "drivers": [
+                                "George_Russell"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "26",
+                                    "Car_Number": "63"
+                                }
+                            ]
+                        },
+                        "12": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:32.874",
+                            "drivers": [
+                                "Andrea kimi_Antonelli"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "27",
+                                    "Car_Number": "12"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "63": {
+                            "position": "5",
+                            "points": "1:31.169",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "George_Russell"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.346",
+                                    "Laps": "1:31.952"
+                                }
+                            ]
+                        },
+                        "12": {
+                            "position": "7",
+                            "points": "1:31.738",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Andrea kimi_Antonelli"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:31.475",
+                                    "Laps": "1:31.999"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

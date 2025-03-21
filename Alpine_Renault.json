@@ -163,6 +163,68 @@
                             ]
                         }
                     }
+                },
+                "HEINEKEN CHINESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "10": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:33.123",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "10"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:33.923",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "7"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "7": {
+                            "position": "16",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:32.575"
+                                }
+                            ]
+                        },
+                        "10": {
+                            "position": "17",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:32.640"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
