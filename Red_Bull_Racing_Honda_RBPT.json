@@ -223,6 +223,70 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "1": {
+                            "position": "3",
+                            "points": "6",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+9.804s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "14",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+44.904s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "1": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:30.817",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "1",
+                                    "Q1": "1:31.424",
+                                    "Q2": "1:31.142",
+                                    "Q3": "1:30.817"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:32.174",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "8",
+                                    "Car_number": "30",
+                                    "Q1": "1:32.174"
+                                }
+                            ]
+                        }
                     }
                 }
             }

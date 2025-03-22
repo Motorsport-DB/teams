@@ -20,6 +20,14 @@
                                     "Lap_of_fastest_lap": "14:28:32",
                                     "Laps": "12",
                                     "Car_number": "64"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
+                                    "Gap": "-",
+                                    "Average_speed": "159.051",
+                                    "Lap_of_fastest_lap": "14:28:32",
+                                    "Laps": "12",
+                                    "Car_number": "64"
                                 }
                             ]
                         },
@@ -38,6 +46,14 @@
                                     "Lap_of_fastest_lap": "14:29:20",
                                     "Laps": "11",
                                     "Car_number": "12"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
+                                    "Gap": "0.627",
+                                    "Average_speed": "158.247",
+                                    "Lap_of_fastest_lap": "14:29:20",
+                                    "Laps": "11",
+                                    "Car_number": "12"
                                 }
                             ]
                         },
@@ -51,6 +67,14 @@
                             "other_Info": [
                                 {
                                     "Elapsed_times": "N/A",
+                                    "Gap": "0.767",
+                                    "Average_speed": "158.068",
+                                    "Lap_of_fastest_lap": "14:31:49",
+                                    "Laps": "11",
+                                    "Car_number": "25"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
                                     "Gap": "0.767",
                                     "Average_speed": "158.068",
                                     "Lap_of_fastest_lap": "14:31:49",
@@ -76,6 +100,14 @@
                                     "Lap_of_fastest_lap": "09:29:32",
                                     "Laps": "9",
                                     "Car_number": "64"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
+                                    "Gap": "0.405",
+                                    "Average_speed": "157.488",
+                                    "Lap_of_fastest_lap": "09:29:32",
+                                    "Laps": "9",
+                                    "Car_number": "64"
                                 }
                             ]
                         },
@@ -89,6 +121,14 @@
                             "other_Info": [
                                 {
                                     "Elapsed_times": "N/A",
+                                    "Gap": "0.854",
+                                    "Average_speed": "156.923",
+                                    "Lap_of_fastest_lap": "09:52:00",
+                                    "Laps": "12",
+                                    "Car_number": "25"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
                                     "Gap": "0.854",
                                     "Average_speed": "156.923",
                                     "Lap_of_fastest_lap": "09:52:00",
@@ -112,6 +152,70 @@
                                     "Lap_of_fastest_lap": "09:50:02",
                                     "Laps": "12",
                                     "Car_number": "12"
+                                },
+                                {
+                                    "Elapsed_times": "31:33.224",
+                                    "Gap": "1.362",
+                                    "Average_speed": "156.288",
+                                    "Lap_of_fastest_lap": "09:50:02",
+                                    "Laps": "12",
+                                    "Car_number": "12"
+                                }
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "64": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:04.909",
+                            "drivers": [
+                                "Maya_Weug"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "32:25.546",
+                                    "Gap": "1.316",
+                                    "Average_speed": "130.771",
+                                    "Lap_of_fastest_lap": "12",
+                                    "Laps": "13",
+                                    "Car_number": "64"
+                                }
+                            ]
+                        },
+                        "12": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:05.153",
+                            "drivers": [
+                                "Alba_Larsen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "32:39.123",
+                                    "Gap": "14.893",
+                                    "Average_speed": "129.865",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "13",
+                                    "Car_number": "12"
+                                }
+                            ]
+                        },
+                        "25": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "2:10.702",
+                            "drivers": [
+                                "Joanne_Ciconte"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "34:03.313",
+                                    "Gap": "99.083",
+                                    "Average_speed": "124.514",
+                                    "Lap_of_fastest_lap": "5",
+                                    "Laps": "13",
+                                    "Car_number": "25"
                                 }
                             ]
                         }

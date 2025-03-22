@@ -222,6 +222,69 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "5": {
+                            "position": "18",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+53.940s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "27": {
+                            "position": "19",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+56.682s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "27": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:31.632",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "27",
+                                    "Q1": "1:31.921",
+                                    "Q2": "1:31.632"
+                                }
+                            ]
+                        },
+                        "5": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:32.141",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "5",
+                                    "Q1": "1:32.141"
+                                }
+                            ]
+                        }
                     }
                 }
             }

@@ -224,6 +224,72 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "22": {
+                            "position": "6",
+                            "points": "3",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+22.288s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "6": {
+                            "position": "13",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+42.400s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "6": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:31.079",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "6",
+                                    "Q1": "1:31.162",
+                                    "Q2": "1:31.253",
+                                    "Q3": "1:31.079"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:31.238",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "19",
+                                    "Car_number": "22",
+                                    "Q1": "1:31.238",
+                                    "Q2": "1:31.260",
+                                    "Q3": "1:31.638"
+                                }
+                            ]
+                        }
                     }
                 }
             }

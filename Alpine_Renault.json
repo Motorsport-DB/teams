@@ -224,6 +224,68 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "10": {
+                            "position": "12",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+39.649s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "20",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+70.212s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "10": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:31.992",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "10",
+                                    "Q1": "1:31.992"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:32.092",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "8",
+                                    "Car_number": "7",
+                                    "Q1": "1:32.092"
+                                }
+                            ]
+                        }
                     }
                 }
             }

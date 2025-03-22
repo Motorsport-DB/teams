@@ -225,6 +225,72 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "81": {
+                            "position": "2",
+                            "points": "7",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+6.889s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "8",
+                            "points": "1",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+23.471s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "81": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:30.641",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "81",
+                                    "Q1": "1:31.591",
+                                    "Q2": "1:31.200",
+                                    "Q3": "1:30.641"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:30.787",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_number": "4",
+                                    "Q1": "1:30.983",
+                                    "Q2": "1:30.787",
+                                    "Q3": "1:30.793"
+                                }
+                            ]
+                        }
                     }
                 }
             }

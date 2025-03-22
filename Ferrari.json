@@ -225,6 +225,72 @@
                                 }
                             ]
                         }
+                    },
+                    "SPRINT": {
+                        "44": {
+                            "position": "1",
+                            "points": "8",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "30:39.965",
+                                    "Laps": "19"
+                                }
+                            ]
+                        },
+                        "16": {
+                            "position": "5",
+                            "points": "4",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+12.190s",
+                                    "Laps": "19"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "44": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:30.927",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_number": "44",
+                                    "Q1": "1:31.690",
+                                    "Q2": "1:31.501",
+                                    "Q3": "1:30.927"
+                                }
+                            ]
+                        },
+                        "16": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:31.021",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_number": "16",
+                                    "Q1": "1:31.579",
+                                    "Q2": "1:31.450",
+                                    "Q3": "1:31.021"
+                                }
+                            ]
+                        }
                     }
                 }
             }
