@@ -287,6 +287,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "18": {
+                            "position": "9",
+                            "points": "2",
+                            "fastest_lap": "1:36.044",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "204.318",
+                                    "Lap_of_fastest_lap": "39",
+                                    "Gap": "+70.204s",
+                                    "Laps": "56"
+                                }
+                            ]
+                        },
+                        "14": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "1:39.256",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "197.706",
+                                    "Lap_of_fastest_lap": "3",
+                                    "Gap": "DNF",
+                                    "Laps": "4"
+                                }
+                            ]
+                        }
                     }
                 }
             }
