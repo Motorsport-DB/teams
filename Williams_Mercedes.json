@@ -291,6 +291,167 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "55": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:29.333",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "28",
+                                    "Car_Number": "55"
+                                }
+                            ]
+                        },
+                        "23": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:29.392",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "25",
+                                    "Car_Number": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "55": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:28.832",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_Number": "55"
+                                }
+                            ]
+                        },
+                        "23": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:29.023",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "11",
+                                    "Car_Number": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "23": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:28.554",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "19",
+                                    "Car_Number": "23"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:28.846",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "22",
+                                    "Car_Number": "55"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "23": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:27.615",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "23",
+                                    "Q1": "1:28.218",
+                                    "Q2": "1:27.783",
+                                    "Q3": "1:27.615"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:27.836",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "55",
+                                    "Q1": "1:28.209",
+                                    "Q2": "1:27.836"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "23": {
+                            "position": "9",
+                            "points": "2",
+                            "fastest_lap": "1:31.125",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.412",
+                                    "Lap_of_fastest_lap": "52",
+                                    "Gap": "+40.367s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "14",
+                            "points": "0",
+                            "fastest_lap": "1:31.106",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.460",
+                                    "Lap_of_fastest_lap": "36",
+                                    "Gap": "+74.129s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

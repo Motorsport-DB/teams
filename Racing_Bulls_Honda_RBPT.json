@@ -291,6 +291,167 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "6": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:29.225",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "28",
+                                    "Car_Number": "6"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:29.536",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "28",
+                                    "Car_Number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "6": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:28.518",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_Number": "6"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:28.559",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_Number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "6": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:28.786",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "16",
+                                    "Car_Number": "6"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:29.104",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "19",
+                                    "Car_Number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "6": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:27.569",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "18",
+                                    "Car_number": "6",
+                                    "Q1": "1:28.278",
+                                    "Q2": "1:27.775",
+                                    "Q3": "1:27.569"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:27.906",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_number": "30",
+                                    "Q1": "1:28.554",
+                                    "Q2": "1:27.906"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "6": {
+                            "position": "8",
+                            "points": "4",
+                            "fastest_lap": "1:31.317",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "228.929",
+                                    "Lap_of_fastest_lap": "52",
+                                    "Gap": "+37.134s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "17",
+                            "points": "0",
+                            "fastest_lap": "1:32.043",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "227.124",
+                                    "Lap_of_fastest_lap": "39",
+                                    "Gap": "+82.734s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         }

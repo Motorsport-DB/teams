@@ -271,6 +271,166 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "87": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:30.077",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "87"
+                                }
+                            ]
+                        },
+                        "31": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:30.123",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_Number": "31"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "31": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:29.507",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_Number": "31"
+                                }
+                            ]
+                        },
+                        "87": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:29.654",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "10",
+                                    "Car_Number": "87"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "87": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:30.084",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "87"
+                                }
+                            ]
+                        },
+                        "31": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:30.183",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "31"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "87": {
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:27.711",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_number": "87",
+                                    "Q1": "1:28.228",
+                                    "Q2": "1:27.711",
+                                    "Q3": "1:27.867"
+                                }
+                            ]
+                        },
+                        "31": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:28.696",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "31",
+                                    "Q1": "1:28.696"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "87": {
+                            "position": "10",
+                            "points": "1",
+                            "fastest_lap": "1:32.006",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "227.215",
+                                    "Lap_of_fastest_lap": "49",
+                                    "Gap": "+54.529s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "31": {
+                            "position": "18",
+                            "points": "0",
+                            "fastest_lap": "1:31.967",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "227.311",
+                                    "Lap_of_fastest_lap": "48",
+                                    "Gap": "+83.438s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

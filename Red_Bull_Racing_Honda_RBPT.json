@@ -288,6 +288,167 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "1": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:29.065",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "1"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:29.172",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "25",
+                                    "Car_Number": "22"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "1": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:28.670",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_Number": "1"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:30.625",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_Number": "22"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "1": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:28.497",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_Number": "1"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:28.785",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_Number": "22"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "1": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:26.983",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_number": "1",
+                                    "Q1": "1:27.943",
+                                    "Q2": "1:27.502",
+                                    "Q3": "1:26.983"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:27.967",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_number": "22",
+                                    "Q1": "1:27.967",
+                                    "Q2": "1:28.000"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "1": {
+                            "position": "1",
+                            "points": "25",
+                            "fastest_lap": "1:31.041",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.624",
+                                    "Lap_of_fastest_lap": "52",
+                                    "Gap": "1:22:06.983",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "12",
+                            "points": "0",
+                            "fastest_lap": "1:31.871",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "227.549",
+                                    "Lap_of_fastest_lap": "51",
+                                    "Gap": "+58.401s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

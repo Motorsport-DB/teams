@@ -292,6 +292,168 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "4": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:28.549",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "24",
+                                    "Car_Number": "4"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:29.708",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "25",
+                                    "Car_Number": "81"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "81": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:28.114",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_Number": "81"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:28.163",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_Number": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "4": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:27.965",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "4"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:27.991",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "17",
+                                    "Car_Number": "81"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "4": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:26.995",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "4",
+                                    "Q1": "1:27.845",
+                                    "Q2": "1:27.146",
+                                    "Q3": "1:26.995"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:27.027",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "18",
+                                    "Car_number": "81",
+                                    "Q1": "1:27.687",
+                                    "Q2": "1:27.507",
+                                    "Q3": "1:27.027"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "4": {
+                            "position": "2",
+                            "points": "18",
+                            "fastest_lap": "1:31.116",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.435",
+                                    "Lap_of_fastest_lap": "51",
+                                    "Gap": "+1.423s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "81": {
+                            "position": "3",
+                            "points": "15",
+                            "fastest_lap": "1:31.039",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "229.629",
+                                    "Lap_of_fastest_lap": "53",
+                                    "Gap": "+2.129s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

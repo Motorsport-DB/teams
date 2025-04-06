@@ -287,6 +287,165 @@
                             ]
                         }
                     }
+                },
+                "LENOVO JAPANESE GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "62": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:29.394",
+                            "drivers": [
+                                "Ryo_Hirakawa"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "24",
+                                    "Car_Number": "62"
+                                }
+                            ]
+                        },
+                        "10": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:29.547",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "10"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "10": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:28.757",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_Number": "10"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:31.659",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "4",
+                                    "Car_Number": "7"
+                                }
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "10": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:28.603",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_Number": "10"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:29.767",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_Number": "7"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "10": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:27.822",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "12",
+                                    "Car_number": "10",
+                                    "Q1": "1:28.186",
+                                    "Q2": "1:27.822"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:28.877",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "7",
+                                    "Q1": "1:28.877"
+                                }
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "10": {
+                            "position": "13",
+                            "points": "0",
+                            "fastest_lap": "1:31.820",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "227.675",
+                                    "Lap_of_fastest_lap": "52",
+                                    "Gap": "+62.122s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "15",
+                            "points": "0",
+                            "fastest_lap": "1:32.685",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "225.551",
+                                    "Lap_of_fastest_lap": "47",
+                                    "Gap": "+81.314s",
+                                    "Laps": "53"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
