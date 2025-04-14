@@ -617,6 +617,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "1": {
+                            "position": "6",
+                            "points": "8",
+                            "fastest_lap": "1:36.167",
+                            "drivers": [
+                                "Max_Verstappen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "202.597",
+                                    "Lap_of_fastest_lap": "29",
+                                    "Gap": "+34.395s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "22": {
+                            "position": "9",
+                            "points": "2",
+                            "fastest_lap": "1:37.225",
+                            "drivers": [
+                                "Yuki_Tsunoda"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "200.392",
+                                    "Lap_of_fastest_lap": "45",
+                                    "Gap": "+45.061s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        }
                     }
                 }
             }
