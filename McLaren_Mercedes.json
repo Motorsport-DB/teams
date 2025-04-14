@@ -622,6 +622,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "81": {
+                            "position": "1",
+                            "points": "25",
+                            "fastest_lap": "1:35.140",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "204.784",
+                                    "Lap_of_fastest_lap": "36",
+                                    "Gap": "1:35:39.435",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "3",
+                            "points": "15",
+                            "fastest_lap": "1:35.728",
+                            "drivers": [
+                                "Lando_Norris"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "203.526",
+                                    "Lap_of_fastest_lap": "38",
+                                    "Gap": "+16.273s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        }
                     }
                 }
             }
