@@ -11,10 +11,11 @@
         "2017"
     ],
     "previous": [
-        "?"
+        "?",
+        "Campos_Vexatec_Racing"
     ],
     "next": [
-        "Barwa_Addax_Team",
+        "?",
         "Campos_Vexatec_Racing"
     ],
     "seasons": {
@@ -473,6 +474,26 @@
                     }
                 },
                 "Sakhir": {
+                    "Feature Race": {
+                        "12": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:53.192",
+                            "drivers": [
+                                "Nikola_Tsolov"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "42:16.037",
+                                    "Gap": "11.031",
+                                    "Average_speed": "168.666",
+                                    "Lap_of_fastest_lap": "5",
+                                    "Laps": "22",
+                                    "Car_number": "12"
+                                }
+                            ]
+                        }
+                    },
                     "Sprint Race": {
                         "12": {
                             "position": "1",
@@ -901,222 +922,6 @@
                                     "Lap_of_fastest_lap": "9",
                                     "Laps": "11",
                                     "Car_number": "18"
-                                }
-                            ]
-                        }
-                    }
-                }
-            },
-            "Formula 3": {
-                "Sakhir": {
-                    "Feature Race": {
-                        "12": {
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:53.192",
-                            "drivers": [
-                                "Nikola_Tsolov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "42:16.037",
-                                    "Gap": "11.031",
-                                    "Average_speed": "168.666",
-                                    "Lap_of_fastest_lap": "5",
-                                    "Laps": "22",
-                                    "Car_number": "12"
-                                }
-                            ]
-                        },
-                        "10": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:53.269",
-                            "drivers": [
-                                "Mari_Boya"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "42:22.264",
-                                    "Gap": "17.258",
-                                    "Average_speed": "168.253",
-                                    "Lap_of_fastest_lap": "5",
-                                    "Laps": "22",
-                                    "Car_number": "10"
-                                }
-                            ]
-                        },
-                        "11": {
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:53.194",
-                            "drivers": [
-                                "Tasanapol_Inthraphuvasak"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "42:38.372",
-                                    "Gap": "33.366",
-                                    "Average_speed": "167.194",
-                                    "Lap_of_fastest_lap": "5",
-                                    "Laps": "22",
-                                    "Car_number": "11"
-                                }
-                            ]
-                        }
-                    },
-                    "Sprint Race": {
-                        "12": {
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:53.561",
-                            "drivers": [
-                                "Nikola_Tsolov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "39:51.263",
-                                    "Gap": "-",
-                                    "Average_speed": "154.435",
-                                    "Lap_of_fastest_lap": "3",
-                                    "Laps": "19",
-                                    "Car_number": "12"
-                                }
-                            ]
-                        },
-                        "10": {
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:53.973",
-                            "drivers": [
-                                "Mari_Boya"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "40:00.405",
-                                    "Gap": "9.142",
-                                    "Average_speed": "153.847",
-                                    "Lap_of_fastest_lap": "7",
-                                    "Laps": "19",
-                                    "Car_number": "10"
-                                }
-                            ]
-                        },
-                        "11": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:53.934",
-                            "drivers": [
-                                "Tasanapol_Inthraphuvasak"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "40:02.014",
-                                    "Gap": "10.751",
-                                    "Average_speed": "153.743",
-                                    "Lap_of_fastest_lap": "10",
-                                    "Laps": "19",
-                                    "Car_number": "11"
-                                }
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "12": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:49.898",
-                            "drivers": [
-                                "Nikola_Tsolov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.684",
-                                    "Average_speed": "177.284",
-                                    "Laps": "11",
-                                    "Car_number": "12"
-                                }
-                            ]
-                        },
-                        "11": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:50.217",
-                            "drivers": [
-                                "Tasanapol_Inthraphuvasak"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.003",
-                                    "Average_speed": "176.771",
-                                    "Laps": "12",
-                                    "Car_number": "11"
-                                }
-                            ]
-                        },
-                        "10": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:50.380",
-                            "drivers": [
-                                "Mari_Boya"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.166",
-                                    "Average_speed": "176.510",
-                                    "Laps": "11",
-                                    "Car_number": "10"
-                                }
-                            ]
-                        }
-                    },
-                    "Practice": {
-                        "12": {
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:51.111",
-                            "drivers": [
-                                "Nikola_Tsolov"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.127",
-                                    "Average_speed": "175.348",
-                                    "Laps": "6",
-                                    "Car_number": "12"
-                                }
-                            ]
-                        },
-                        "10": {
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:51.520",
-                            "drivers": [
-                                "Mari_Boya"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.536",
-                                    "Average_speed": "174.705",
-                                    "Laps": "7",
-                                    "Car_number": "10"
-                                }
-                            ]
-                        },
-                        "11": {
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:51.769",
-                            "drivers": [
-                                "Tasanapol_Inthraphuvasak"
-                            ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.785",
-                                    "Average_speed": "174.316",
-                                    "Laps": "7",
-                                    "Car_number": "11"
                                 }
                             ]
                         }
