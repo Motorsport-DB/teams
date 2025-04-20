@@ -10,153 +10,51 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "60": {
-                            "position": "35",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Claudio_Schiavoni",
-                                "Matteo_Cressoni",
-                                "Matteo_Cairoli"
-                            ],
-                            "other_info": {
-                                "Laps": "0"
-                            }
-                        },
-                        "61": {
-                            "position": "36",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Christian_Ried",
-                                "Lin_Hodenius",
-                                "Maxime_Martin"
-                            ],
-                            "other_info": {
-                                "Laps": "0"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "60": {
-                            "position": "35",
-                            "points": 0,
-                            "fastest_lap": "1:56.866",
-                            "drivers": [
-                                "Claudio_Schiavoni",
-                                "Matteo_Cressoni",
-                                "Matteo_Cairoli"
-                            ],
-                            "other_info": {
-                                "Laps": "42"
-                            }
-                        },
-                        "61": {
-                            "position": "36",
-                            "points": 0,
-                            "fastest_lap": "1:57.174",
-                            "drivers": [
-                                "Christian_Ried",
-                                "Lin_Hodenius",
-                                "Maxime_Martin"
-                            ],
-                            "other_info": {
-                                "Laps": "37"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "60": {
-                            "position": "31",
-                            "points": 0,
-                            "fastest_lap": "1:56.034",
-                            "drivers": [
-                                "Claudio_Schiavoni",
-                                "Matteo_Cressoni",
-                                "Matteo_Cairoli"
-                            ],
-                            "other_info": {
-                                "Laps": "27"
-                            }
-                        },
-                        "61": {
-                            "position": "36",
-                            "points": 0,
-                            "fastest_lap": "1:56.561",
-                            "drivers": [
-                                "Christian_Ried",
-                                "Lin_Hodenius",
-                                "Maxime_Martin"
-                            ],
-                            "other_info": {
-                                "Laps": "24"
-                            }
-                        }
-                    },
+                "6 Hours of Imola": {
                     "LMGT3 Qualifying": {
-                        "61": {
+                        "60": {
                             "position": "17",
                             "points": 0,
-                            "fastest_lap": "1:58.554",
+                            "fastest_lap": "1'46.619",
                             "drivers": [
-                                "Christian_Ried",
-                                "Lin_Hodenius",
-                                "Maxime_Martin"
+                                "Claudio_Schiavoni",
+                                "Matteo_Cressoni",
+                                "Matteo_Cairoli"
                             ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        },
-                        "60": {
+                            "other_Info": [
+                                {
+                                    "Average_speed": "165.752 Km/h",
+                                    "Laps": "6",
+                                    "Car_number": "60",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "LMGT3 Qualifying": {
+                        "61": {
                             "position": "18",
                             "points": 0,
-                            "fastest_lap": "1:59.194",
-                            "drivers": [
-                                "Claudio_Schiavoni",
-                                "Matteo_Cressoni",
-                                "Matteo_Cairoli"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "60": {
-                            "position": "31",
-                            "points": 0,
-                            "fastest_lap": "1:56.164",
-                            "drivers": [
-                                "Claudio_Schiavoni",
-                                "Matteo_Cressoni",
-                                "Matteo_Cairoli"
-                            ],
-                            "other_info": {
-                                "Laps": "194",
-                                "Elapsed_time": "10:01:50.175",
-                                "Gap": "124 Laps",
-                                "Best_lap_number": "159",
-                                "Best_speed": "166.5 km/h"
-                            }
-                        },
-                        "61": {
-                            "position": "34",
-                            "points": 0,
-                            "fastest_lap": "1:56.834",
+                            "fastest_lap": "1'46.636",
                             "drivers": [
                                 "Christian_Ried",
                                 "Lin_Hodenius",
                                 "Maxime_Martin"
                             ],
-                            "other_info": {
-                                "Laps": "59",
-                                "Elapsed_time": "2:08:30.745",
-                                "Gap": "259 Laps",
-                                "Best_lap_number": "49",
-                                "Best_speed": "166.9 km/h"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "165.726 Km/h",
+                                    "Laps": "7",
+                                    "Car_number": "61",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
                     }
                 }

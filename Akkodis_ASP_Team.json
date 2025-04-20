@@ -10,181 +10,51 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "78": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:55.623",
-                            "drivers": [
-                                "Arnold_Robin",
-                                "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
-                            ],
-                            "other_info": {
-                                "Laps": "35"
-                            }
-                        },
+                "6 Hours of Imola": {
+                    "LMGT3 Hyperpole": {
                         "87": {
-                            "position": "23",
-                            "points": 0,
-                            "fastest_lap": "1:56.016",
-                            "drivers": [
-                                "Răzvan_Umbrărescu",
-                                "Clemens_Schmid",
-                                "José María_López"
-                            ],
-                            "other_info": {
-                                "Laps": "33"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "78": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:54.693",
-                            "drivers": [
-                                "Arnold_Robin",
-                                "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
-                            ],
-                            "other_info": {
-                                "Laps": "42"
-                            }
-                        },
-                        "87": {
-                            "position": "21",
-                            "points": 0,
-                            "fastest_lap": "1:54.742",
-                            "drivers": [
-                                "Răzvan_Umbrărescu",
-                                "Clemens_Schmid",
-                                "José María_López"
-                            ],
-                            "other_info": {
-                                "Laps": "38"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "78": {
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:54.661",
-                            "drivers": [
-                                "Arnold_Robin",
-                                "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
-                            ],
-                            "other_info": {
-                                "Laps": "15"
-                            }
-                        },
-                        "87": {
-                            "position": "23",
-                            "points": 0,
-                            "fastest_lap": "1:55.215",
-                            "drivers": [
-                                "Răzvan_Umbrărescu",
-                                "Clemens_Schmid",
-                                "José María_López"
-                            ],
-                            "other_info": {
-                                "Laps": "23"
-                            }
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "78": {
                             "position": "2",
                             "points": 0,
-                            "fastest_lap": "1:54.924",
-                            "drivers": [
-                                "Arnold_Robin",
-                                "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        },
-                        "87": {
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:55.477",
+                            "fastest_lap": "1'42.661",
                             "drivers": [
                                 "Răzvan_Umbrărescu",
                                 "Clemens_Schmid",
                                 "José María_López"
                             ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "172.143 Km/h",
+                                    "Laps": "5",
+                                    "Car_number": "87",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
-                    },
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
                     "LMGT3 Hyperpole": {
                         "78": {
-                            "position": "3",
+                            "position": "5",
                             "points": 0,
-                            "fastest_lap": "1:54.484",
+                            "fastest_lap": "1'43.132",
                             "drivers": [
                                 "Arnold_Robin",
                                 "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
+                                "Esteban_Masson"
                             ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        },
-                        "87": {
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:54.658",
-                            "drivers": [
-                                "Răzvan_Umbrărescu",
-                                "Clemens_Schmid",
-                                "José María_López"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "78": {
-                            "position": "21",
-                            "points": 18,
-                            "fastest_lap": "1:54.434",
-                            "drivers": [
-                                "Arnold_Robin",
-                                "Finn_Gehrsitz",
-                                "Ben_Barnicoat"
-                            ],
-                            "other_info": {
-                                "Laps": "286",
-                                "Elapsed_time": "10:01:41.795",
-                                "Gap": "32 Laps",
-                                "Best_lap_number": "266",
-                                "Best_speed": "170.4 km/h"
-                            }
-                        },
-                        "87": {
-                            "position": "36",
-                            "points": 0,
-                            "fastest_lap": "1:56.438",
-                            "drivers": [
-                                "Răzvan_Umbrărescu",
-                                "Clemens_Schmid",
-                                "José María_López"
-                            ],
-                            "other_info": {
-                                "Laps": "15",
-                                "Elapsed_time": "2:41:48.566",
-                                "Gap": "303 Laps",
-                                "Best_lap_number": "9",
-                                "Best_speed": "167.5 km/h"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "171.357 Km/h",
+                                    "Laps": "6",
+                                    "Car_number": "78",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
                     }
                 }

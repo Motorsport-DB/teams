@@ -10,99 +10,51 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "83": {
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:42.730",
-                            "drivers": [
-                                "Robert_Kubica",
-                                "Ye_Yifei",
-                                "Philip_Hanson"
-                            ],
-                            "other_info": {
-                                "Laps": "30"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "83": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:40.712",
-                            "drivers": [
-                                "Robert_Kubica",
-                                "Ye_Yifei",
-                                "Philip_Hanson"
-                            ],
-                            "other_info": {
-                                "Laps": "39"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "83": {
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:39.890",
-                            "drivers": [
-                                "Robert_Kubica",
-                                "Ye_Yifei",
-                                "Philip_Hanson"
-                            ],
-                            "other_info": {
-                                "Laps": "28"
-                            }
-                        }
-                    },
+                "6 Hours of Imola": {
                     "Hypercar Qualifying": {
                         "83": {
-                            "position": "6",
+                            "position": "2",
                             "points": 0,
-                            "fastest_lap": "1:39.326",
+                            "fastest_lap": "1'29.993",
                             "drivers": [
                                 "Robert_Kubica",
                                 "Ye_Yifei",
                                 "Philip_Hanson"
                             ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "196.375 Km/h",
+                                    "Laps": "6",
+                                    "Car_number": "83",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
                         }
-                    },
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
                     "Hypercar Hyperpole": {
                         "83": {
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:39.299",
-                            "drivers": [
-                                "Robert_Kubica",
-                                "Ye_Yifei",
-                                "Philip_Hanson"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "83": {
                             "position": "2",
-                            "points": 27,
-                            "fastest_lap": "1:41.339",
+                            "points": 0,
+                            "fastest_lap": "1'29.678",
                             "drivers": [
                                 "Robert_Kubica",
                                 "Ye_Yifei",
                                 "Philip_Hanson"
                             ],
-                            "other_info": {
-                                "Laps": "318",
-                                "Elapsed_time": "10:01:41.446",
-                                "Gap": "+2.348",
-                                "Best_lap_number": "172",
-                                "Best_speed": "192.5 km/h"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "197.065 Km/h",
+                                    "Laps": "6",
+                                    "Car_number": "83",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
                         }
                     }
                 }

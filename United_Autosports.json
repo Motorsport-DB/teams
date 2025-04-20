@@ -9,181 +9,51 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "59": {
-                            "position": "28",
-                            "points": 0,
-                            "fastest_lap": "1:56.351",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "34"
-                            }
-                        },
-                        "95": {
-                            "position": "29",
-                            "points": 0,
-                            "fastest_lap": "1:56.370",
-                            "drivers": [
-                                "Darren_Leung",
-                                "Sean_Gelael",
-                                "Marino_Sato"
-                            ],
-                            "other_info": {
-                                "Laps": "33"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "95": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:54.557",
-                            "drivers": [
-                                "Darren_Leung",
-                                "Sean_Gelael",
-                                "Marino_Sato"
-                            ],
-                            "other_info": {
-                                "Laps": "43"
-                            }
-                        },
-                        "59": {
-                            "position": "28",
-                            "points": 0,
-                            "fastest_lap": "1:55.992",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "43"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "95": {
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:54.569",
-                            "drivers": [
-                                "Darren_Leung",
-                                "Sean_Gelael",
-                                "Marino_Sato"
-                            ],
-                            "other_info": {
-                                "Laps": "24"
-                            }
-                        },
-                        "59": {
-                            "position": "21",
-                            "points": 0,
-                            "fastest_lap": "1:54.738",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "24"
-                            }
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "95": {
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:54.851",
-                            "drivers": [
-                                "Darren_Leung",
-                                "Sean_Gelael",
-                                "Marino_Sato"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        },
-                        "59": {
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:55.248",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
+                "6 Hours of Imola": {
                     "LMGT3 Hyperpole": {
                         "95": {
-                            "position": "1",
-                            "points": 1,
-                            "fastest_lap": "1:54.239",
-                            "drivers": [
-                                "Darren_Leung",
-                                "Sean_Gelael",
-                                "Marino_Sato"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        },
-                        "59": {
-                            "position": "2",
+                            "position": "8",
                             "points": 0,
-                            "fastest_lap": "1:54.478",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "59": {
-                            "position": "19",
-                            "points": 27,
-                            "fastest_lap": "1:54.048",
-                            "drivers": [
-                                "James_Cottingham",
-                                "Sébastien_Baud",
-                                "Grégoire_Saucy"
-                            ],
-                            "other_info": {
-                                "Laps": "287",
-                                "Elapsed_time": "10:03:04.543",
-                                "Gap": "31 Laps",
-                                "Best_lap_number": "267",
-                                "Best_speed": "171.0 km/h"
-                            }
-                        },
-                        "95": {
-                            "position": "24",
-                            "points": 9,
-                            "fastest_lap": "1:54.625",
+                            "fastest_lap": "1'43.413",
                             "drivers": [
                                 "Darren_Leung",
                                 "Sean_Gelael",
                                 "Marino_Sato"
                             ],
-                            "other_info": {
-                                "Laps": "286",
-                                "Elapsed_time": "10:02:17.109",
-                                "Gap": "32 Laps",
-                                "Best_lap_number": "155",
-                                "Best_speed": "170.2 km/h"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "170.891 Km/h",
+                                    "Laps": "5",
+                                    "Car_number": "95",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "LMGT3 Hyperpole": {
+                        "59": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1'43.721",
+                            "drivers": [
+                                "James_Cottingham",
+                                "Sébastien_Baud",
+                                "Grégoire_Saucy"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed": "170.384 Km/h",
+                                    "Laps": "5",
+                                    "Car_number": "59",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
                     }
                 }

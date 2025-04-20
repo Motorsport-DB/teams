@@ -9,84 +9,51 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "31": {
-                            "position": "22",
-                            "points": 0,
-                            "fastest_lap": "1:55.940",
-                            "drivers": [
-                                "Yasser_Shahin",
-                                "Timur_Boguslavskiy",
-                                "Augusto_Farfus"
-                            ],
-                            "other_info": {
-                                "Laps": "36"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "31": {
-                            "position": "29",
-                            "points": 0,
-                            "fastest_lap": "1:56.077",
-                            "drivers": [
-                                "Yasser_Shahin",
-                                "Timur_Boguslavskiy",
-                                "Augusto_Farfus"
-                            ],
-                            "other_info": {
-                                "Laps": "41"
-                            }
-                        }
-                    },
+                "6 Hours of Imola": {
                     "Free Practice 3": {
                         "31": {
-                            "position": "29",
+                            "position": "20",
                             "points": 0,
-                            "fastest_lap": "1:55.926",
+                            "fastest_lap": "1'43.259",
                             "drivers": [
                                 "Yasser_Shahin",
                                 "Timur_Boguslavskiy",
                                 "Augusto_Farfus"
                             ],
-                            "other_info": {
-                                "Laps": "26"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "171.146 Km/h",
+                                    "Laps": "19",
+                                    "Car_number": "31",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
-                    },
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
                     "LMGT3 Qualifying": {
                         "31": {
-                            "position": "14",
+                            "position": "12",
                             "points": 0,
-                            "fastest_lap": "1:56.869",
+                            "fastest_lap": "1'44.376",
                             "drivers": [
                                 "Yasser_Shahin",
                                 "Timur_Boguslavskiy",
                                 "Augusto_Farfus"
                             ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "31": {
-                            "position": "20",
-                            "points": 23,
-                            "fastest_lap": "1:54.902",
-                            "drivers": [
-                                "Yasser_Shahin",
-                                "Timur_Boguslavskiy",
-                                "Augusto_Farfus"
-                            ],
-                            "other_info": {
-                                "Laps": "286",
-                                "Elapsed_time": "10:01:41.584",
-                                "Gap": "32 Laps",
-                                "Best_lap_number": "216",
-                                "Best_speed": "169.8 km/h"
-                            }
+                            "other_Info": [
+                                {
+                                    "Average_speed": "169.314 Km/h",
+                                    "Laps": "7",
+                                    "Car_number": "31",
+                                    "Class": "LMGT3"
+                                }
+                            ]
                         }
                     }
                 }

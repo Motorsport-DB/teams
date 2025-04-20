@@ -895,6 +895,14 @@
                                     "Lap_of_fastest_lap": "22:03:42",
                                     "Laps": "10",
                                     "Car_number": "28"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
+                                    "Gap": "0.255",
+                                    "Average_speed": "178.417",
+                                    "Lap_of_fastest_lap": "22:03:42",
+                                    "Laps": "10",
+                                    "Car_number": "28"
                                 }
                             ]
                         },
@@ -913,6 +921,14 @@
                                     "Lap_of_fastest_lap": "22:05:50",
                                     "Laps": "10",
                                     "Car_number": "78"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
+                                    "Gap": "0.653",
+                                    "Average_speed": "177.849",
+                                    "Lap_of_fastest_lap": "22:05:50",
+                                    "Laps": "10",
+                                    "Car_number": "78"
                                 }
                             ]
                         },
@@ -926,6 +942,14 @@
                             "other_Info": [
                                 {
                                     "Elapsed_times": "N/A",
+                                    "Gap": "1.060",
+                                    "Average_speed": "177.272",
+                                    "Lap_of_fastest_lap": "22:06:34",
+                                    "Laps": "10",
+                                    "Car_number": "3"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
                                     "Gap": "1.060",
                                     "Average_speed": "177.272",
                                     "Lap_of_fastest_lap": "22:06:34",
@@ -951,6 +975,14 @@
                                     "Lap_of_fastest_lap": "14:45:52",
                                     "Laps": "14",
                                     "Car_number": "28"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
+                                    "Gap": "0.209",
+                                    "Average_speed": "177.009",
+                                    "Lap_of_fastest_lap": "14:45:52",
+                                    "Laps": "14",
+                                    "Car_number": "28"
                                 }
                             ]
                         },
@@ -964,6 +996,14 @@
                             "other_Info": [
                                 {
                                     "Elapsed_times": "N/A",
+                                    "Gap": "1.050",
+                                    "Average_speed": "175.832",
+                                    "Lap_of_fastest_lap": "14:39:43",
+                                    "Laps": "14",
+                                    "Car_number": "78"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
                                     "Gap": "1.050",
                                     "Average_speed": "175.832",
                                     "Lap_of_fastest_lap": "14:39:43",
@@ -986,6 +1026,126 @@
                                     "Average_speed": "175.367",
                                     "Lap_of_fastest_lap": "14:46:10",
                                     "Laps": "14",
+                                    "Car_number": "3"
+                                },
+                                {
+                                    "Elapsed_times": "31:38.880",
+                                    "Gap": "1.385",
+                                    "Average_speed": "175.367",
+                                    "Lap_of_fastest_lap": "14:46:10",
+                                    "Laps": "14",
+                                    "Car_number": "3"
+                                }
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "28": {
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:05.367",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "27:21.699",
+                                    "Gap": "2.849",
+                                    "Average_speed": "175.454",
+                                    "Lap_of_fastest_lap": "9",
+                                    "Laps": "13",
+                                    "Car_number": "28"
+                                }
+                            ]
+                        },
+                        "78": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2:05.811",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "27:27.217",
+                                    "Gap": "8.367",
+                                    "Average_speed": "174.866",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "13",
+                                    "Car_number": "78"
+                                }
+                            ]
+                        },
+                        "3": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:05.932",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "27:32.992",
+                                    "Gap": "14.142",
+                                    "Average_speed": "174.255",
+                                    "Lap_of_fastest_lap": "9",
+                                    "Laps": "13",
+                                    "Car_number": "3"
+                                }
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "28": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:05.225",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "30:02.919",
+                                    "Gap": "2.049",
+                                    "Average_speed": "159.764",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "13",
+                                    "Car_number": "28"
+                                }
+                            ]
+                        },
+                        "78": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2:05.849",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "30:06.028",
+                                    "Gap": "5.158",
+                                    "Average_speed": "159.489",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "13",
+                                    "Car_number": "78"
+                                }
+                            ]
+                        },
+                        "3": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2:06.110",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "30:10.207",
+                                    "Gap": "9.337",
+                                    "Average_speed": "159.121",
+                                    "Lap_of_fastest_lap": "12",
+                                    "Laps": "13",
                                     "Car_number": "3"
                                 }
                             ]
