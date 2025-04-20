@@ -304,6 +304,82 @@
                                 }
                             ]
                         }
+                    },
+                    "Feature Race": {
+                        "1": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:46.954",
+                            "drivers": [
+                                "Leonardo_Fornaroli"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:40.503",
+                                    "Gap": "6.574",
+                                    "Average_speed": "200.431",
+                                    "Lap_of_fastest_lap": "28",
+                                    "Laps": "28",
+                                    "Car_number": "1"
+                                }
+                            ]
+                        },
+                        "2": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:46.849",
+                            "drivers": [
+                                "Roman_Staněk"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:54.583",
+                                    "Gap": "20.654",
+                                    "Average_speed": "199.525",
+                                    "Lap_of_fastest_lap": "26",
+                                    "Laps": "28",
+                                    "Car_number": "2"
+                                }
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "2": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:47.349",
+                            "drivers": [
+                                "Roman_Staněk"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:19.591",
+                                    "Gap": "3.532",
+                                    "Average_speed": "192.916",
+                                    "Lap_of_fastest_lap": "20",
+                                    "Laps": "20",
+                                    "Car_number": "2"
+                                }
+                            ]
+                        },
+                        "1": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:47.535",
+                            "drivers": [
+                                "Leonardo_Fornaroli"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:20.462",
+                                    "Gap": "4.403",
+                                    "Average_speed": "192.843",
+                                    "Lap_of_fastest_lap": "19",
+                                    "Laps": "20",
+                                    "Car_number": "1"
+                                }
+                            ]
+                        }
                     }
                 }
             }

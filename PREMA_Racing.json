@@ -290,6 +290,64 @@
                                 }
                             ]
                         }
+                    },
+                    "Feature Race": {
+                        "10": {
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:47.288",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:53.447",
+                                    "Gap": "19.518",
+                                    "Average_speed": "199.598",
+                                    "Lap_of_fastest_lap": "23",
+                                    "Laps": "28",
+                                    "Car_number": "10"
+                                }
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "10": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:47.039",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:20.313",
+                                    "Gap": "4.254",
+                                    "Average_speed": "192.855",
+                                    "Lap_of_fastest_lap": "20",
+                                    "Laps": "20",
+                                    "Car_number": "10"
+                                }
+                            ]
+                        },
+                        "9": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:47.347",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:24.303",
+                                    "Gap": "8.244",
+                                    "Average_speed": "192.521",
+                                    "Lap_of_fastest_lap": "20",
+                                    "Laps": "20",
+                                    "Car_number": "9"
+                                }
+                            ]
+                        }
                     }
                 }
             },

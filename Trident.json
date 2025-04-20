@@ -240,6 +240,64 @@
                                 }
                             ]
                         }
+                    },
+                    "Feature Race": {
+                        "23": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:47.493",
+                            "drivers": [
+                                "Max_Esterson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "52:07.859",
+                                    "Gap": "33.930",
+                                    "Average_speed": "198.678",
+                                    "Lap_of_fastest_lap": "22",
+                                    "Laps": "28",
+                                    "Car_number": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "22": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:48.170",
+                            "drivers": [
+                                "Sami_Meguetounif"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:27.172",
+                                    "Gap": "11.113",
+                                    "Average_speed": "192.282",
+                                    "Lap_of_fastest_lap": "20",
+                                    "Laps": "20",
+                                    "Car_number": "22"
+                                }
+                            ]
+                        },
+                        "23": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:48.133",
+                            "drivers": [
+                                "Max_Esterson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:31.612",
+                                    "Gap": "15.553",
+                                    "Average_speed": "191.912",
+                                    "Lap_of_fastest_lap": "15",
+                                    "Laps": "20",
+                                    "Car_number": "23"
+                                }
+                            ]
+                        }
                     }
                 }
             },

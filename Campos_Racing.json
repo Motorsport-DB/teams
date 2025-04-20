@@ -315,6 +315,82 @@
                                 }
                             ]
                         }
+                    },
+                    "Feature Race": {
+                        "3": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:47.044",
+                            "drivers": [
+                                "Josep Maria_Martí"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:43.921",
+                                    "Gap": "9.992",
+                                    "Average_speed": "200.211",
+                                    "Lap_of_fastest_lap": "27",
+                                    "Laps": "28",
+                                    "Car_number": "3"
+                                }
+                            ]
+                        },
+                        "4": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:46.999",
+                            "drivers": [
+                                "Arvid_Lindblad"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "51:49.349",
+                                    "Gap": "15.420",
+                                    "Average_speed": "199.861",
+                                    "Lap_of_fastest_lap": "28",
+                                    "Laps": "28",
+                                    "Car_number": "4"
+                                }
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "4": {
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:46.599",
+                            "drivers": [
+                                "Arvid_Lindblad"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:16.059",
+                                    "Gap": "-",
+                                    "Average_speed": "193.212",
+                                    "Lap_of_fastest_lap": "11",
+                                    "Laps": "20",
+                                    "Car_number": "4"
+                                }
+                            ]
+                        },
+                        "3": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:46.589",
+                            "drivers": [
+                                "Josep Maria_Martí"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "38:16.637",
+                                    "Gap": "0.578",
+                                    "Average_speed": "193.164",
+                                    "Lap_of_fastest_lap": "20",
+                                    "Laps": "20",
+                                    "Car_number": "3"
+                                }
+                            ]
+                        }
                     }
                 }
             },
