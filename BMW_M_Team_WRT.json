@@ -11,11 +11,37 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Hyperpole": {
-                        "15": {
-                            "position": "3",
+                    "Race": {
+                        "20": {
+                            "position": "2",
                             "points": 0,
-                            "fastest_lap": "1'29.885",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "René_Rast",
+                                "Robin_Frijns",
+                                "Sheldon_Van Der Linde"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:00'36.855",
+                                    "Laps": "212",
+                                    "Car_number": "20",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "15": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Dries_Vanthoor",
                                 "Raffaele_Marciello",
@@ -23,8 +49,8 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "196.611 Km/h",
-                                    "Laps": "6",
+                                    "Elapsed_times": "6:00'53.881",
+                                    "Laps": "212",
                                     "Car_number": "15",
                                     "Class": "HYPERCAR"
                                 }

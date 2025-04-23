@@ -11,22 +11,48 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Qualifying": {
-                        "99": {
-                            "position": "14",
+                    "Race": {
+                        "77": {
+                            "position": "28",
                             "points": 0,
-                            "fastest_lap": "1'31.382",
+                            "fastest_lap": "",
                             "drivers": [
-                                "Neel_Jani",
-                                "Nicolas_Pino",
-                                "Nicolás_Varrone"
+                                "Bernardo_Sousa",
+                                "Ben_Tuck",
+                                "Benjamin_Barker"
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "193.390 Km/h",
-                                    "Laps": "6",
-                                    "Car_number": "99",
-                                    "Class": "HYPERCAR"
+                                    "Elapsed_times": "6:01'00.667",
+                                    "Laps": "192",
+                                    "Car_number": "77",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "88": {
+                            "position": "34",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Gattuso",
+                                "Giammarco_Levorato",
+                                "Dennis_Olsen"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:01'59.172",
+                                    "Laps": "191",
+                                    "Car_number": "88",
+                                    "Class": "LMGT3"
                                 }
                             ]
                         }

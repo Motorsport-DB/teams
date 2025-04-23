@@ -11,11 +11,11 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Hyperpole": {
+                    "Race": {
                         "6": {
-                            "position": "10",
+                            "position": "8",
                             "points": 0,
-                            "fastest_lap": "1'30.815",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Kévin_Estre",
                                 "Laurens_Vanthoor",
@@ -23,9 +23,35 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "194.597 Km/h",
-                                    "Laps": "5",
+                                    "Elapsed_times": "6:01'09.645",
+                                    "Laps": "212",
                                     "Car_number": "6",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "5": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Julien_Andlauer",
+                                "Michael_Christensen",
+                                "Mathieu_Jaminet"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:01'42.585",
+                                    "Laps": "212",
+                                    "Car_number": "5",
                                     "Class": "HYPERCAR"
                                 }
                             ]

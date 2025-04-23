@@ -11,11 +11,37 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Hyperpole": {
-                        "35": {
-                            "position": "8",
+                    "Race": {
+                        "36": {
+                            "position": "3",
                             "points": 0,
-                            "fastest_lap": "1'30.305",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jules_Gounon",
+                                "Frédéric_Makowiecki",
+                                "Mick_Schumacher"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:00'40.815",
+                                    "Laps": "212",
+                                    "Car_number": "36",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "35": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Paul-Loup_Chatin",
                                 "Ferdinand_Habsburg",
@@ -23,8 +49,8 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "195.696 Km/h",
-                                    "Laps": "5",
+                                    "Elapsed_times": "6:01'44.500",
+                                    "Laps": "212",
                                     "Car_number": "35",
                                     "Class": "HYPERCAR"
                                 }

@@ -11,11 +11,11 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "LMGT3 Qualifying": {
+                    "Race": {
                         "61": {
-                            "position": "18",
+                            "position": "31",
                             "points": 0,
-                            "fastest_lap": "1'46.636",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Christian_Ried",
                                 "Lin_Hodenius",
@@ -23,9 +23,35 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "165.726 Km/h",
-                                    "Laps": "7",
+                                    "Elapsed_times": "6:01'29.469",
+                                    "Laps": "191",
                                     "Car_number": "61",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "60": {
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Claudio_Schiavoni",
+                                "Matteo_Cressoni",
+                                "Matteo_Cairoli"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:01'54.901",
+                                    "Laps": "191",
+                                    "Car_number": "60",
                                     "Class": "LMGT3"
                                 }
                             ]

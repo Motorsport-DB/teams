@@ -10,11 +10,37 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "LMGT3 Hyperpole": {
-                        "21": {
-                            "position": "4",
+                    "Race": {
+                        "54": {
+                            "position": "23",
                             "points": 0,
-                            "fastest_lap": "1'42.920",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:00'29.481",
+                                    "Laps": "192",
+                                    "Car_number": "54",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "21": {
+                            "position": "",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "François_Heriau",
                                 "Simon_Mann",
@@ -22,8 +48,8 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "171.710 Km/h",
-                                    "Laps": "6",
+                                    "Elapsed_times": "3:49'53.350",
+                                    "Laps": "119",
                                     "Car_number": "21",
                                     "Class": "LMGT3"
                                 }

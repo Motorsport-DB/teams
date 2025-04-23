@@ -10,11 +10,11 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Hyperpole": {
+                    "Race": {
                         "93": {
-                            "position": "7",
+                            "position": "9",
                             "points": 0,
-                            "fastest_lap": "1'30.301",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Paul_Di Resta",
                                 "Mikkel_Jensen",
@@ -22,9 +22,35 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "195.705 Km/h",
-                                    "Laps": "5",
+                                    "Elapsed_times": "6:01'19.269",
+                                    "Laps": "212",
                                     "Car_number": "93",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "94": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loïc_Duval",
+                                "Malthe_Jakobsen",
+                                "Stoffel_Vandoorne"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:01'43.650",
+                                    "Laps": "212",
+                                    "Car_number": "94",
                                     "Class": "HYPERCAR"
                                 }
                             ]

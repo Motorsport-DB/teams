@@ -10,11 +10,11 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "LMGT3 Hyperpole": {
+                    "Race": {
                         "81": {
-                            "position": "10",
+                            "position": "24",
                             "points": 0,
-                            "fastest_lap": "1'43.807",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Tom_Van Rompuy",
                                 "Rui_Andrade",
@@ -22,9 +22,35 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "170.242 Km/h",
-                                    "Laps": "6",
+                                    "Elapsed_times": "6:00'37.440",
+                                    "Laps": "192",
                                     "Car_number": "81",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "33": {
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ben_Keating",
+                                "Jessica_Edgar",
+                                "Daniel_Juncadella"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:00'40.998",
+                                    "Laps": "192",
+                                    "Car_number": "33",
                                     "Class": "LMGT3"
                                 }
                             ]

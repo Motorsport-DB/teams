@@ -10,20 +10,45 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "Hypercar Qualifying": {
+                    "Race": {
                         "009": {
                             "position": "17",
                             "points": 0,
-                            "fastest_lap": "1'32.853",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Alex_Riberas",
                                 "Marco_Sørensen"
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "190.326 Km/h",
-                                    "Laps": "8",
+                                    "Elapsed_times": "6:00'50.701",
+                                    "Laps": "208",
                                     "Car_number": "009",
+                                    "Class": "HYPERCAR"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "007": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Tincknell",
+                                "Tom_Gamble"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:00'57.943",
+                                    "Laps": "208",
+                                    "Car_number": "007",
                                     "Class": "HYPERCAR"
                                 }
                             ]

@@ -11,11 +11,11 @@
         "2025": {
             "World_Endurance_Championship_WEC": {
                 "6 Hours of Imola": {
-                    "LMGT3 Hyperpole": {
+                    "Race": {
                         "78": {
-                            "position": "5",
+                            "position": "21",
                             "points": 0,
-                            "fastest_lap": "1'43.132",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Arnold_Robin",
                                 "Finn_Gehrsitz",
@@ -23,9 +23,35 @@
                             ],
                             "other_Info": [
                                 {
-                                    "Average_speed": "171.357 Km/h",
-                                    "Laps": "6",
+                                    "Elapsed_times": "6:01'56.724",
+                                    "Laps": "193",
                                     "Car_number": "78",
+                                    "Class": "LMGT3"
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2025": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Race": {
+                        "87": {
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Răzvan_Umbrărescu",
+                                "Clemens_Schmid",
+                                "José María_López"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Elapsed_times": "6:02'01.521",
+                                    "Laps": "193",
+                                    "Car_number": "87",
                                     "Class": "LMGT3"
                                 }
                             ]
