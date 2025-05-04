@@ -677,6 +677,133 @@
                             ]
                         }
                     }
+                },
+                "CRYPTO.COM MIAMI GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "16": {
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:27.484",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "22",
+                                    "Car_Number": "16"
+                                }
+                            ]
+                        },
+                        "44": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:28.556",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_Number": "44"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "16": {
+                            "position": "6",
+                            "points": "1:26.808",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:27.467",
+                                    "Laps": "1:28.325"
+                                }
+                            ]
+                        },
+                        "44": {
+                            "position": "7",
+                            "points": "1:27.030",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:27.546",
+                                    "Laps": "1:28.231"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "44": {
+                            "position": "3",
+                            "points": "6",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+1.073s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        },
+                        "16": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "DNF",
+                                    "Laps": "0"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "16": {
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:26.754",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "16",
+                                    "Q1": "1:27.417",
+                                    "Q2": "1:26.948",
+                                    "Q3": "1:26.754"
+                                }
+                            ]
+                        },
+                        "44": {
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:27.006",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "44",
+                                    "Q1": "1:27.279",
+                                    "Q2": "1:27.006"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

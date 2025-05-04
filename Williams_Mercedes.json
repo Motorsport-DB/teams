@@ -673,6 +673,134 @@
                             ]
                         }
                     }
+                },
+                "CRYPTO.COM MIAMI GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "55": {
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:27.678",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "55"
+                                }
+                            ]
+                        },
+                        "23": {
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:27.955",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "25",
+                                    "Car_Number": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "23": {
+                            "position": "8",
+                            "points": "1:27.193",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:27.697",
+                                    "Laps": "1:27.859"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "15",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "DNF",
+                                    "Laps": "1:27.899"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "23": {
+                            "position": "11",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+7.522s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "DNF",
+                                    "Laps": "12"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "55": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:26.569",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "55",
+                                    "Q1": "1:27.098",
+                                    "Q2": "1:26.847",
+                                    "Q3": "1:26.569"
+                                }
+                            ]
+                        },
+                        "23": {
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:26.682",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "20",
+                                    "Car_number": "23",
+                                    "Q1": "1:27.042",
+                                    "Q2": "1:26.855",
+                                    "Q3": "1:26.682"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

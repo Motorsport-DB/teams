@@ -672,6 +672,132 @@
                             ]
                         }
                     }
+                },
+                "CRYPTO.COM MIAMI GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "6": {
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:27.968",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "23",
+                                    "Car_Number": "6"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:28.374",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "21",
+                                    "Car_Number": "30"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "6": {
+                            "position": "9",
+                            "points": "1:27.543",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:27.773",
+                                    "Laps": "1:28.394"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "14",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:28.375",
+                                    "Laps": "1:28.914"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "6": {
+                            "position": "10",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+7.502s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "13",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+9.024s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "6": {
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:26.987",
+                            "drivers": [
+                                "Isack_Hadjar"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_number": "6",
+                                    "Q1": "1:27.301",
+                                    "Q2": "1:26.987"
+                                }
+                            ]
+                        },
+                        "30": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:27.363",
+                            "drivers": [
+                                "Liam_Lawson"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "14",
+                                    "Car_number": "30",
+                                    "Q1": "1:27.444",
+                                    "Q2": "1:27.363"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         }

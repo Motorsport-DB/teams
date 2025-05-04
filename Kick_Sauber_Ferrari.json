@@ -649,6 +649,131 @@
                             ]
                         }
                     }
+                },
+                "CRYPTO.COM MIAMI GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "27": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:28.573",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "13",
+                                    "Car_Number": "27"
+                                }
+                            ]
+                        },
+                        "5": {
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:28.771",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "19",
+                                    "Car_Number": "5"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "27": {
+                            "position": "11",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:27.850",
+                                    "Laps": "1:28.542"
+                                }
+                            ]
+                        },
+                        "5": {
+                            "position": "19",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:29.312"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "27": {
+                            "position": "9",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+6.153s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        },
+                        "5": {
+                            "position": "15",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+9.675s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "5": {
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:27.151",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "5",
+                                    "Q1": "1:27.343",
+                                    "Q2": "1:27.151"
+                                }
+                            ]
+                        },
+                        "27": {
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:27.473",
+                            "drivers": [
+                                "Nico_Hulkenberg"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "27",
+                                    "Q1": "1:27.473"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },

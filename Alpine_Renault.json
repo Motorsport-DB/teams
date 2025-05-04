@@ -668,6 +668,131 @@
                             ]
                         }
                     }
+                },
+                "CRYPTO.COM MIAMI GRAND PRIX": {
+                    "PRACTICE 1": {
+                        "10": {
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:29.084",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "22",
+                                    "Car_Number": "10"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:29.357",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "22",
+                                    "Car_Number": "7"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT QUALIFYING": {
+                        "10": {
+                            "position": "13",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "1:28.167",
+                                    "Laps": "1:28.345"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "17",
+                            "points": "",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "",
+                                    "Laps": "1:29.171"
+                                }
+                            ]
+                        }
+                    },
+                    "SPRINT": {
+                        "10": {
+                            "position": "8",
+                            "points": "1",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+5.973s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "16",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Gap": "+9.909s",
+                                    "Laps": "18"
+                                }
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "7": {
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:27.186",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "15",
+                                    "Car_number": "7",
+                                    "Q1": "1:27.422",
+                                    "Q2": "1:27.186"
+                                }
+                            ]
+                        },
+                        "10": {
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:27.710",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Laps": "9",
+                                    "Car_number": "10",
+                                    "Q1": "1:27.710"
+                                }
+                            ]
+                        }
+                    }
                 }
             }
         },
