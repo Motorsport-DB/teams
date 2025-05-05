@@ -792,6 +792,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "10": {
+                            "position": "13",
+                            "points": "0",
+                            "fastest_lap": "1:31.159",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "213.727",
+                                    "Lap_of_fastest_lap": "35",
+                                    "Gap": "+90.445s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "7": {
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "N/A",
+                            "drivers": [
+                                "Jack_Doohan"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "N/A",
+                                    "Lap_of_fastest_lap": "N/A",
+                                    "Gap": "DNF",
+                                    "Laps": "0"
+                                }
+                            ]
+                        }
                     }
                 }
             }

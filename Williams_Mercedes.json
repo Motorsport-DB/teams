@@ -800,6 +800,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "23": {
+                            "position": "5",
+                            "points": "10",
+                            "fastest_lap": "1:30.482",
+                            "drivers": [
+                                "Alexander_Albon"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "215.326",
+                                    "Lap_of_fastest_lap": "55",
+                                    "Gap": "+48.067s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "55": {
+                            "position": "9",
+                            "points": "2",
+                            "fastest_lap": "1:30.703",
+                            "drivers": [
+                                "Carlos_Sainz"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "214.802",
+                                    "Lap_of_fastest_lap": "35",
+                                    "Gap": "+60.577s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        }
                     }
                 }
             }

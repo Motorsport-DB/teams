@@ -803,6 +803,40 @@
                                 }
                             ]
                         }
+                    },
+                    "RACE RESULT": {
+                        "16": {
+                            "position": "7",
+                            "points": "6",
+                            "fastest_lap": "1:30.461",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "215.376",
+                                    "Lap_of_fastest_lap": "35",
+                                    "Gap": "+57.036s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        },
+                        "44": {
+                            "position": "8",
+                            "points": "4",
+                            "fastest_lap": "1:30.562",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ],
+                            "other_Info": [
+                                {
+                                    "Average_speed_of_fastest_lap": "215.136",
+                                    "Lap_of_fastest_lap": "35",
+                                    "Gap": "+60.186s",
+                                    "Laps": "57"
+                                }
+                            ]
+                        }
                     }
                 }
             }
