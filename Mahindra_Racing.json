@@ -6607,6 +6607,936 @@
                     }
                 }
             }
+        },
+        "2025": {
+            "Formula_E": {
+                "Sao Paulo ePrix": {
+                    "Free Practice 1": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "149.831 Km/h",
+                                "Laps": "15",
+                                "Car_number": "48"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1'10.471",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "149.015 Km/h",
+                                "Laps": "15",
+                                "Car_number": "21"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'10.857",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "151.643 Km/h",
+                                "Laps": "17",
+                                "Car_number": "21"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1'10.270",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "151.630 Km/h",
+                                "Laps": "18",
+                                "Car_number": "48"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1'10.276",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "147.351 Km/h",
+                                "Laps": "8",
+                                "Car_number": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'12.317",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "148.137 Km/h",
+                                "Laps": "7",
+                                "Car_number": "48"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'11.933",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "60.0 Km/h",
+                                "Laps": "35",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:45'16.558",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "60.0 Km/h",
+                                "Laps": "35",
+                                "Car_number": "21"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:45'17.398",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "Mexico City ePrix": {
+                    "Free Practice 1": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "132.357 Km/h",
+                                "Laps": "16",
+                                "Car_number": "48"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1'11.479",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "132.257 Km/h",
+                                "Laps": "17",
+                                "Car_number": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'11.533",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "109.187 Km/h",
+                                "Laps": "19",
+                                "Car_number": "21"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1'26.647",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "100.637 Km/h",
+                                "Laps": "18",
+                                "Car_number": "48"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1'34.009",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "125.950 Km/h",
+                                "Laps": "9",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'15.115",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "127.743 Km/h",
+                                "Laps": "9",
+                                "Car_number": "21"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1'14.061",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "117.1 Km/h",
+                                "Laps": "36",
+                                "Car_number": "21"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "48'25.928",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "116.8 Km/h",
+                                "Laps": "36",
+                                "Car_number": "48"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "48'44.808",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    }
+                },
+                "Jeddah ePrix I": {
+                    "Free Practice 1": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "142.023 Km/h",
+                                "Laps": "19",
+                                "Car_number": "48"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'16.069",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "141.131 Km/h",
+                                "Laps": "19",
+                                "Car_number": "21"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1'16.550",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "142.394 Km/h",
+                                "Laps": "13",
+                                "Car_number": "48"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1'15.871",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "141.926 Km/h",
+                                "Laps": "14",
+                                "Car_number": "21"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'16.121",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "139.415 Km/h",
+                                "Laps": "8",
+                                "Car_number": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'17.492",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "0",
+                                "Car_number": "48"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": 0,
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "31",
+                                "Car_number": "21"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "43'36.787",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "31",
+                                "Car_number": "48"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "43'46.651",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    }
+                },
+                "Jeddah ePrix II": {
+                    "Free Practice 1": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "143.050 Km/h",
+                                "Laps": "17",
+                                "Car_number": "21"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1'15.523",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "142.953 Km/h",
+                                "Laps": "17",
+                                "Car_number": "48"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'15.574",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "140.060 Km/h",
+                                "Laps": "0",
+                                "Car_number": "48"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'17.135",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "139.910 Km/h",
+                                "Laps": "0",
+                                "Car_number": "21"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'17.218",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "31",
+                                "Car_number": "48"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "43'01.176",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "31",
+                                "Car_number": "21"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "43'06.000",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "Miami ePrix": {
+                    "Free Practice 1": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "15",
+                                "Car_number": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'24.639",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "15",
+                                "Car_number": "48"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1'25.876",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "15",
+                                "Car_number": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'23.610",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "15",
+                                "Car_number": "48"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1'23.750",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "6",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'24.959",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "6",
+                                "Car_number": "21"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1'24.832",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "26",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:04'28.793",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "26",
+                                "Car_number": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:04'31.047",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "Monaco ePrix I": {
+                    "Free Practice 1": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "137.205 Km/h",
+                                "Laps": "16",
+                                "Car_number": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'27.556",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "136.419 Km/h",
+                                "Laps": "16",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'28.061",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "138.097 Km/h",
+                                "Laps": "15",
+                                "Car_number": "48"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'26.991",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "137.729 Km/h",
+                                "Laps": "15",
+                                "Car_number": "21"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1'27.223",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "135.210 Km/h",
+                                "Laps": "7",
+                                "Car_number": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'28.848",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "134.919 Km/h",
+                                "Laps": "7",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'29.040",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "30",
+                                "Car_number": "21"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "52'23.560",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "30",
+                                "Car_number": "48"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "52'32.819",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    }
+                },
+                "Monaco ePrix II": {
+                    "Free Practice 1": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "138.624 Km/h",
+                                "Laps": "17",
+                                "Car_number": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'26.660",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "138.461 Km/h",
+                                "Laps": "17",
+                                "Car_number": "48"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'26.762",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "104.114 Km/h",
+                                "Laps": "6",
+                                "Car_number": "21"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1'55.385",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "101.601 Km/h",
+                                "Laps": "5",
+                                "Car_number": "48"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'58.238",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "30",
+                                "Car_number": "21"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "56'29.376",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "30",
+                                "Car_number": "48"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "56'40.209",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    }
+                },
+                "Tokyo ePrix I": {
+                    "Free Practice 1": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "127.053 Km/h",
+                                "Laps": "22",
+                                "Car_number": "48"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'13.245",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "123.873 Km/h",
+                                "Laps": "8",
+                                "Car_number": "21"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1'15.125",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "99.836 Km/h",
+                                "Laps": "15",
+                                "Car_number": "48"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'33.212",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "99.454 Km/h",
+                                "Laps": "13",
+                                "Car_number": "21"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'33.570",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "38",
+                                "Car_number": "48"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:17'16.547",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "38",
+                                "Car_number": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:17'26.354",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "Tokyo ePrix II": {
+                    "Free Practice 1": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "128.305 Km/h",
+                                "Laps": "21",
+                                "Car_number": "48"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1'12.530",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "128.128 Km/h",
+                                "Laps": "22",
+                                "Car_number": "21"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'12.630",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group A": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "125.661 Km/h",
+                                "Laps": "8",
+                                "Car_number": "21"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1'14.056",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying group B": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": "126.254 Km/h",
+                                "Laps": "8",
+                                "Car_number": "48"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'13.708",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "32",
+                                "Car_number": "48"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "45'58.046",
+                            "drivers": [
+                                "Edoardo_Mortara"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "32",
+                                "Car_number": "21"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "46'01.544",
+                            "drivers": [
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                }
+            }
         }
     }
 }
