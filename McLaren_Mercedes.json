@@ -983,6 +983,148 @@
                             ]
                         }
                     }
+                },
+                "TAG HEUER GRAND PRIX DE MONACO": {
+                    "PRACTICE 1": {
+                        "4": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "4"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:12.290",
+                            "drivers": [
+                                "Lando_Norris"
+                            ]
+                        },
+                        "81": {
+                            "other_info": {
+                                "Laps": "28",
+                                "Car_Number": "81"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:12.342",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "81": {
+                            "other_info": {
+                                "Laps": "28",
+                                "Car_Number": "81"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:11.393",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "4"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:11.677",
+                            "drivers": [
+                                "Lando_Norris"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "4": {
+                            "other_info": {
+                                "Laps": "23",
+                                "Car_Number": "4"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:11.247",
+                            "drivers": [
+                                "Lando_Norris"
+                            ]
+                        },
+                        "81": {
+                            "other_info": {
+                                "Laps": "21",
+                                "Car_Number": "81"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:11.398",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "4": {
+                            "other_info": {
+                                "Laps": "27",
+                                "Car_number": "4",
+                                "Q1": "1:11.285",
+                                "Q2": "1:10.570",
+                                "Q3": "1:09.954"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:09.954",
+                            "drivers": [
+                                "Lando_Norris"
+                            ]
+                        },
+                        "81": {
+                            "other_info": {
+                                "Laps": "29",
+                                "Car_number": "81",
+                                "Q1": "1:11.308",
+                                "Q2": "1:10.858",
+                                "Q3": "1:10.129"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:10.129",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "4": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "164.067",
+                                "Lap_of_fastest_lap": "78",
+                                "Gap": "1:40:33.843",
+                                "Laps": "78"
+                            },
+                            "position": "1",
+                            "points": "25",
+                            "fastest_lap": "1:13.221",
+                            "drivers": [
+                                "Lando_Norris"
+                            ]
+                        },
+                        "81": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "162.901",
+                                "Lap_of_fastest_lap": "60",
+                                "Gap": "+3.658s",
+                                "Laps": "78"
+                            },
+                            "position": "3",
+                            "points": "15",
+                            "fastest_lap": "1:13.745",
+                            "drivers": [
+                                "Oscar_Piastri"
+                            ]
+                        }
+                    }
                 }
             }
         },

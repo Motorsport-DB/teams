@@ -947,6 +947,145 @@
                             ]
                         }
                     }
+                },
+                "TAG HEUER GRAND PRIX DE MONACO": {
+                    "PRACTICE 1": {
+                        "27": {
+                            "other_info": {
+                                "Laps": "30",
+                                "Car_Number": "27"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:12.979",
+                            "drivers": [
+                                "Nico_Hülkenberg"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "Laps": "29",
+                                "Car_Number": "5"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:13.470",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "5": {
+                            "other_info": {
+                                "Laps": "29",
+                                "Car_Number": "5"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:12.234",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "27"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:12.262",
+                            "drivers": [
+                                "Nico_Hülkenberg"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "27": {
+                            "other_info": {
+                                "Laps": "25",
+                                "Car_Number": "27"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:12.125",
+                            "drivers": [
+                                "Nico_Hülkenberg"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "Laps": "28",
+                                "Car_Number": "5"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:12.601",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "27": {
+                            "other_info": {
+                                "Laps": "23",
+                                "Car_number": "27",
+                                "Q1": "1:11.871",
+                                "Q2": "1:11.596"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:11.596",
+                            "drivers": [
+                                "Nico_Hülkenberg"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "Laps": "13",
+                                "Car_number": "5",
+                                "Q1": "1:11.902"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:11.902",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "5": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "160.424",
+                                "Lap_of_fastest_lap": "38",
+                                "Gap": "+2 laps",
+                                "Laps": "76"
+                            },
+                            "position": "14",
+                            "points": "0",
+                            "fastest_lap": "1:14.884",
+                            "drivers": [
+                                "Gabriel_Bortoleto"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "159.701",
+                                "Lap_of_fastest_lap": "49",
+                                "Gap": "+2 laps",
+                                "Laps": "76"
+                            },
+                            "position": "16",
+                            "points": "0",
+                            "fastest_lap": "1:15.223",
+                            "drivers": [
+                                "Nico_Hülkenberg"
+                            ]
+                        }
+                    }
                 }
             }
         },

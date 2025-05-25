@@ -951,6 +951,146 @@
                             ]
                         }
                     }
+                },
+                "TAG HEUER GRAND PRIX DE MONACO": {
+                    "PRACTICE 1": {
+                        "87": {
+                            "other_info": {
+                                "Laps": "34",
+                                "Car_Number": "87"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:13.329",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ]
+                        },
+                        "31": {
+                            "other_info": {
+                                "Laps": "31",
+                                "Car_Number": "31"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:13.394",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "87": {
+                            "other_info": {
+                                "Laps": "33",
+                                "Car_Number": "87"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:12.259",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ]
+                        },
+                        "31": {
+                            "other_info": {
+                                "Laps": "33",
+                                "Car_Number": "31"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:12.541",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "87": {
+                            "other_info": {
+                                "Laps": "20",
+                                "Car_Number": "87"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:12.251",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ]
+                        },
+                        "31": {
+                            "other_info": {
+                                "Laps": "25",
+                                "Car_Number": "31"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:12.499",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "31": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_number": "31",
+                                "Q1": "1:11.839",
+                                "Q2": "1:11.262",
+                                "Q3": "1:10.942"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:10.942",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ]
+                        },
+                        "87": {
+                            "other_info": {
+                                "Laps": "13",
+                                "Car_number": "87",
+                                "Q1": "1:11.979"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:11.979",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "159.841",
+                                "Lap_of_fastest_lap": "34",
+                                "Gap": "+1 lap",
+                                "Laps": "77"
+                            },
+                            "position": "7",
+                            "points": "6",
+                            "fastest_lap": "1:15.157",
+                            "drivers": [
+                                "Esteban_Ocon"
+                            ]
+                        },
+                        "87": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "160.486",
+                                "Lap_of_fastest_lap": "6",
+                                "Gap": "+2 laps",
+                                "Laps": "76"
+                            },
+                            "position": "12",
+                            "points": "0",
+                            "fastest_lap": "1:14.855",
+                            "drivers": [
+                                "Oliver_Bearman"
+                            ]
+                        }
+                    }
                 }
             }
         },

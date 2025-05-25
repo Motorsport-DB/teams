@@ -972,6 +972,146 @@
                             ]
                         }
                     }
+                },
+                "TAG HEUER GRAND PRIX DE MONACO": {
+                    "PRACTICE 1": {
+                        "14": {
+                            "other_info": {
+                                "Laps": "28",
+                                "Car_Number": "14"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:12.727",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "Laps": "4",
+                                "Car_Number": "18"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:15.635",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "14": {
+                            "other_info": {
+                                "Laps": "30",
+                                "Car_Number": "14"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:11.890",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "Laps": "30",
+                                "Car_Number": "18"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:12.512",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "14": {
+                            "other_info": {
+                                "Laps": "22",
+                                "Car_Number": "14"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:12.101",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "Laps": "24",
+                                "Car_Number": "18"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:12.202",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "14": {
+                            "other_info": {
+                                "Laps": "30",
+                                "Car_number": "14",
+                                "Q1": "1:11.674",
+                                "Q2": "1:11.182",
+                                "Q3": "1:10.924"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:10.924",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "Laps": "11",
+                                "Car_number": "18",
+                                "Q1": "1:12.563"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:12.563",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "18": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "160.439",
+                                "Lap_of_fastest_lap": "69",
+                                "Gap": "+2 laps",
+                                "Laps": "76"
+                            },
+                            "position": "15",
+                            "points": "0",
+                            "fastest_lap": "1:14.877",
+                            "drivers": [
+                                "Lance_Stroll"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "158.919",
+                                "Lap_of_fastest_lap": "15",
+                                "Gap": "DNF",
+                                "Laps": "36"
+                            },
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "1:15.593",
+                            "drivers": [
+                                "Fernando_Alonso"
+                            ]
+                        }
+                    }
                 }
             }
         },

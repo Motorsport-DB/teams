@@ -967,6 +967,144 @@
                             ]
                         }
                     }
+                },
+                "TAG HEUER GRAND PRIX DE MONACO": {
+                    "PRACTICE 1": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "29",
+                                "Car_Number": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:12.669",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "43"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:13.820",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "34",
+                                "Car_Number": "10"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:12.404",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "31",
+                                "Car_Number": "43"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:13.415",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "20",
+                                "Car_Number": "10"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:12.194",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "43"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:12.851",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "11",
+                                "Car_number": "10",
+                                "Q1": "1:11.994"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:11.994",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "12",
+                                "Car_number": "43",
+                                "Q1": "1:12.597"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:12.597",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "43": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "159.542",
+                                "Lap_of_fastest_lap": "31",
+                                "Gap": "+2 laps",
+                                "Laps": "76"
+                            },
+                            "position": "13",
+                            "points": "0",
+                            "fastest_lap": "1:15.298",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "153.908",
+                                "Lap_of_fastest_lap": "6",
+                                "Gap": "DNF",
+                                "Laps": "7"
+                            },
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "1:18.054",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        }
+                    }
                 }
             }
         },
