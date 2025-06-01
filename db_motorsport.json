@@ -1,0 +1,782 @@
+{
+    "name": "db_motorsport",
+    "seasons": {
+        "2005": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-italy": {
+                    "1st Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "gap": "+ 5.700",
+                                "interval": "+ 0.007",
+                                "speed": "148.51"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "8",
+                                "gap": "+ 6.912",
+                                "interval": "+ 0.426",
+                                "speed": "147.24"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "10",
+                                "gap": "+ 0.851",
+                                "interval": "+ 0.243",
+                                "speed": "156.775"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        },
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "gap": "+ 3.795",
+                                "interval": "+ 0.131",
+                                "speed": "153.381"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "10",
+                                "gap": "+ 2.894",
+                                "interval": "+ 0.031",
+                                "speed": "171.077"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        },
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "10",
+                                "gap": "+ 3.198",
+                                "interval": "+ 0.026",
+                                "speed": "170.651"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "7",
+                                "gap": "+ 1.079",
+                                "interval": "+ 0.013",
+                                "speed": "170.921"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "6",
+                                "gap": "+ 2.812",
+                                "interval": "+ 0.161",
+                                "speed": "168.527"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "gap": "+ 31.827",
+                                "interval": "+ 4.990",
+                                "speed": "168.33",
+                                "fastestLap": "2:01.814",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:01.814",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "9",
+                                "gap": "+ 37.711",
+                                "interval": "+ 4.234",
+                                "speed": "167.446",
+                                "fastestLap": "2:01.931",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "2:01.931",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "gap": "+ 34.121",
+                                "interval": "+ 0.576",
+                                "speed": "166.39",
+                                "fastestLap": "2:01.501",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2:01.501",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "9",
+                                "gap": "+ 44.679",
+                                "interval": "+ 2.451",
+                                "speed": "164.847",
+                                "fastestLap": "2:01.701",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "2:01.701",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    }
+                },
+                "Race-of-france": {
+                    "1st Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 2.576",
+                                "interval": "+ 0.007",
+                                "speed": "142.033"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "7",
+                                "speed": "140.74"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 2.687",
+                                "interval": "+ 0.055",
+                                "speed": "140.51"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "11",
+                                "speed": "140.459"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 2.382",
+                                "interval": "+ 0.022",
+                                "speed": "141.949"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "11",
+                                "speed": "141.715"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "4",
+                                "gap": "+ 2.082",
+                                "interval": "+ 0.147",
+                                "speed": "142.262"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "3",
+                                "speed": "85.044"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 41.644",
+                                "interval": "+ 3.149",
+                                "speed": "137.964",
+                                "fastestLap": "1:53.489",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:53.489",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "4",
+                                "speed": "123.773",
+                                "fastestLap": "1:56.019",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:56.019",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 31.718",
+                                "interval": "+ 2.556",
+                                "speed": "138.542",
+                                "fastestLap": "1:52.975",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:52.975",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        }
+                    }
+                },
+                "Race-of-san-marino": {
+                    "1st Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "10",
+                                "gap": "+ 2.079",
+                                "interval": "+ 0.139",
+                                "speed": "146.181"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "9",
+                                "gap": "+ 3.635",
+                                "interval": "+ 0.157",
+                                "speed": "144.332"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 1.805",
+                                "interval": "+ 0.212",
+                                "speed": "145.94"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "11",
+                                "gap": "+ 2.446",
+                                "interval": "+ 0.259",
+                                "speed": "145.176"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 2.616",
+                                "interval": "+ 0.081",
+                                "speed": "146.538"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "10",
+                                "gap": "+ 3.537",
+                                "interval": "+ 0.068",
+                                "speed": "145.432"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "8",
+                                "gap": "+ 1.411",
+                                "interval": "+ 0.103",
+                                "speed": "147.427"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "8",
+                                "gap": "+ 2.361",
+                                "interval": "+ 0.008",
+                                "speed": "146.273"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "11",
+                                "gap": "+ 51.960",
+                                "interval": "+ 4.804",
+                                "speed": "141.13",
+                                "fastestLap": "2:03.695",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "2:03.695",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "11",
+                                "gap": "+ 1:07.317",
+                                "interval": "+ 10.015",
+                                "speed": "139.581",
+                                "fastestLap": "2:04.938",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "2:04.938",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "11",
+                                "gap": "+ 2:13.246",
+                                "interval": "+ 1:28.595",
+                                "speed": "132.817",
+                                "fastestLap": "2:01.817",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "2:01.817",
+                            "drivers": [
+                                "Salvatore_Tavano"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "8",
+                                "gap": "3 Laps",
+                                "interval": "2 Laps",
+                                "speed": "137.621",
+                                "fastestLap": "2:03.148",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "2:03.148",
+                            "drivers": [
+                                "Andrea_Larini"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2006": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-france": {
+                    "1st Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "speed": "141.987"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "13",
+                                "gap": "+ 3.266",
+                                "interval": "+ 0.308",
+                                "speed": "140.377"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "8",
+                                "speed": "141.582"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "8",
+                                "gap": "+ 3.182",
+                                "interval": "+ 0.444",
+                                "speed": "140.066"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "speed": "143.429"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "9",
+                                "gap": "+ 3.054",
+                                "interval": "+ 0.587",
+                                "speed": "141.327"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "9",
+                                "speed": "142.403"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "9",
+                                "gap": "+ 2.083",
+                                "interval": "+ 0.212",
+                                "speed": "140.709"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "4",
+                                "speed": "136.715",
+                                "fastestLap": "1:53.534",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:53.534",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        },
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "12",
+                                "gap": "+ 47.683",
+                                "interval": "+ 3.230",
+                                "speed": "137.107",
+                                "fastestLap": "1:53.158",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:53.158",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "4",
+                                "speed": "134.743",
+                                "fastestLap": "1:52.718",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.718",
+                            "drivers": [
+                                "Elio_Marchetti"
+                            ]
+                        },
+                        "51": {
+                            "other_info": {
+                                "carNumber": "51",
+                                "laps": "12",
+                                "gap": "+ 40.556",
+                                "interval": "+ 0.894",
+                                "speed": "138.111",
+                                "fastestLap": "1:53.134",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:53.134",
+                            "drivers": [
+                                "Alessandro_Balzan"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
