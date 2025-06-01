@@ -1105,6 +1105,146 @@
                             ]
                         }
                     }
+                },
+                "ARAMCO GRAN PREMIO DE ESPAÑA": {
+                    "PRACTICE 1": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "28",
+                                "Car_Number": "10"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:14.746",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "19",
+                                "Car_Number": "43"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:15.530",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "30",
+                                "Car_Number": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:13.385",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "31",
+                                "Car_Number": "43"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:14.303",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "20",
+                                "Car_Number": "10"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:13.954",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "23",
+                                "Car_Number": "43"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:14.085",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "10": {
+                            "other_info": {
+                                "Laps": "18",
+                                "Car_number": "10",
+                                "Q1": "1:13.081",
+                                "Q2": "1:12.611",
+                                "Q3": "1:12.199"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:12.199",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Laps": "7",
+                                "Car_number": "43",
+                                "Q1": "1:13.334"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:13.334",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "10": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "215.225",
+                                "Lap_of_fastest_lap": "63",
+                                "Gap": "+17.882s",
+                                "Laps": "66"
+                            },
+                            "position": "8",
+                            "points": "4",
+                            "fastest_lap": "1:17.896",
+                            "drivers": [
+                                "Pierre_Gasly"
+                            ]
+                        },
+                        "43": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "213.970",
+                                "Lap_of_fastest_lap": "42",
+                                "Gap": "+31.381s",
+                                "Laps": "66"
+                            },
+                            "position": "15",
+                            "points": "0",
+                            "fastest_lap": "1:18.353",
+                            "drivers": [
+                                "Franco_Colapinto"
+                            ]
+                        }
+                    }
                 }
             }
         },

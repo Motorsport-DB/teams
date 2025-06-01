@@ -1117,6 +1117,148 @@
                             ]
                         }
                     }
+                },
+                "ARAMCO GRAN PREMIO DE ESPAÑA": {
+                    "PRACTICE 1": {
+                        "63": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "63"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:14.751",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Laps": "31",
+                                "Car_Number": "12"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:15.369",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "63": {
+                            "other_info": {
+                                "Laps": "32",
+                                "Car_Number": "63"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:13.046",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Laps": "31",
+                                "Car_Number": "12"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:13.298",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "63": {
+                            "other_info": {
+                                "Laps": "18",
+                                "Car_Number": "63"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:13.139",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Laps": "12",
+                                "Car_Number": "12"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:13.405",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "QUALIFYING": {
+                        "63": {
+                            "other_info": {
+                                "Laps": "12",
+                                "Car_number": "63",
+                                "Q1": "1:12.806",
+                                "Q2": "1:12.407",
+                                "Q3": "1:11.848"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:11.848",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Laps": "18",
+                                "Car_number": "12",
+                                "Q1": "1:12.815",
+                                "Q2": "1:12.585",
+                                "Q3": "1:12.111"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:12.111",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "RACE RESULT": {
+                        "63": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "217.042",
+                                "Lap_of_fastest_lap": "62",
+                                "Gap": "+11.359s",
+                                "Laps": "66"
+                            },
+                            "position": "4",
+                            "points": "12",
+                            "fastest_lap": "1:17.244",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Average_speed_of_fastest_lap": "214.238",
+                                "Lap_of_fastest_lap": "52",
+                                "Gap": "DNF",
+                                "Laps": "53"
+                            },
+                            "position": "NC",
+                            "points": "0",
+                            "fastest_lap": "1:18.255",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    }
                 }
             }
         },
