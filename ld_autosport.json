@@ -1,0 +1,952 @@
+{
+    "name": "ld_autosport",
+    "seasons": {
+        "2003": {
+            "Formula3_Euro_Series_F3EURO": {
+                "Hockenheim": {
+                    "Starting Grid 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.032",
+                                "speed": "171.856"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "1st Free Practice": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.059",
+                                "interval": "+ 0.086",
+                                "speed": "169.201"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.254",
+                                "interval": "+ 0.057",
+                                "speed": "170.016"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "18",
+                                "gap": "+ 34.895",
+                                "interval": "+ 0.260",
+                                "speed": "168.071"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "18",
+                                "gap": "+ 32.146",
+                                "interval": "+ 1.772",
+                                "speed": "167.943"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "Adria": {
+                    "Starting Grid 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 0.883",
+                                "interval": "+ 0.029",
+                                "speed": "136.564"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 0.581",
+                                "interval": "+ 0.024",
+                                "speed": "135.595"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "24",
+                                "gap": "+ 40.028",
+                                "interval": "+ 5.079",
+                                "speed": "126.021"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "26",
+                                "gap": "+ 40.187",
+                                "interval": "+ 3.876",
+                                "speed": "133.908"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "Pau": {
+                    "Starting Grid 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.407",
+                                "speed": "134.388"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "21",
+                                "gap": "+ 1:04.101",
+                                "interval": "+ 11.544",
+                                "speed": "110.08"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "23",
+                                "gap": "+ 34.935",
+                                "interval": "+ 7.443",
+                                "speed": "130.517"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "Norisring": {
+                    "Starting Grid 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "speed": "165.239"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "speed": "162.528"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "2",
+                                "speed": "106.532"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "Le-mans": {
+                    "Starting Grid 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "speed": "159.658"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.370",
+                                "interval": "+ 0.299",
+                                "speed": "158.822"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "18",
+                                "gap": "+ 45.373",
+                                "interval": "+ 2.476",
+                                "speed": "155.589"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "9",
+                                "speed": "147.379"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "Nurburgring": {
+                    "Starting Grid 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 0.734",
+                                "interval": "+ 0.039",
+                                "speed": "155.465"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.686",
+                                "interval": "+ 0.160",
+                                "speed": "153.724"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.521",
+                                "interval": "+ 0.120",
+                                "speed": "153.251"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.308",
+                                "interval": "+ 0.044",
+                                "speed": "151.849"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "17",
+                                "gap": "+ 21.064",
+                                "interval": "+ 0.858",
+                                "speed": "135.311"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "17",
+                                "gap": "+ 25.642",
+                                "interval": "+ 1.773",
+                                "speed": "134.935"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "19",
+                                "gap": "+ 8.545",
+                                "interval": "+ 1.513",
+                                "speed": "135.232"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "19",
+                                "gap": "+ 15.274",
+                                "interval": "+ 0.680",
+                                "speed": "134.738"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefano_Proetto"
+                            ]
+                        }
+                    }
+                },
+                "A1-ring": {
+                    "Starting Grid 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.242",
+                                "interval": "+ 0.166",
+                                "speed": "175.774"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.316",
+                                "interval": "+ 1.806",
+                                "speed": "169.88"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.827",
+                                "interval": "+ 0.117",
+                                "speed": "174.102"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.054",
+                                "interval": "+ 0.896",
+                                "speed": "169.872"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "19",
+                                "gap": "+ 1:05.195",
+                                "interval": "+ 15.177",
+                                "speed": "169.159"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "17",
+                                "gap": "2 Laps",
+                                "interval": "+ 29.213",
+                                "speed": "166.451"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "19",
+                                "gap": "+ 31.111",
+                                "interval": "+ 3.895",
+                                "speed": "162.032"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "19",
+                                "gap": "+ 1:24.568",
+                                "interval": "+ 37.398",
+                                "speed": "157.424"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Starting Grid 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "speed": "164.663"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 3.556",
+                                "interval": "+ 0.353",
+                                "speed": "160.104"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.285",
+                                "interval": "+ 0.011",
+                                "speed": "163.619"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "speed": "160.351"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "16",
+                                "gap": "+ 5.755",
+                                "interval": "+ 1.296",
+                                "speed": "135.389"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "17",
+                                "gap": "+ 47.874",
+                                "interval": "+ 7.398",
+                                "speed": "140.258"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        }
+                    }
+                },
+                "Hockenheim-2": {
+                    "Starting Grid 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.105",
+                                "interval": "+ 0.053",
+                                "speed": "172.314"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.656",
+                                "interval": "+ 0.123",
+                                "speed": "169.562"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.580",
+                                "interval": "+ 0.078",
+                                "speed": "170.125"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 3.079",
+                                "interval": "+ 0.562",
+                                "speed": "167.53"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "15",
+                                "gap": "+ 4.274",
+                                "interval": "+ 0.185",
+                                "speed": "134.07"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "15",
+                                "gap": "+ 59.608",
+                                "interval": "+ 38.207",
+                                "speed": "130.16"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "18",
+                                "gap": "+ 27.602",
+                                "interval": "+ 6.431",
+                                "speed": "168.529"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "18",
+                                "gap": "+ 1:22.274",
+                                "interval": "+ 0.778",
+                                "speed": "163.448"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    }
+                },
+                "Magny-cours": {
+                    "Starting Grid 2": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 0.992",
+                                "interval": "+ 0.011",
+                                "speed": "165.983"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.366",
+                                "interval": "+ 0.294",
+                                "speed": "163.632"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 0.683",
+                                "interval": "+ 0.132",
+                                "speed": "166.203"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.981",
+                                "interval": "+ 0.273",
+                                "speed": "162.3"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "16",
+                                "gap": "+ 9.941",
+                                "interval": "+ 0.670",
+                                "speed": "137.48"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "16",
+                                "gap": "+ 26.962",
+                                "interval": "+ 2.477",
+                                "speed": "136.226"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "19",
+                                "gap": "+ 57.149",
+                                "interval": "+ 24.232",
+                                "speed": "158.64"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrice_Manopoulos"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "14",
+                                "gap": "5 Laps",
+                                "interval": "4 Laps",
+                                "speed": "145.216"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Simon_Abadie"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

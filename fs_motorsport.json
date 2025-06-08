@@ -1,0 +1,88 @@
+{
+    "name": "fs_motorsport",
+    "seasons": {
+        "2006": {
+            "Formula3_Euro_Series_F3EURO": {
+                "Norisring": {
+                    "Starting Grid 2": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dominik_Schraml"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "laps": "30",
+                                "speed": "156.456"
+                            },
+                            "position": "DSQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dominik_Schraml"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "laps": "25",
+                                "speed": "161.174"
+                            },
+                            "position": "DSQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dominik_Schraml"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "laps": "46",
+                                "speed": "155.308",
+                                "fastestLap": "51.729",
+                                "lap_of_fastestLap": "41"
+                            },
+                            "position": "DSQ",
+                            "points": 0,
+                            "fastest_lap": "51.729",
+                            "drivers": [
+                                "Dominik_Schraml"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "laps": "3",
+                                "speed": "144.219",
+                                "fastestLap": "53.797",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "53.797",
+                            "drivers": [
+                                "Dominik_Schraml"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
