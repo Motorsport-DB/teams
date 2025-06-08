@@ -1,0 +1,1401 @@
+{
+    "name": "avelon_formula",
+    "seasons": {
+        "2005": {
+            "Formula_v8_3,5": {
+                "Zolder": {
+                    "1st Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "7",
+                                "speed": "132.165",
+                                "fastestLap": "1:36.693"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.693",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "speed": "172.831",
+                                "fastestLap": "1:36.693"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.693",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "6",
+                                "speed": "164.168",
+                                "fastestLap": "1:24.266",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "fastestLap": "1:24.266"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                },
+                "Monaco": {
+                    "Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 5.831",
+                                "interval": "+ 0.077",
+                                "speed": "127.153",
+                                "fastestLap": "1:24.266"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "speed": "121.091",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 3.766",
+                                "interval": "+ 0.160",
+                                "speed": "134.465",
+                                "fastestLap": "1:24.266"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "speed": "129.564",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "25",
+                                "gap": "+ 27.502",
+                                "interval": "+ 2.456",
+                                "speed": "128.476",
+                                "fastestLap": "1:24.266"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "16",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    }
+                },
+                "Valencia": {
+                    "1st Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "10",
+                                "gap": "+ 2.216",
+                                "interval": "+ 0.806",
+                                "speed": "173.185",
+                                "fastestLap": "1:24.266"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:24.266",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "11",
+                                "speed": "171.082",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 57.958",
+                                "interval": "+ 8.051",
+                                "speed": "164.585",
+                                "fastestLap": "1:25.174",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:25.174",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "8",
+                                "gap": "+ 4.012",
+                                "interval": "+ 0.789",
+                                "speed": "169.098",
+                                "fastestLap": "1:32.356"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:32.356",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "10",
+                                "speed": "173.368",
+                                "fastestLap": "1:25.174"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.174",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "26",
+                                "gap": "+ 21.659",
+                                "interval": "+ 9.349",
+                                "speed": "152.201",
+                                "fastestLap": "1:26.739",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:26.739",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "4",
+                                "speed": "157.274",
+                                "fastestLap": "1:26.990",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:26.990",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                },
+                "Le-mans": {
+                    "1st Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 3.455",
+                                "interval": "+ 0.726",
+                                "speed": "173.312",
+                                "fastestLap": "1:26.739"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "1:26.739",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "18",
+                                "gap": "+ 3.714",
+                                "interval": "+ 0.056",
+                                "speed": "172.796",
+                                "fastestLap": "1:26.990"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:26.990",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "gap": "+ 3.164",
+                                "interval": "+ 0.164",
+                                "speed": "174.53",
+                                "fastestLap": "1:26.990"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "1:26.990",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "gap": "+ 3.693",
+                                "interval": "+ 0.505",
+                                "speed": "173.465",
+                                "fastestLap": "1:26.739"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:26.739",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 1:00.340",
+                                "interval": "+ 20.149",
+                                "speed": "159.228",
+                                "fastestLap": "1:27.474",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:27.474",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 1:19.588",
+                                "interval": "+ 4.467",
+                                "speed": "157.54",
+                                "fastestLap": "1:26.930",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:26.930",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 1:27.100",
+                                "interval": "+ 30.705",
+                                "speed": "159.578",
+                                "fastestLap": "1:26.851",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:26.851",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "26",
+                                "gap": "+ 1.138",
+                                "interval": "1 Lap",
+                                "speed": "159.038",
+                                "fastestLap": "1:26.889",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:26.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                },
+                "Bilbao": {
+                    "1st Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 9.289",
+                                "interval": "+ 0.945",
+                                "speed": "114.891",
+                                "fastestLap": "1:26.851"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:26.851",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 10.759",
+                                "interval": "+ 0.911",
+                                "speed": "113.571",
+                                "fastestLap": "1:26.889"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:26.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 8.637",
+                                "interval": "+ 0.419",
+                                "speed": "119.154",
+                                "fastestLap": "1:26.889"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:26.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 13.009",
+                                "interval": "+ 4.372",
+                                "speed": "115.031",
+                                "fastestLap": "1:26.851"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:26.851",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "gap": "+ 8.524",
+                                "interval": "+ 2.952",
+                                "speed": "122.075",
+                                "fastestLap": "1:26.851"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:26.851",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "9",
+                                "gap": "+ 7.642",
+                                "interval": "+ 2.855",
+                                "speed": "122.503",
+                                "fastestLap": "1:26.889"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:26.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "speed": "123.545",
+                                "fastestLap": "1:26.851"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:26.851",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "gap": "+ 4.679",
+                                "interval": "+ 1.301",
+                                "speed": "126.776",
+                                "fastestLap": "1:54.586"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:54.586",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "15",
+                                "gap": "+ 49.454",
+                                "interval": "+ 3.934",
+                                "speed": "111.676",
+                                "fastestLap": "1:54.586",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:54.586",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "22",
+                                "gap": "+ 1:40.995",
+                                "interval": "+ 18.991",
+                                "speed": "121.703",
+                                "fastestLap": "1:52.606",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:52.606",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "speed": "113.552",
+                                "fastestLap": "1:54.837",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:54.837",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    }
+                },
+                "Oschersleben": {
+                    "1st Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "speed": "174.699",
+                                "fastestLap": "1:52.606"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.606",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "gap": "+ 4.262",
+                                "interval": "+ 0.590",
+                                "speed": "171.283",
+                                "fastestLap": "1:54.837"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "1:54.837",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "20",
+                                "speed": "174.291",
+                                "fastestLap": "1:52.606"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.606",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "23",
+                                "gap": "+ 3.516",
+                                "interval": "+ 0.460",
+                                "speed": "173.239",
+                                "fastestLap": "1:54.837"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "1:54.837",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "speed": "174.519",
+                                "fastestLap": "1:52.606"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.606",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "11",
+                                "gap": "+ 3.128",
+                                "interval": "+ 1.020",
+                                "speed": "175.585",
+                                "fastestLap": "1:54.837"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:54.837",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "12",
+                                "gap": "+ 3.709",
+                                "interval": "+ 2.280",
+                                "speed": "173.203",
+                                "fastestLap": "1:38.180"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:38.180",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "9",
+                                "speed": "177.414",
+                                "fastestLap": "1:41.456"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.456",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "21",
+                                "gap": "+ 1:21.561",
+                                "interval": "+ 32.522",
+                                "speed": "124.139",
+                                "fastestLap": "1:38.180",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:38.180",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "3",
+                                "speed": "121.486",
+                                "fastestLap": "1:41.456",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.456",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 49.881",
+                                "interval": "1 Lap",
+                                "speed": "128.726",
+                                "fastestLap": "1:19.170",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:19.170",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "5",
+                                "speed": "161.931",
+                                "fastestLap": "1:18.404",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:18.404",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                },
+                "Donington": {
+                    "1st Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "25",
+                                "gap": "+ 1.995",
+                                "interval": "+ 0.150",
+                                "speed": "178.342",
+                                "fastestLap": "1:18.404"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1:18.404",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "25",
+                                "gap": "+ 4.545",
+                                "interval": "+ 1.222",
+                                "speed": "172.912",
+                                "fastestLap": "1:19.170"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:19.170",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "26",
+                                "gap": "+ 3.681",
+                                "interval": "+ 0.041",
+                                "speed": "176.239",
+                                "fastestLap": "1:18.404"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:18.404",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "26",
+                                "gap": "+ 4.223",
+                                "interval": "+ 0.542",
+                                "speed": "175.084",
+                                "fastestLap": "1:19.170"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:19.170",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "8",
+                                "gap": "+ 8.561",
+                                "interval": "+ 1.103",
+                                "speed": "130.767",
+                                "fastestLap": "1:19.170"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:19.170",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "8",
+                                "gap": "+ 8.479",
+                                "interval": "+ 1.907",
+                                "speed": "132.256",
+                                "fastestLap": "1:18.404"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:18.404",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "8",
+                                "gap": "+ 7.786",
+                                "interval": "+ 1.905",
+                                "speed": "138.702",
+                                "fastestLap": "1:21.756"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:21.756",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "8",
+                                "speed": "141.825",
+                                "fastestLap": "1:21.067"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.067",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 1:03.662",
+                                "interval": "+ 1.643",
+                                "speed": "166.947",
+                                "fastestLap": "1:21.756",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:21.756",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "161.057",
+                                "fastestLap": "1:21.067",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:21.067",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 53.579",
+                                "interval": "+ 0.389",
+                                "speed": "155.416",
+                                "fastestLap": "1:21.253",
+                                "lap_of_fastestLap": "25"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:21.253",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "speed": "148.336",
+                                "fastestLap": "1:21.325",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.325",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                },
+                "Estoril": {
+                    "1st Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "gap": "+ 4.662",
+                                "interval": "+ 2.169",
+                                "speed": "165.592",
+                                "fastestLap": "1:21.253"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:21.253",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 5.495",
+                                "interval": "+ 0.833",
+                                "speed": "164.089",
+                                "fastestLap": "1:21.325"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:21.325",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "15",
+                                "gap": "+ 2.922",
+                                "interval": "+ 0.038",
+                                "speed": "167.579",
+                                "fastestLap": "1:21.325"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:21.325",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "14",
+                                "gap": "+ 3.545",
+                                "interval": "+ 0.422",
+                                "speed": "166.425",
+                                "fastestLap": "1:21.253"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:21.253",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "gap": "+ 4.389",
+                                "interval": "+ 2.149",
+                                "speed": "167.82",
+                                "fastestLap": "1:21.253"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:21.253",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "10",
+                                "gap": "+ 3.180",
+                                "interval": "+ 0.320",
+                                "speed": "169.53",
+                                "fastestLap": "1:21.325"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:21.325",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "10",
+                                "gap": "+ 3.253",
+                                "interval": "+ 0.206",
+                                "speed": "169.178",
+                                "fastestLap": "1:30.188"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:30.188",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "gap": "+ 3.711",
+                                "interval": "+ 1.446",
+                                "speed": "168.653",
+                                "fastestLap": "1:30.911"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:30.911",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 1:10.359",
+                                "interval": "+ 8.146",
+                                "speed": "163.123",
+                                "fastestLap": "1:30.188",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:30.188",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "18",
+                                "gap": "+ 2.025",
+                                "interval": "1 Lap",
+                                "speed": "160.804",
+                                "fastestLap": "1:30.911",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1:30.911",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "27",
+                                "gap": "+ 1:07.170",
+                                "interval": "+ 6.107",
+                                "speed": "150.05",
+                                "fastestLap": "1:29.933",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:29.933",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "26",
+                                "gap": "+ 22.874",
+                                "interval": "+ 47.374",
+                                "speed": "146.894",
+                                "fastestLap": "1:30.952",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:30.952",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    }
+                },
+                "Monza": {
+                    "Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "13",
+                                "gap": "+ 1.822",
+                                "interval": "+ 0.034",
+                                "speed": "212.404",
+                                "fastestLap": "1:29.933"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "1:29.933",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "12",
+                                "gap": "+ 4.660",
+                                "interval": "+ 2.101",
+                                "speed": "206.444",
+                                "fastestLap": "1:30.952"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "1:30.952",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "1st Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "9",
+                                "gap": "+ 3.656",
+                                "interval": "+ 2.184",
+                                "speed": "208.048",
+                                "fastestLap": "1:49.270"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:49.270",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "2nd Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "9",
+                                "speed": "211.859",
+                                "fastestLap": "1:41.889"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "16",
+                                "gap": "+ 57.283",
+                                "interval": "+ 3.667",
+                                "speed": "192.992",
+                                "fastestLap": "1:41.889",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:41.889",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "15",
+                                "gap": "+ 33.731",
+                                "interval": "1 Lap",
+                                "speed": "183.426",
+                                "fastestLap": "1:49.270",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:49.270",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "23",
+                                "gap": "+ 1:16.995",
+                                "interval": "+ 18.169",
+                                "speed": "179.714",
+                                "fastestLap": "1:40.834",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:40.834",
+                            "drivers": [
+                                "Mehdi_Bennani"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "speed": "163.553",
+                                "fastestLap": "1:39.963",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.963",
+                            "drivers": [
+                                "Ivan_Bellarosa"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
