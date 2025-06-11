@@ -1,0 +1,76 @@
+{
+    "name": "mel_b_wiggers",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.090",
+                                "interval": "+ 0.270",
+                                "speed": "222.534"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Bettenhausen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "105"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Bettenhausen"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "67": {
+                            "other_info": {
+                                "carNumber": "67",
+                                "gap": "+ 7.120",
+                                "interval": "+ 0.760"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gene_Hartley"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "67": {
+                            "other_info": {
+                                "carNumber": "67",
+                                "laps": "65"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gene_Hartley"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

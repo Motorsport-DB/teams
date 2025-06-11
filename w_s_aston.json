@@ -1,0 +1,102 @@
+{
+    "name": "w_s_aston",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 1:38.000",
+                                "interval": "+ 1:20.000"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "114": {
+                            "other_info": {
+                                "carNumber": "114"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "114": {
+                            "other_info": {
+                                "carNumber": "114",
+                                "laps": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "1st Qualifying": {
+                        "64": {
+                            "other_info": {
+                                "carNumber": "64",
+                                "gap": "+ 2:20.700",
+                                "interval": "+ 0.400",
+                                "speed": "161.2"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "64": {
+                            "other_info": {
+                                "carNumber": "64",
+                                "gap": "+ 15.000",
+                                "interval": "+ 0.400",
+                                "speed": "161.194"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bill_Aston"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

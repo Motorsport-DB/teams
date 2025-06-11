@@ -1,0 +1,793 @@
+{
+    "name": "candy_toleman_motorsport",
+    "seasons": {
+        "1983": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.066",
+                                "interval": "+ 0.378"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.960",
+                                "interval": "+ 0.562"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "27",
+                                "speed": "219.976",
+                                "fastestLap": "1:15.856",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:15.856",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "3",
+                                "speed": "85.571",
+                                "fastestLap": "1:29.957",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.957",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.871",
+                                "interval": "+ 2.094"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.320",
+                                "interval": "+ 0.449"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "19",
+                                "speed": "198.222",
+                                "fastestLap": "1:58.122",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.122",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "17",
+                                "speed": "197.815",
+                                "fastestLap": "1:56.271",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:56.271",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 1.822",
+                                "interval": "+ 0.852"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 2.091",
+                                "interval": "+ 0.193"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "2",
+                                "speed": "171.224",
+                                "fastestLap": "1:46.919",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:46.919",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "1",
+                                "speed": "152.652",
+                                "fastestLap": "2:20.130",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:20.130",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 1.568",
+                                "interval": "+ 0.258"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 2.272",
+                                "interval": "+ 0.015"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "72",
+                                "gap": "+ 1:16.839",
+                                "interval": "+ 33.098",
+                                "speed": "183.723",
+                                "fastestLap": "1:21.010",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:21.010",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "68",
+                                "gap": "4 Laps",
+                                "interval": "+ 26.288",
+                                "speed": "173.483",
+                                "fastestLap": "1:22.289",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:22.289",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.555",
+                                "interval": "+ 0.254"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.262",
+                                "interval": "+ 0.251"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "52",
+                                "gap": "+ 1:13.348",
+                                "interval": "+ 19.668",
+                                "speed": "214.397",
+                                "fastestLap": "1:35.588",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:35.588",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "52",
+                                "gap": "+ 1:33.922",
+                                "interval": "+ 20.574",
+                                "speed": "213.53",
+                                "fastestLap": "1:35.130",
+                                "lap_of_fastestLap": "51"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:35.130",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                },
+                "European-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 1.763",
+                                "interval": "+ 0.072"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 1.857",
+                                "interval": "+ 0.094"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "76",
+                                "gap": "+ 44.915",
+                                "interval": "+ 10.519",
+                                "speed": "196.689",
+                                "fastestLap": "1:14.732",
+                                "lap_of_fastestLap": "39"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:14.732",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "76",
+                                "gap": "+ 52.190",
+                                "interval": "+ 7.275",
+                                "speed": "196.445",
+                                "fastestLap": "1:14.877",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:14.877",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1981": {
+            "Formula_1": {
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 8.664",
+                                "interval": "+ 2.073"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 15.428",
+                                "interval": "+ 6.764"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 13.690",
+                                "interval": "+ 3.500"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 14.090",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 11.818",
+                                "interval": "+ 2.279"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 16.256",
+                                "interval": "+ 4.438"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.586",
+                                "interval": "+ 0.077"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.118",
+                                "interval": "+ 0.532"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.330",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 7.700",
+                                "interval": "+ 1.410"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.388",
+                                "interval": "+ 0.028"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.891",
+                                "interval": "+ 0.197"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.810",
+                                "interval": "+ 0.030"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.080",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.575",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 6.673",
+                                "interval": "+ 0.098"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.050",
+                                "interval": "+ 0.196"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.852",
+                                "interval": "+ 0.130"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.545",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.812",
+                                "interval": "+ 0.805"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "49",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "193.332",
+                                "fastestLap": "1:43.825",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:43.825",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 7.437",
+                                "interval": "+ 0.102"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 7.788",
+                                "interval": "+ 0.270"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                },
+                "Caesars-palace-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.473",
+                                "interval": "+ 0.513"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.139",
+                                "interval": "+ 0.138"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brian_Henton"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "43",
+                                "speed": "150.088",
+                                "fastestLap": "1:25.104",
+                                "lap_of_fastestLap": "36"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.104",
+                            "drivers": [
+                                "Derek_Warwick"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

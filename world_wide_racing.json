@@ -1,0 +1,796 @@
+{
+    "name": "world_wide_racing",
+    "seasons": {
+        "1971": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 2.780",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "54",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "236.06",
+                                "fastestLap": "1:25.900",
+                                "lap_of_fastestLap": "41"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:25.900",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1970": {
+            "Formula_1": {
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1.400",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "9",
+                                "fastestLap": "1:29.800"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.800",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 3.400",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "80",
+                                "speed": "131.7",
+                                "fastestLap": "1:23.200",
+                                "lap_of_fastestLap": "80"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:23.200",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 2.100",
+                                "interval": "+ 2.100"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.800",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 24.700",
+                                "interval": "+ 15.600"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "13",
+                                "speed": "228",
+                                "fastestLap": "3:37.900",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:37.900",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "10",
+                                "speed": "238",
+                                "fastestLap": "3:30.700",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:30.700",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 1.740",
+                                "interval": "+ 0.170"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "80",
+                                "speed": "181.77",
+                                "fastestLap": "1:19.910",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:19.910",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "177.15",
+                                "fastestLap": "1:23.850",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:23.850",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 1.520",
+                                "interval": "+ 0.070"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 5.940",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 16.270",
+                                "interval": "+ 6.390"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "38",
+                                "fastestLap": "3:00.960",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "3:00.960",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "38",
+                                "gap": "+ 2:47.170",
+                                "interval": "+ 27.010",
+                                "fastestLap": "3:03.680",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "3:03.680",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 1.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 3.300",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "80",
+                                "fastestLap": "1:27.000",
+                                "lap_of_fastestLap": "43"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:27.000",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:27.900",
+                                "lap_of_fastestLap": "51"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:27.900",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "15",
+                                "fastestLap": "1:28.900",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.900",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 0.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 2.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 2.500",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "50",
+                                "fastestLap": "2:00.600",
+                                "lap_of_fastestLap": "49"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2:00.600",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "50",
+                                "gap": "+ 1:55.100",
+                                "interval": "+ 33.300",
+                                "fastestLap": "2:02.500",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:02.500",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "24",
+                                "fastestLap": "2:03.100",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:03.100",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 2.230",
+                                "interval": "+ 0.570"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 2.630",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "55",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:45.040",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:45.040",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "21",
+                                "fastestLap": "1:41.880",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.880",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "4",
+                                "fastestLap": "1:47.210",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:47.210",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 1.570",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 2.370",
+                                "interval": "+ 0.130"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Miles"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 4.250",
+                                "interval": "+ 1.880"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 1.710",
+                                "interval": "+ 0.260"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Reine_Wisell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "108",
+                                "speed": "204.05",
+                                "fastestLap": "1:03.500",
+                                "lap_of_fastestLap": "95"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:03.500",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "108",
+                                "gap": "+ 45.170",
+                                "interval": "+ 8.780",
+                                "speed": "202.75",
+                                "fastestLap": "1:03.750",
+                                "lap_of_fastestLap": "99"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:03.750",
+                            "drivers": [
+                                "Reine_Wisell"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 2.730",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Reine_Wisell"
+                            ]
+                        },
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 6.270",
+                                "interval": "+ 1.830"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "56",
+                                "speed": "147.93",
+                                "fastestLap": "1:46.110",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:46.110",
+                            "drivers": [
+                                "Reine_Wisell"
+                            ]
+                        },
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "1",
+                                "speed": "150.62",
+                                "fastestLap": "1:59.510",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:59.510",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

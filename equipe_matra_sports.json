@@ -1,0 +1,596 @@
+{
+    "name": "equipe_matra_sports",
+    "seasons": {
+        "1971": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.600",
+                                "speed": "188.448"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "78",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "178.302",
+                                "fastestLap": "1:21.500",
+                                "lap_of_fastestLap": "69"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:21.500",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 0.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 0.700",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "75",
+                                "gap": "+ 58.100",
+                                "interval": "+ 54.700",
+                                "speed": "155",
+                                "fastestLap": "1:26.600",
+                                "lap_of_fastestLap": "58"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:26.600",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "74",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "154",
+                                "fastestLap": "1:26.800",
+                                "lap_of_fastestLap": "68"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:26.800",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 1.600"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 2.400",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "47",
+                                "speed": "130.5",
+                                "fastestLap": "1:25.000",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.000",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "45",
+                                "speed": "127.1",
+                                "fastestLap": "1:23.400",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.400",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 1.040",
+                                "interval": "+ 0.480"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 1.740",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "65",
+                                "gap": "5 Laps",
+                                "fastestLap": "1:44.720",
+                                "lap_of_fastestLap": "43"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:44.720",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "2",
+                                "fastestLap": "1:55.120",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:55.120",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 2.210",
+                                "interval": "+ 0.230"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 2.230",
+                                "interval": "+ 0.020"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "55",
+                                "gap": "+ 41.080",
+                                "interval": "+ 3.910",
+                                "speed": "178.55",
+                                "fastestLap": "1:55.200",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:55.200",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "55",
+                                "gap": "+ 1:16.930",
+                                "interval": "+ 0.910",
+                                "speed": "177.57",
+                                "fastestLap": "1:55.910",
+                                "lap_of_fastestLap": "48"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:55.910",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 1.600",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 2.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "66",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "203.7",
+                                "fastestLap": "1:21.300",
+                                "lap_of_fastestLap": "52"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:21.300",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "35",
+                                "speed": "201.9",
+                                "fastestLap": "1:21.600",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.600",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 18.300",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "6",
+                                "speed": "164.171",
+                                "fastestLap": "7:47.900",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "7:47.900",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 8.440",
+                                "interval": "+ 8.440"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "55",
+                                "gap": "+ 32.360",
+                                "interval": "+ 31.750",
+                                "speed": "240.95",
+                                "fastestLap": "1:24.200",
+                                "lap_of_fastestLap": "37"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:24.200",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 1.200",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "61",
+                                "gap": "3 Laps",
+                                "fastestLap": "1:48.700",
+                                "lap_of_fastestLap": "53"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:48.700",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "15",
+                                "fastestLap": "1:47.500",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:47.500",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 1.328",
+                                "interval": "+ 0.127"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 1.425",
+                                "interval": "+ 0.043"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "58",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:45.411",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:45.411",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "57",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:44.932",
+                                "lap_of_fastestLap": "45"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:44.932",
+                            "drivers": [
+                                "Chris_Amon"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1970": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 0.480",
+                                "interval": "+ 0.480"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "35",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "3:01.230",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "3:01.230",
+                            "drivers": [
+                                "Jean-Pierre_Beltoise"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

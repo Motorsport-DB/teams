@@ -1,0 +1,111 @@
+{
+    "name": "scribante_lucky_strike_racing",
+    "seasons": {
+        "1973": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1972": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 18.200",
+                                "interval": "+ 4.700"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 3.400"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 37.100",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

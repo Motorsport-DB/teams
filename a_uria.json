@@ -1,0 +1,77 @@
+{
+    "name": "a_uria",
+    "seasons": {
+        "1956": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alberto_Uria"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "88",
+                                "gap": "10 Laps",
+                                "interval": "3 Laps",
+                                "speed": "113.842"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "2_Drivers"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1955": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "22"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alberto_Uria"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 8.100",
+                                "interval": "+ 2.400",
+                                "speed": "126.66"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alberto_Uria"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

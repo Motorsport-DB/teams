@@ -1,0 +1,86 @@
+{
+    "name": "ecurie_excelsior",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "gap": "+ 9.800",
+                                "interval": "+ 1.000"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jay_Chamberlain"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2:25.700",
+                                "interval": "+ 34.700"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jay_Chamberlain"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jay_Chamberlain"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 19.350",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jay_Chamberlain"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jay_Chamberlain"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "name": "charles_vogele_racing",
+    "seasons": {
+        "1968": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 4.200",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 4.750",
+                                "interval": "+ 1.530"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "87",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:49.520",
+                                "lap_of_fastestLap": "50"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:49.520",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 6.500",
+                                "interval": "+ 1.400"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "52",
+                                "fastestLap": "1:37.100",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "NCL",
+                            "points": 0,
+                            "fastest_lap": "1:37.100",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 7.630",
+                                "interval": "+ 2.300"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1967": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 7.600",
+                                "interval": "+ 0.900"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "29",
+                                "speed": "165.1",
+                                "fastestLap": "1:34.400",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.400",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

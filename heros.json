@@ -1,0 +1,40 @@
+{
+    "name": "heros",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "gap": "+ 1.880",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Kazuyoshi_Hoshino"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "laps": "27"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Kazuyoshi_Hoshino"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

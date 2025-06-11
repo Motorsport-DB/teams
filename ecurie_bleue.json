@@ -1,0 +1,116 @@
+{
+    "name": "ecurie_bleue",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 3.400",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "63",
+                                "fastestLap": "1:42.100",
+                                "lap_of_fastestLap": "43"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:42.100",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 5.200",
+                                "interval": "+ 2.200"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "gap": "+ 29.400",
+                                "interval": "+ 1.500",
+                                "speed": "136.856"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "39",
+                                "gap": "3 Laps",
+                                "interval": "+ 32.800",
+                                "speed": "136.252"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harry_Schell"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "fands_properties",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "39": {
+                            "other_info": {
+                                "carNumber": "39",
+                                "gap": "+ 1.950",
+                                "interval": "+ 0.080"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Boy_Hayje"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "39": {
+                            "other_info": {
+                                "carNumber": "39",
+                                "laps": "63",
+                                "fastestLap": "1:24.690",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.690",
+                            "drivers": [
+                                "Boy_Hayje"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

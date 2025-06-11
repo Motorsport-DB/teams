@@ -1,0 +1,80 @@
+{
+    "name": "bessie_lee_paoli",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 2.050",
+                                "interval": "+ 0.230"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Art_Cross"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "200",
+                                "gap": "+ 3:30.870",
+                                "interval": "+ 3:30.870",
+                                "speed": "204.11"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Art_Cross"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 3.580",
+                                "interval": "+ 0.390"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "187",
+                                "gap": "13 Laps",
+                                "interval": "4 Laps"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

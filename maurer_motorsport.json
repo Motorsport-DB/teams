@@ -1,6 +1,216 @@
 {
     "name": "maurer_motorsport",
     "seasons": {
+        "2010": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-morocco": {
+                    "1st Practice": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "11",
+                                "speed": "144.649"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "13",
+                                "speed": "144.633"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "13",
+                                "speed": "144.547"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "6",
+                                "speed": "145.013"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "8",
+                                "speed": "118.364",
+                                "fastestLap": "1:51.100",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:51.100",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "fastestLap": "1:49.871",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "1:49.871",
+                            "drivers": [
+                                "Ismaïl_Sbaï"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2007": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-spain": {
+                    "1st Practice": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "14",
+                                "gap": "+ 2.835",
+                                "interval": "+ 0.832",
+                                "speed": "134.16"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "13",
+                                "gap": "+ 2.418",
+                                "interval": "+ 0.398",
+                                "speed": "133.216"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "9",
+                                "gap": "+ 2.854",
+                                "interval": "+ 1.179",
+                                "speed": "134.989"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "7",
+                                "gap": "+ 4.184",
+                                "interval": "+ 1.379",
+                                "speed": "133.324"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "15",
+                                "gap": "+ 42.180",
+                                "interval": "+ 1.794",
+                                "speed": "118.875",
+                                "fastestLap": "1:47.462",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:47.462",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "13",
+                                "gap": "+ 59.793",
+                                "interval": "+ 16.043",
+                                "speed": "129.023",
+                                "fastestLap": "1:48.734",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:48.734",
+                            "drivers": [
+                                "Maria_de Villota"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "2006": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-czech-republic": {
@@ -356,216 +566,6 @@
                             "fastest_lap": "1:47.165",
                             "drivers": [
                                 "Vincent_Radermecker"
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "2007": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-spain": {
-                    "1st Practice": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "14",
-                                "gap": "+ 2.835",
-                                "interval": "+ 0.832",
-                                "speed": "134.16"
-                            },
-                            "position": "24",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    },
-                    "2nd Practice": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "13",
-                                "gap": "+ 2.418",
-                                "interval": "+ 0.398",
-                                "speed": "133.216"
-                            },
-                            "position": "24",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "9",
-                                "gap": "+ 2.854",
-                                "interval": "+ 1.179",
-                                "speed": "134.989"
-                            },
-                            "position": "23",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    },
-                    "Warm Up": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "7",
-                                "gap": "+ 4.184",
-                                "interval": "+ 1.379",
-                                "speed": "133.324"
-                            },
-                            "position": "26",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "15",
-                                "gap": "+ 42.180",
-                                "interval": "+ 1.794",
-                                "speed": "118.875",
-                                "fastestLap": "1:47.462",
-                                "lap_of_fastestLap": "12"
-                            },
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "1:47.462",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "36": {
-                            "other_info": {
-                                "carNumber": "36",
-                                "laps": "13",
-                                "gap": "+ 59.793",
-                                "interval": "+ 16.043",
-                                "speed": "129.023",
-                                "fastestLap": "1:48.734",
-                                "lap_of_fastestLap": "5"
-                            },
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "1:48.734",
-                            "drivers": [
-                                "Maria_de Villota"
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "2010": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-morocco": {
-                    "1st Practice": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "laps": "11",
-                                "speed": "144.649"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
-                            ]
-                        }
-                    },
-                    "2nd Practice": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "laps": "13",
-                                "speed": "144.633"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
-                            ]
-                        }
-                    },
-                    "1st Qualifying": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "laps": "13",
-                                "speed": "144.547"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
-                            ]
-                        }
-                    },
-                    "Warm Up": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "laps": "6",
-                                "speed": "145.013"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "laps": "8",
-                                "speed": "118.364",
-                                "fastestLap": "1:51.100",
-                                "lap_of_fastestLap": "5"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:51.100",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "30": {
-                            "other_info": {
-                                "carNumber": "30",
-                                "fastestLap": "1:49.871",
-                                "lap_of_fastestLap": "13"
-                            },
-                            "position": "DNS",
-                            "points": 0,
-                            "fastest_lap": "1:49.871",
-                            "drivers": [
-                                "Ismaïl_Sbaï"
                             ]
                         }
                     }

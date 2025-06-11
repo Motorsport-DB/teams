@@ -1,0 +1,127 @@
+{
+    "name": "bignotti-bowes_racing",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 4.820",
+                                "interval": "+ 0.760"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_Boyd"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 5.350",
+                                "interval": "+ 0.080"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "A.J._Foyt"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "90"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "A.J._Foyt"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "77"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_Boyd"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 5.350",
+                                "interval": "+ 0.880"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_Boyd"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 6.260",
+                                "interval": "+ 0.180"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jud_Larson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "laps": "200",
+                                "gap": "+ 3:16.980",
+                                "interval": "+ 1:10.540"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_Boyd"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "45"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jud_Larson"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

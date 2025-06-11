@@ -1,0 +1,797 @@
+{
+    "name": "coloni_spa",
+    "seasons": {
+        "1989": {
+            "Formula_1": {
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 7.259",
+                                "interval": "+ 0.770"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pierre-Henri_Raphanel"
+                            ]
+                        }
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 5.765",
+                                "interval": "+ 0.433"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 4.703",
+                                "interval": "+ 0.154"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pierre-Henri_Raphanel"
+                            ]
+                        },
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 5.413",
+                                "interval": "+ 0.015"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "44",
+                                "speed": "126.603",
+                                "fastestLap": "1:31.114",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:31.114",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "19",
+                                "speed": "127.778",
+                                "fastestLap": "1:31.253",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:31.253",
+                            "drivers": [
+                                "Pierre-Henri_Raphanel"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 2:16.219",
+                                "interval": "+ 2:08.444"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.244",
+                                "interval": "+ 0.199"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.064",
+                                "interval": "+ 0.244"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "57",
+                                "speed": "135.567",
+                                "fastestLap": "1:35.369",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.369",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.179",
+                                "interval": "+ 0.204"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 3.313",
+                                "interval": "+ 0.071"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "2",
+                                "speed": "199.413",
+                                "fastestLap": "1:20.498",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:20.498",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 2.728",
+                                "interval": "+ 0.072"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "11",
+                                "speed": "175.788",
+                                "fastestLap": "1:25.411",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.411",
+                            "drivers": [
+                                "Roberto_Moreno"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1988": {
+            "Formula_1": {
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 7.311",
+                                "interval": "+ 0.497"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "35",
+                                "fastestLap": "1:37.112",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.112",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.088",
+                                "interval": "+ 0.199"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "40",
+                                "fastestLap": "1:35.395",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.395",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.254",
+                                "interval": "+ 0.131"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "5",
+                                "fastestLap": "1:33.570",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.570",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.135",
+                                "interval": "+ 0.316"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "62",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:25.072",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:25.072",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 5.984",
+                                "interval": "+ 0.028"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "67",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:28.206",
+                                "lap_of_fastestLap": "50"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:28.206",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Detroit-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.706",
+                                "interval": "+ 0.069"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.625",
+                                "interval": "+ 1.413"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.895",
+                                "interval": "+ 0.918"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 9.762",
+                                "interval": "+ 0.762"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.525",
+                                "interval": "+ 0.419"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "71",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:36.008",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:36.008",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 7.641",
+                                "interval": "+ 0.281"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "36",
+                                "fastestLap": "2:04.589",
+                                "lap_of_fastestLap": "36"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:04.589",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.855",
+                                "interval": "+ 0.391"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.759",
+                                "interval": "+ 0.051"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "65",
+                                "gap": "5 Laps",
+                                "interval": "3 Laps",
+                                "fastestLap": "1:25.291",
+                                "lap_of_fastestLap": "37"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:25.291",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 6.392",
+                                "interval": "+ 0.956"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 10.381",
+                                "interval": "+ 2.337"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.645",
+                                "interval": "+ 0.045"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gabriele_Tarquini"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

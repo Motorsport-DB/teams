@@ -1,0 +1,72 @@
+{
+    "name": "enzo_coloni_racing_car_system",
+    "seasons": {
+        "1987": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 12.261",
+                                "interval": "+ 1.905"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nicola_Larini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nicola_Larini"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 8.521",
+                                "interval": "+ 0.288"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nicola_Larini"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "8",
+                                "fastestLap": "1:33.108",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.108",
+                            "drivers": [
+                                "Nicola_Larini"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

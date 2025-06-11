@@ -1,0 +1,506 @@
+{
+    "name": "automobiles_talbot-darracq",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 2.600",
+                                "interval": "+ 0.800",
+                                "speed": "147.6"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.600",
+                                "interval": "+ 2.000",
+                                "speed": "145.041"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Martin"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 5.200",
+                                "interval": "+ 0.200",
+                                "speed": "144.291"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 7.000",
+                                "interval": "+ 0.400",
+                                "speed": "142.086"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Etancelin"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "interval": "2 Laps",
+                                "speed": "142.2",
+                                "fastestLap": "1:53.400",
+                                "lap_of_fastestLap": "41"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:53.400",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "interval": "+ 1:03.400",
+                                "speed": "141.1",
+                                "fastestLap": "1:55.400",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:55.400",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "65",
+                                "gap": "5 Laps",
+                                "interval": "2 Laps",
+                                "speed": "134.8",
+                                "fastestLap": "1:57.400",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:57.400",
+                            "drivers": [
+                                "Philippe_Etancelin"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Martin"
+                            ]
+                        }
+                    }
+                },
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 10.600",
+                                "interval": "+ 1.600",
+                                "speed": "151.754"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 11.600",
+                                "interval": "+ 0.500",
+                                "speed": "150.88"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Martin"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 11.900",
+                                "interval": "+ 0.300",
+                                "speed": "150.62"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "41",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "142.929"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Martin"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 12.000",
+                                "interval": "+ 2.000",
+                                "speed": "175.889"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Etancelin"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 16.000",
+                                "interval": "+ 1.000",
+                                "speed": "173.488"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 19.000",
+                                "interval": "+ 3.000",
+                                "speed": "171.729"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 24.000",
+                                "interval": "+ 5.000",
+                                "speed": "168.877"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pierre_Levegh"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 36.000",
+                                "interval": "+ 12.000",
+                                "speed": "162.402"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Chaboud"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "35",
+                                "gap": "+ 2:19.000",
+                                "interval": "+ 2:05.000",
+                                "speed": "175"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "33",
+                                "gap": "2 Laps",
+                                "interval": "+ 2:26.000",
+                                "speed": "163"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pierre_Levegh"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "22"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eugene_Chaboud"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Etancelin"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 8.400",
+                                "interval": "+ 4.300",
+                                "speed": "176.943"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Etancelin"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 12.100",
+                                "interval": "+ 3.700",
+                                "speed": "172.919"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 15.400",
+                                "interval": "+ 3.300",
+                                "speed": "169.481"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 18.400",
+                                "interval": "+ 1.000",
+                                "speed": "166.473"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pierre_Levegh"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raymond_Sommer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "59",
+                                "gap": "5 Laps",
+                                "interval": "2 Laps",
+                                "speed": "153.555",
+                                "fastestLap": "2:50.400"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:50.400",
+                            "drivers": [
+                                "2_Drivers"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "52",
+                                "gap": "12 Laps",
+                                "interval": "3 Laps",
+                                "speed": "136.731",
+                                "fastestLap": "2:52.300"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2:52.300",
+                            "drivers": [
+                                "Yves_Giraud-Cabantous"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "36",
+                                "fastestLap": "2:56.600"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:56.600",
+                            "drivers": [
+                                "Pierre_Levegh"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "10",
+                                "fastestLap": "2:50.900"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:50.900",
+                            "drivers": [
+                                "Louis_Rosier"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "4",
+                                "fastestLap": "2:57.300"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:57.300",
+                            "drivers": [
+                                "Raymond_Sommer"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

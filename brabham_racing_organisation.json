@@ -1,0 +1,4305 @@
+{
+    "name": "brabham_racing_organisation",
+    "seasons": {
+        "1968": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.400",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 1.600",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "80",
+                                "gap": "+ 30.400",
+                                "interval": "+ 5.100",
+                                "fastestLap": "1:24.500",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:24.500",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "16",
+                                "fastestLap": "1:24.600",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.600",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1.800",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 16.300",
+                                "interval": "+ 13.200"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "10",
+                                "speed": "132.405",
+                                "fastestLap": "1:28.900",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.900",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 3.000",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "8",
+                                "fastestLap": "1:30.700",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.700",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "7",
+                                "fastestLap": "1:32.700",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 1:18.100",
+                                "interval": "+ 12.400"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "6",
+                                "fastestLap": "3:40.700",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:40.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "5",
+                                "fastestLap": "3:38.800",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:38.800",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.160",
+                                "interval": "+ 0.160"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.360",
+                                "interval": "+ 0.060"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 2.250",
+                                "interval": "+ 0.280"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "63",
+                                "fastestLap": "1:49.320",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:49.320",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "39",
+                                "fastestLap": "1:52.180",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.180",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "22",
+                                "fastestLap": "1:51.550",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:51.550",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 4.700",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "45",
+                                "fastestLap": "2:13.800",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:13.800",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "15",
+                                "fastestLap": "2:32.200",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:32.200",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "55",
+                                "fastestLap": "1:33.900",
+                                "lap_of_fastestLap": "53"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.900",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 27.900",
+                                "interval": "+ 17.000"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1:19.100",
+                                "interval": "+ 3.400"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "14",
+                                "gap": "+ 4:09.400",
+                                "interval": "+ 6.200",
+                                "fastestLap": "9:57.100",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "9:57.100",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "14",
+                                "gap": "+ 6:21.100",
+                                "interval": "+ 25.900",
+                                "fastestLap": "10:02.700",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "10:02.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 1.230",
+                                "interval": "+ 0.340"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.730",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "56"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "33"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 1.600",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "39",
+                                "fastestLap": "1:35.800",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.800",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "31",
+                                "fastestLap": "1:36.200",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.200",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 0.610",
+                                "interval": "+ 0.240"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.050",
+                                "interval": "+ 0.030"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "77",
+                                "fastestLap": "1:06.490",
+                                "lap_of_fastestLap": "57"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:06.490",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "73",
+                                "fastestLap": "1:05.500",
+                                "lap_of_fastestLap": "62"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:05.500",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 1.580",
+                                "interval": "+ 0.110"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1.850",
+                                "interval": "+ 0.070"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "59",
+                                "gap": "6 Laps",
+                                "interval": "3 Laps",
+                                "fastestLap": "1:46.130",
+                                "lap_of_fastestLap": "37"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:46.130",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "2",
+                                "fastestLap": "1:50.190",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:50.190",
+                            "drivers": [
+                                "Jochen_Rindt"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1967": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "152.2",
+                                "fastestLap": "1:29.900",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:29.900",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "76",
+                                "gap": "4 Laps",
+                                "interval": "2 Laps",
+                                "speed": "146.8",
+                                "fastestLap": "1:30.400",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:30.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 1.200",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "100",
+                                "speed": "122.1",
+                                "fastestLap": "1:29.600",
+                                "lap_of_fastestLap": "61"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:29.600",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 2.050",
+                                "interval": "+ 0.070"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "90",
+                                "gap": "+ 23.600",
+                                "interval": "+ 23.600",
+                                "speed": "167.5",
+                                "fastestLap": "1:28.400",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:28.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "90",
+                                "gap": "+ 25.700",
+                                "interval": "+ 2.100",
+                                "speed": "167.5",
+                                "fastestLap": "1:28.100",
+                                "lap_of_fastestLap": "88"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:28.100",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 6.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 12.200",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "15",
+                                "speed": "226.8",
+                                "fastestLap": "3:36.700",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:36.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "14",
+                                "speed": "224.5",
+                                "fastestLap": "3:40.400",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:40.400",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 0.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1.700",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "80",
+                                "speed": "159.9",
+                                "fastestLap": "1:38.100",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:38.100",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "80",
+                                "gap": "+ 49.500",
+                                "interval": "+ 49.500",
+                                "speed": "158.9",
+                                "fastestLap": "1:38.900",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:38.900",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "80",
+                                "gap": "+ 12.800",
+                                "interval": "+ 12.800",
+                                "speed": "189",
+                                "fastestLap": "1:27.000",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:27.000",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "80",
+                                "gap": "+ 21.800",
+                                "interval": "+ 5.200",
+                                "speed": "188.8",
+                                "fastestLap": "1:28.200",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:28.200",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 9.400",
+                                "interval": "+ 9.400"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 14.800",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "15",
+                                "speed": "163.2",
+                                "fastestLap": "8:19.200",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "8:19.200",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "15",
+                                "gap": "+ 38.500",
+                                "interval": "+ 38.500",
+                                "speed": "162.4",
+                                "fastestLap": "8:20.900",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "8:20.900",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 2.300",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "90",
+                                "speed": "133",
+                                "fastestLap": "1:25.300",
+                                "lap_of_fastestLap": "53"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:25.300",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "90",
+                                "gap": "+ 1:01.900",
+                                "interval": "+ 1:01.900",
+                                "speed": "132.1",
+                                "fastestLap": "1:24.000",
+                                "lap_of_fastestLap": "52"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:24.000",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 0.300",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "68",
+                                "gap": "+ 0.200",
+                                "interval": "+ 0.200",
+                                "speed": "226.1",
+                                "fastestLap": "1:29.600",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:29.600",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "30",
+                                "speed": "228.1",
+                                "fastestLap": "1:28.900",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.900",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 1.250",
+                                "interval": "+ 0.080"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 1.970",
+                                "interval": "+ 0.720"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "107",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "191.616",
+                                "fastestLap": "1:07.730",
+                                "lap_of_fastestLap": "105"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:07.730",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "104",
+                                "gap": "4 Laps",
+                                "interval": "2 Laps",
+                                "speed": "186.745",
+                                "fastestLap": "1:07.670",
+                                "lap_of_fastestLap": "98"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:07.670",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 1.520",
+                                "interval": "+ 0.340"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.380"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "65",
+                                "gap": "+ 1:25.360",
+                                "interval": "+ 1:25.360",
+                                "speed": "161.29",
+                                "fastestLap": "1:49.890",
+                                "lap_of_fastestLap": "58"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:49.890",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "64",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "160.68",
+                                "fastestLap": "1:49.920",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:49.920",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1966": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 1.200",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 2.900"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "17",
+                                "speed": "116.095",
+                                "fastestLap": "1:35.100",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.100",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "15",
+                                "speed": "115.853",
+                                "fastestLap": "1:33.200",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.200",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 3.800",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 13.400",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "26",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "166.4",
+                                "fastestLap": "4:46.700",
+                                "lap_of_fastestLap": "25"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "4:46.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 2.400",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 5.500",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 15.700",
+                                "interval": "+ 3.900"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jo_Bonnier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "48",
+                                "speed": "220.322",
+                                "fastestLap": "2:12.800",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2:12.800",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "46",
+                                "gap": "2 Laps",
+                                "interval": "2 Laps",
+                                "speed": "210.834",
+                                "fastestLap": "2:15.800",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:15.800",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "32",
+                                "speed": "144.96",
+                                "fastestLap": "2:21.400",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "2:21.400",
+                            "drivers": [
+                                "Jo_Bonnier"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.300",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 3.600",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chris_Irwin"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "80",
+                                "speed": "153.659",
+                                "fastestLap": "1:37.000",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:37.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "80",
+                                "gap": "+ 9.600",
+                                "interval": "+ 9.600",
+                                "speed": "153.475",
+                                "fastestLap": "1:37.200",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:37.200",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "+ 3.000",
+                                "speed": "148.036",
+                                "fastestLap": "1:41.000",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:41.000",
+                            "drivers": [
+                                "Chris_Irwin"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "90",
+                                "speed": "161.106",
+                                "fastestLap": "1:30.900",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:30.900",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "37",
+                                "speed": "103.707",
+                                "fastestLap": "1:30.600",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.600",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 3:24.300",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 3:52.800",
+                                "interval": "+ 6.800"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "15",
+                                "speed": "139.605",
+                                "fastestLap": "8:49.300",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "8:49.300",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "8",
+                                "speed": "139.173",
+                                "fastestLap": "9:01.600",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "9:01.600",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "68",
+                                "gap": "+ 6.100",
+                                "interval": "+ 0.300",
+                                "speed": "218.5"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.860",
+                                "interval": "+ 0.110"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "55"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.770",
+                                "interval": "+ 0.390"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 1.030",
+                                "interval": "+ 0.020"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "65",
+                                "gap": "+ 7.880",
+                                "interval": "+ 7.880",
+                                "speed": "153.882"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "64",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "151.488"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1965": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 1.100",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 2.300",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "81",
+                                "gap": "4 Laps",
+                                "interval": "2 Laps",
+                                "speed": "149.5"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 0.300",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 2.000",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "92",
+                                "gap": "8 Laps",
+                                "interval": "5 Laps",
+                                "speed": "115.824",
+                                "fastestLap": "1:35.000",
+                                "lap_of_fastestLap": "78"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:35.000",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "43",
+                                "speed": "117.033",
+                                "fastestLap": "1:34.400",
+                                "lap_of_fastestLap": "41"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 3.800",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 6.100",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "31",
+                                "gap": "1 Lap",
+                                "interval": "+ 1.800",
+                                "speed": "182.283",
+                                "fastestLap": "4:24.100",
+                                "lap_of_fastestLap": "23"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "4:24.100",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "30",
+                                "gap": "2 Laps",
+                                "interval": "+ 1:39.000",
+                                "speed": "172.79",
+                                "fastestLap": "4:28.700",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "4:28.700",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 2.200",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "40",
+                                "gap": "+ 2:53.100",
+                                "interval": "+ 19.600",
+                                "speed": "140.57",
+                                "fastestLap": "3:23.100",
+                                "lap_of_fastestLap": "30"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "3:23.100",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "16",
+                                "speed": "133.847",
+                                "fastestLap": "3:20.900",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:20.900",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 1.700",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "177.731",
+                                "fastestLap": "1:33.400",
+                                "lap_of_fastestLap": "65"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:33.400",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "29",
+                                "speed": "178.179",
+                                "fastestLap": "1:33.800",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.800",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 0.500",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "80",
+                                "gap": "+ 13.000",
+                                "interval": "+ 5.000",
+                                "speed": "162.046",
+                                "fastestLap": "1:30.800",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:30.800",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "159.996",
+                                "fastestLap": "1:31.000",
+                                "lap_of_fastestLap": "75"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:31.000",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 6.300",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 19.600",
+                                "interval": "+ 1.900"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 22.200",
+                                "interval": "+ 2.600"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "15",
+                                "gap": "+ 21.400",
+                                "interval": "+ 5.500",
+                                "speed": "160.095",
+                                "fastestLap": "8:26.300",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "8:26.300",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "15",
+                                "gap": "+ 4:41.200",
+                                "interval": "+ 1:11.600",
+                                "speed": "154.865",
+                                "fastestLap": "8:39.000",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "8:39.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "5",
+                                "speed": "154.318",
+                                "fastestLap": "8:42.100",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "8:42.100",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 2.200",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 2.400",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.000",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giancarlo_Baghetti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "76",
+                                "gap": "+ 16.500",
+                                "interval": "+ 13.200",
+                                "speed": "209.5",
+                                "fastestLap": "1:37.300",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:37.300",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "46",
+                                "speed": "205.105",
+                                "fastestLap": "1:39.000",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.000",
+                            "drivers": [
+                                "Denny_Hulme"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "12",
+                                "speed": "201.182",
+                                "fastestLap": "1:41.000",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.000",
+                            "drivers": [
+                                "Giancarlo_Baghetti"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 0.950",
+                                "interval": "+ 0.440"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 1.000",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "110",
+                                "gap": "+ 12.500",
+                                "interval": "+ 12.500"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "110",
+                                "gap": "+ 57.500",
+                                "interval": "+ 45.000"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 0.070",
+                                "interval": "+ 0.070"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 0.610",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "65",
+                                "gap": "+ 2.890",
+                                "interval": "+ 2.890",
+                                "fastestLap": "1:55.840",
+                                "lap_of_fastestLap": "57"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:55.840",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "38"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1964": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.700",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "62",
+                                "speed": "117.1",
+                                "fastestLap": "1:34.500",
+                                "lap_of_fastestLap": "57"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.500",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "29",
+                                "speed": "113.9",
+                                "fastestLap": "1:37.700",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 2.600",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "44",
+                                "speed": "156.4",
+                                "fastestLap": "1:34.400",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "23",
+                                "speed": "158.5",
+                                "fastestLap": "1:33.000",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.000",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "32",
+                                "gap": "+ 48.100",
+                                "interval": "+ 44.700",
+                                "fastestLap": "3:56.000",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "3:56.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "31",
+                                "gap": "1 Lap",
+                                "fastestLap": "3:49.200",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "3:49.200",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 0.500",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 2.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "57",
+                                "speed": "175",
+                                "fastestLap": "2:12.700",
+                                "lap_of_fastestLap": "49"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2:12.700",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "57",
+                                "gap": "+ 24.900",
+                                "interval": "+ 0.800",
+                                "speed": "174.5",
+                                "fastestLap": "2:11.400",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:11.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.300",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.400",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "147.789",
+                                "fastestLap": "1:40.400",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:40.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "75",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "speed": "141.125",
+                                "fastestLap": "1:40.400",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:40.400",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 8.200",
+                                "interval": "+ 2.800"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "14",
+                                "gap": "1 Lap",
+                                "interval": "+ 3:33.200",
+                                "speed": "138.799",
+                                "fastestLap": "8:42.900",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "8:42.900",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "11",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap",
+                                "speed": "150.37",
+                                "fastestLap": "8:59.700",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "8:59.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.560",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.730",
+                                "interval": "+ 0.170"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "73",
+                                "gap": "32 Laps",
+                                "interval": "22 Laps"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "47",
+                                "fastestLap": "1:10.560",
+                                "lap_of_fastestLap": "32"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:10.560",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 3.400",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "75",
+                                "gap": "3 Laps",
+                                "interval": "2 Laps",
+                                "speed": "198.493",
+                                "fastestLap": "1:39.200",
+                                "lap_of_fastestLap": "59"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:39.200",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "59",
+                                "gap": "19 Laps",
+                                "interval": "13 Laps",
+                                "speed": "201.617",
+                                "fastestLap": "1:39.800",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:39.800",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.250",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.980",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "69",
+                                "fastestLap": "1:13.500",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:13.500",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "14",
+                                "fastestLap": "1:14.100",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:14.100",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 0.860",
+                                "interval": "+ 0.860"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 2.750",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "65",
+                                "speed": "150.19"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "44"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1963": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "gap": "+ 10.400",
+                                "interval": "+ 3.400"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": "3",
+                                "laps": "77",
+                                "gap": "23 Laps",
+                                "interval": "1 Lap",
+                                "speed": "89.061",
+                                "fastestLap": "1:39.900",
+                                "lap_of_fastestLap": "32"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:39.900",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "25",
+                                "speed": "113.578",
+                                "fastestLap": "1:37.900",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.900",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.900"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 2.500",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "31",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "176.878",
+                                "fastestLap": "4:00.200",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "4:00.200",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "12",
+                                "fastestLap": "4:17.700",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "4:17.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.600",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "154.844",
+                                "fastestLap": "1:34.400",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:34.400",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "68",
+                                "speed": "151.603",
+                                "fastestLap": "1:34.200",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.200",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 1.700"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "53",
+                                "gap": "+ 2:15.200",
+                                "interval": "+ 1.300",
+                                "speed": "198.262",
+                                "fastestLap": "2:22.000",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:22.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "53",
+                                "gap": "+ 2:33.400",
+                                "interval": "+ 18.200",
+                                "speed": "197.812",
+                                "fastestLap": "2:22.300",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:22.300",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 0.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "59",
+                                "speed": "172.901",
+                                "fastestLap": "1:37.000",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.000",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "27",
+                                "speed": "172.374",
+                                "fastestLap": "1:37.600",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.600",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 18.400",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 31.400",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "14",
+                                "gap": "1 Lap",
+                                "interval": "+ 52.500",
+                                "speed": "137.867",
+                                "fastestLap": "9:07.700",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "9:07.700",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "6",
+                                "speed": "92.816",
+                                "fastestLap": "9:14.500",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "9:14.500",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 1.900"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 3.100",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "84",
+                                "gap": "2 Laps",
+                                "interval": "+ 1:33.400",
+                                "speed": "200.773",
+                                "fastestLap": "1:40.800",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:40.800",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "64",
+                                "gap": "22 Laps",
+                                "interval": "9 Laps",
+                                "speed": "189.959",
+                                "fastestLap": "1:39.200",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:39.200",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 1.100",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "108",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "171.181",
+                                "fastestLap": "1:15.300",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:15.300",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "42",
+                                "speed": "174.956",
+                                "fastestLap": "1:15.400",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:15.400",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 2.800",
+                                "interval": "+ 1.000"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 4.800",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "65",
+                                "gap": "+ 1:41.100",
+                                "interval": "+ 1:41.100",
+                                "speed": "148.2"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "62",
+                                "gap": "3 Laps",
+                                "interval": "+ 44.500",
+                                "speed": "142.2"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    }
+                },
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 0.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 0.200",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "85",
+                                "gap": "+ 1:06.800",
+                                "interval": "+ 1:06.800",
+                                "speed": "151.755",
+                                "fastestLap": "1:29.100",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:29.100",
+                            "drivers": [
+                                "Dan_Gurney"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "70",
+                                "gap": "15 Laps",
+                                "interval": "7 Laps",
+                                "speed": "150.002",
+                                "fastestLap": "1:32.000",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:32.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1962": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 0.800",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "4",
+                                "fastestLap": "1:38.300",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:38.300",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 1.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "77",
+                                "gap": "23 Laps",
+                                "interval": "13 Laps",
+                                "fastestLap": "1:37.400",
+                                "lap_of_fastestLap": "67"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:37.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 11.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "30",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "4:09.000",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "4:09.000",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "10",
+                                "speed": "154.535",
+                                "fastestLap": "2:21.900",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:21.900",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 1.800",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "74",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "146.133",
+                                "fastestLap": "1:56.400",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:56.400",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 1:34.400",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "9",
+                                "fastestLap": "10:46.200",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "10:46.200",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 1.100",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "99",
+                                "gap": "1 Lap",
+                                "interval": "+ 18.900",
+                                "speed": "171.663",
+                                "fastestLap": "1:16.100",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:16.100",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 1.700",
+                                "interval": "+ 1.400"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "82",
+                                "gap": "+ 53.800",
+                                "interval": "+ 3.500",
+                                "speed": "149.551",
+                                "fastestLap": "1:31.800",
+                                "lap_of_fastestLap": "77"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:31.800",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

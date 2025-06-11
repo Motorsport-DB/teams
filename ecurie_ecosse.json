@@ -1,0 +1,138 @@
+{
+    "name": "ecurie_ecosse",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 14.000",
+                                "interval": "+ 1.000"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leslie_Thorne"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "78",
+                                "gap": "12 Laps",
+                                "interval": "4 Laps"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leslie_Thorne"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 10.000",
+                                "interval": "+ 1.000",
+                                "speed": "143.71"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Stewart"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 16.000",
+                                "speed": "136.756"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Stewart"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "79"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Stewart"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "24"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Stewart"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 12.000",
+                                "interval": "+ 2.000"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "David_Murray"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "David_Murray"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

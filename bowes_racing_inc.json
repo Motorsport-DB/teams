@@ -1,0 +1,43 @@
+{
+    "name": "bowes_racing_inc",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "55": {
+                            "other_info": {
+                                "carNumber": "55",
+                                "gap": "+ 4.940",
+                                "interval": "+ 1.080",
+                                "speed": "212.293"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Troy_Ruttman"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "55": {
+                            "other_info": {
+                                "carNumber": "55",
+                                "laps": "130",
+                                "gap": "8 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Troy_Ruttman"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

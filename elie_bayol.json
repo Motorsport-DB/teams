@@ -1,0 +1,77 @@
+{
+    "name": "elie_bayol",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 15.700",
+                                "interval": "+ 1.100",
+                                "speed": "169.865"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "18",
+                                "fastestLap": "2:55.600"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:55.600",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 4.900",
+                                "interval": "+ 0.800",
+                                "speed": "173.66"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

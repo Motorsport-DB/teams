@@ -1,0 +1,103 @@
+{
+    "name": "scuderia_ugolini",
+    "seasons": {
+        "1959": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "1st Qualifying": {
+                        "54": {
+                            "other_info": {
+                                "carNumber": "54",
+                                "gap": "+ 1:45.000",
+                                "interval": "+ 0.100",
+                                "speed": "107.8"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giorgio_Scarlatti"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "54": {
+                            "other_info": {
+                                "carNumber": "54",
+                                "gap": "+ 5.400",
+                                "interval": "+ 0.100",
+                                "speed": "107.828"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giorgio_Scarlatti"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "gap": "+ 16.000",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Carel_Godin de Beaufort"
+                            ]
+                        },
+                        "40": {
+                            "other_info": {
+                                "carNumber": "40",
+                                "gap": "+ 16.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giorgio_Scarlatti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "40": {
+                            "other_info": {
+                                "carNumber": "40",
+                                "laps": "41",
+                                "gap": "9 Laps",
+                                "interval": "6 Laps"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giorgio_Scarlatti"
+                            ]
+                        },
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "laps": "40",
+                                "gap": "10 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Carel_Godin de Beaufort"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

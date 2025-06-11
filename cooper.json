@@ -1,0 +1,61 @@
+{
+    "name": "cooper",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 4.900",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Carlos_Menditeguy"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "80",
+                                "gap": "+ 53.300",
+                                "interval": "+ 16.400",
+                                "fastestLap": "1:41.000",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:41.000",
+                            "drivers": [
+                                "Carlos_Menditeguy"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 7.900",
+                                "interval": "+ 5.400"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giulio_Cabianca"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

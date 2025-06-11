@@ -1,0 +1,109 @@
+{
+    "name": "eugene_a_casaroll",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 5.160",
+                                "interval": "+ 0.140",
+                                "speed": "222.475"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Duane_Carter"
+                            ]
+                        },
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 6.110",
+                                "interval": "+ 0.490",
+                                "speed": "221.666"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Troy_Ruttman"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "200",
+                                "gap": "+ 2:52.680",
+                                "interval": "+ 1:32.950",
+                                "speed": "207.958"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "2_Drivers"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "196",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "4_Drivers"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 2.420",
+                                "interval": "+ 0.280"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Walt_Faulkner"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "176",
+                                "gap": "24 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "2_Drivers"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

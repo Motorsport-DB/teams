@@ -1,0 +1,1022 @@
+{
+    "name": "moneytron_onyx_formula_one",
+    "seasons": {
+        "1990": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.804",
+                                "interval": "+ 1.804"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.964",
+                                "interval": "+ 0.154"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.046",
+                                "interval": "+ 0.082"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.891",
+                                "interval": "+ 0.102"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.405",
+                                "interval": "+ 0.022"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "59",
+                                "gap": "2 Laps",
+                                "interval": "+ 30.130",
+                                "speed": "193.732",
+                                "fastestLap": "1:31.374",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:31.374",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "35",
+                                "speed": "193.524",
+                                "fastestLap": "1:31.964",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:31.964",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.053",
+                                "interval": "+ 0.033"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.194",
+                                "interval": "+ 0.088"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "72",
+                                "gap": "6 Laps",
+                                "interval": "4 Laps",
+                                "speed": "134.085",
+                                "fastestLap": "1:27.296",
+                                "lap_of_fastestLap": "66"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:27.296",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "52",
+                                "speed": "130.746",
+                                "fastestLap": "1:28.587",
+                                "lap_of_fastestLap": "29"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.587",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "23",
+                                "gap": "+ 3.998",
+                                "interval": "+ 0.112",
+                                "speed": "187.258"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "18",
+                                "gap": "+ 4.026",
+                                "interval": "+ 0.028",
+                                "speed": "187.196"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "53",
+                                "speed": "169.241",
+                                "fastestLap": "1:26.177",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:26.177",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "46",
+                                "speed": "150.727",
+                                "fastestLap": "1:29.032",
+                                "lap_of_fastestLap": "25"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.032",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.785",
+                                "interval": "+ 0.355"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.292",
+                                "interval": "+ 0.246"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "67",
+                                "gap": "2 Laps",
+                                "interval": "+ 42.570",
+                                "speed": "190.005",
+                                "fastestLap": "1:21.408",
+                                "lap_of_fastestLap": "59"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:21.408",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "26",
+                                "speed": "185.602",
+                                "fastestLap": "1:23.816",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.816",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.830",
+                                "interval": "+ 0.085"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.085",
+                                "interval": "+ 0.255"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.203",
+                                "interval": "+ 0.890"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.843",
+                                "interval": "+ 0.640"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.659",
+                                "interval": "+ 0.261"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 7.011",
+                                "interval": "+ 0.352"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "39",
+                                "speed": "194.546",
+                                "fastestLap": "1:50.173",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:50.173",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "19",
+                                "speed": "216.066",
+                                "fastestLap": "1:51.456",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:51.456",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 4.728",
+                                "interval": "+ 0.159"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 6.442",
+                                "interval": "+ 1.714"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gregor_Foitek"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1989": {
+            "Formula_1": {
+                "Brazilian-grand-prix": {
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37"
+                            },
+                            "position": "NPQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.482",
+                                "interval": "+ 0.141"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "16",
+                                "speed": "184.441",
+                                "fastestLap": "1:23.416",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.416",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.262",
+                                "interval": "+ 0.046"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "50",
+                                "speed": "137.586",
+                                "fastestLap": "1:35.435",
+                                "lap_of_fastestLap": "49"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.435",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.006",
+                                "interval": "+ 0.116"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "13",
+                                "speed": "136.829",
+                                "fastestLap": "1:35.333",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DSQ",
+                            "points": 0,
+                            "fastest_lap": "1:35.333",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 1.919",
+                                "interval": "+ 0.086"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 2.096",
+                                "interval": "+ 0.016"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "183.034",
+                                "fastestLap": "1:13.175",
+                                "lap_of_fastestLap": "55"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:13.175",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "76",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap",
+                                "speed": "174.684",
+                                "fastestLap": "1:13.358",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:13.358",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 3.230",
+                                "interval": "+ 0.002"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "62",
+                                "gap": "2 Laps",
+                                "interval": "+ 16.780",
+                                "speed": "222.113",
+                                "fastestLap": "1:14.484",
+                                "lap_of_fastestLap": "62"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:14.484",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.048",
+                                "interval": "+ 0.082"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 6.704",
+                                "interval": "+ 0.318"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "8",
+                                "speed": "208.083",
+                                "fastestLap": "1:53.686",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:53.686",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 2.908",
+                                "interval": "+ 0.004"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.422",
+                                "interval": "+ 0.131"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "48",
+                                "speed": "137.43",
+                                "fastestLap": "1:24.464",
+                                "lap_of_fastestLap": "39"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.464",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "38",
+                                "speed": "157.316",
+                                "fastestLap": "1:25.207",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.207",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.262",
+                                "interval": "+ 0.014"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 5.849",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "43",
+                                "gap": "1 Lap",
+                                "interval": "+ 27.663",
+                                "speed": "175.63",
+                                "fastestLap": "2:17.294",
+                                "lap_of_fastestLap": "42"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2:17.294",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        },
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "21",
+                                "speed": "166.361",
+                                "fastestLap": "2:19.405",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:19.405",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 4.964",
+                                "interval": "+ 0.015"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "38",
+                                "speed": "216.471",
+                                "fastestLap": "1:32.691",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.691",
+                            "drivers": [
+                                "Bertrand_Gachot"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 2.637",
+                                "interval": "+ 0.012"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "71",
+                                "gap": "+ 55.325",
+                                "interval": "+ 22.688",
+                                "speed": "189.611",
+                                "fastestLap": "1:21.224",
+                                "lap_of_fastestLap": "45"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:21.224",
+                            "drivers": [
+                                "Stefan_Johansson"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 2.952",
+                                "interval": "+ 0.021"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "20",
+                                "speed": "165.938",
+                                "fastestLap": "1:30.206",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.206",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "gap": "+ 2.644",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "37": {
+                            "other_info": {
+                                "carNumber": "37",
+                                "laps": "27",
+                                "speed": "126.037",
+                                "fastestLap": "1:42.509",
+                                "lap_of_fastestLap": "26"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:42.509",
+                            "drivers": [
+                                "JJ_Lehto"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

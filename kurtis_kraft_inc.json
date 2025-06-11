@@ -1,0 +1,69 @@
+{
+    "name": "kurtis_kraft_inc",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 3.130",
+                                "interval": "+ 3.130",
+                                "speed": "213.71"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Fred_Agabashian"
+                            ]
+                        },
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 4.460",
+                                "interval": "+ 0.040",
+                                "speed": "212.667"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnnie_Parsons"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "138",
+                                "speed": "199.563",
+                                "fastestLap": "1:09.770"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:09.770",
+                            "drivers": [
+                                "Johnnie_Parsons"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "64"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Fred_Agabashian"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

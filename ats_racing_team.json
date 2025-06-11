@@ -1,0 +1,1263 @@
+{
+    "name": "ats_racing_team",
+    "seasons": {
+        "1978": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.020",
+                                "interval": "+ 0.080"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.310",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "52",
+                                "gap": "+ 1:49.070",
+                                "interval": "+ 5.570",
+                                "speed": "188.29",
+                                "fastestLap": "1:52.750",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:52.750",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "51",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:52.690",
+                                "lap_of_fastestLap": "42"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:52.690",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.460",
+                                "interval": "+ 0.110"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.290",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "62",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:45.790"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:45.790",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 1.950",
+                                "interval": "+ 0.130"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.470",
+                                "interval": "+ 0.520"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "77",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:17.930"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:17.930",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "43",
+                                "fastestLap": "1:18.630"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:18.630",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix-west": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.470",
+                                "interval": "+ 0.316"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.783",
+                                "interval": "+ 0.128"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "75",
+                                "gap": "5 Laps",
+                                "interval": "4 Laps",
+                                "speed": "130.516",
+                                "fastestLap": "1:24.703"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:24.703",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "11",
+                                "fastestLap": "1:24.734"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.734",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.060",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.770",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.240",
+                                "interval": "+ 0.030"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.110",
+                                "interval": "+ 0.140"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alberto_Colombo"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:26.300"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:26.300",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.590",
+                                "interval": "+ 0.270"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.200",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alberto_Colombo"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "74",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:22.040"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:22.040",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.729",
+                                "interval": "+ 0.169"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.502",
+                                "interval": "+ 0.081"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:28.670"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:28.670",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "63",
+                                "gap": "7 Laps",
+                                "interval": "4 Laps",
+                                "fastestLap": "1:29.714"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:29.714",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.490",
+                                "interval": "+ 0.350"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.680",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "53",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:51.440"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:51.440",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "52",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:52.900"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:52.900",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.470",
+                                "interval": "+ 0.030"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.910",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "66",
+                                "speed": "161.49",
+                                "fastestLap": "1:21.710",
+                                "lap_of_fastestLap": "43"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:21.710",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "59",
+                                "fastestLap": "1:21.050",
+                                "lap_of_fastestLap": "48"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.050",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.310",
+                                "interval": "+ 0.060"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.500",
+                                "interval": "+ 0.830"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.760",
+                                "interval": "+ 0.620"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 6.750",
+                                "interval": "+ 1.400"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.970",
+                                "interval": "+ 0.640"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michael_Bleekemolen"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.460",
+                                "interval": "+ 0.490"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.665",
+                                "interval": "+ 0.122"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.157",
+                                "interval": "+ 0.492"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michael_Bleekemolen"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.659",
+                                "interval": "+ 0.092"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.458",
+                                "interval": "+ 0.505"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michael_Bleekemolen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "43",
+                                "fastestLap": "1:45.097"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:45.097",
+                            "drivers": [
+                                "Michael_Bleekemolen"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "21",
+                                "fastestLap": "1:43.629"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:43.629",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.596",
+                                "interval": "+ 0.628"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 7.538",
+                                "interval": "+ 2.286"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michael_Bleekemolen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "58",
+                                "speed": "131.648",
+                                "fastestLap": "1:38.780"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:38.780",
+                            "drivers": [
+                                "Keke_Rosberg"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1977": {
+            "Formula_1": {
+                "United-states-grand-prix-west": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 0.981",
+                                "interval": "+ 0.082"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:23.526"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:23.526",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 3.570",
+                                "interval": "+ 0.030"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 2.460",
+                                "interval": "+ 0.280"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "74",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:33.140"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:33.140",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 4.470",
+                                "interval": "+ 0.090"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:31.240"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:31.240",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 2.133",
+                                "interval": "+ 0.045"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "72",
+                                "gap": "+ 1:04.567",
+                                "interval": "+ 33.301",
+                                "fastestLap": "1:28.893"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:28.893",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 1.960",
+                                "interval": "+ 0.250"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "4",
+                                "fastestLap": "1:16.250"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:16.250",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 1.610",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "67",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:22.060",
+                                "lap_of_fastestLap": "39"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:22.060",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 2.120",
+                                "interval": "+ 0.420"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.510",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Heyer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "5",
+                                "fastestLap": "1:58.660"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.660",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "9",
+                                "fastestLap": "2:02.310"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:02.310",
+                            "drivers": [
+                                "Hans_Heyer"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 2.380",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 2.390",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "laps": "53",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:43.840",
+                                "lap_of_fastestLap": "48"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:43.840",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        },
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "52",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:43.540",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:43.540",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 2.190",
+                                "interval": "+ 0.310"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        },
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 2.410",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "73",
+                                "gap": "2 Laps"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        },
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 1.550",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 5.020",
+                                "interval": "+ 1.180"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "19",
+                                "fastestLap": "1:40.200"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:40.200",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

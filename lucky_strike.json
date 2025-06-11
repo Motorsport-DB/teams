@@ -1,0 +1,59 @@
+{
+    "name": "lucky_strike",
+    "seasons": {
+        "1972": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "21",
+                                "fastestLap": "1:27.300",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.300",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dave_Charlton"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

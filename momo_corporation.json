@@ -1,0 +1,42 @@
+{
+    "name": "momo_corporation",
+    "seasons": {
+        "1961": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "60": {
+                            "other_info": {
+                                "carNumber": "60",
+                                "gap": "+ 3.400",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Walt_Hansgen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "60": {
+                            "other_info": {
+                                "carNumber": "60",
+                                "laps": "14",
+                                "fastestLap": "1:24.900",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.900",
+                            "drivers": [
+                                "Walt_Hansgen"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

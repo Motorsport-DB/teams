@@ -1,0 +1,43 @@
+{
+    "name": "john_lorenz",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "76": {
+                            "other_info": {
+                                "carNumber": "76",
+                                "gap": "+ 9.040",
+                                "interval": "+ 0.940",
+                                "speed": "209.151"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_Rathmann"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "76": {
+                            "other_info": {
+                                "carNumber": "76",
+                                "laps": "122",
+                                "gap": "16 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_Rathmann"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

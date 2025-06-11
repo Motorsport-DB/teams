@@ -1,0 +1,73 @@
+{
+    "name": "espana_marlboro_brm",
+    "seasons": {
+        "1972": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 3.200",
+                                "interval": "+ 0.110"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 4.140",
+                                "interval": "+ 0.140"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "6",
+                                "fastestLap": "1:25.490",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.490",
+                            "drivers": [
+                                "Alex_Soler-Roig"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

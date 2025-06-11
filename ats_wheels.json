@@ -1,0 +1,460 @@
+{
+    "name": "ats_wheels",
+    "seasons": {
+        "1979": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 7.080",
+                                "interval": "+ 0.230"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 9.200",
+                                "interval": "+ 0.490"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "31",
+                                "fastestLap": "2:35.530"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:35.530",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.510",
+                                "interval": "+ 0.160"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "57",
+                                "fastestLap": "1:17.500"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:17.500",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix-west": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.003",
+                                "interval": "+ 0.867"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "49",
+                                "fastestLap": "1:24.220"
+                            },
+                            "position": "DSQ",
+                            "points": 0,
+                            "fastest_lap": "1:24.220",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.070",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "69",
+                                "gap": "6 Laps",
+                                "interval": "3 Laps",
+                                "speed": "140.34",
+                                "fastestLap": "1:20.770",
+                                "lap_of_fastestLap": "40"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:20.770",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.490",
+                                "interval": "+ 0.250"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "69",
+                                "gap": "1 Lap",
+                                "interval": "+ 1:31.610",
+                                "speed": "175.49",
+                                "fastestLap": "1:24.840",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:24.840",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 1.770",
+                                "interval": "+ 0.230"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "30",
+                                "fastestLap": "1:30.650",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.650",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.560",
+                                "interval": "+ 0.610"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.560",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.990",
+                                "interval": "+ 0.460"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.860",
+                                "interval": "+ 0.610"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "28",
+                                "fastestLap": "1:39.320",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.320",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.795",
+                                "interval": "+ 0.109"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "19",
+                                "fastestLap": "1:23.014",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.014",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.717",
+                                "interval": "+ 0.066"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "49",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:40.200",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:40.200",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.966",
+                                "interval": "+ 0.176"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "14",
+                                "fastestLap": "1:35.656",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:35.656",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.714",
+                                "interval": "+ 0.096"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "59",
+                                "gap": "+ 1:41.259",
+                                "interval": "+ 10.747",
+                                "speed": "168.795",
+                                "fastestLap": "1:43.400",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:43.400",
+                            "drivers": [
+                                "Hans-Joachim_Stuck"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

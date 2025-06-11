@@ -1,0 +1,63 @@
+{
+    "name": "equipe_prideaux-dick_gibson",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 35.100",
+                                "interval": "+ 4.600"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Vic_Wilson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "24",
+                                "fastestLap": "3:14.600",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "3:14.600",
+                            "drivers": [
+                                "Vic_Wilson"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1957": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 2:20.800",
+                                "interval": "+ 38.000"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dick_Gibson"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

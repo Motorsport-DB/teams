@@ -1,0 +1,145 @@
+{
+    "name": "bowmaker_racing_team",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "51",
+                                "gap": "3 Laps",
+                                "interval": "+ 27.100",
+                                "speed": "154.271",
+                                "fastestLap": "2:20.100",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:20.100",
+                            "drivers": [
+                                "John_Surtees"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "20",
+                                "speed": "149.46",
+                                "fastestLap": "2:24.400",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:24.400",
+                            "drivers": [
+                                "Roy_Salvadori"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "75",
+                                "gap": "+ 49.200",
+                                "interval": "+ 49.200",
+                                "speed": "147.628",
+                                "fastestLap": "1:55.800",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:55.800",
+                            "drivers": [
+                                "John_Surtees"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "34",
+                                "speed": "123.929",
+                                "fastestLap": "1:58.200",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.200",
+                            "drivers": [
+                                "Roy_Salvadori"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "19",
+                                "speed": "165.956",
+                                "fastestLap": "1:18.300",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:18.300",
+                            "drivers": [
+                                "John_Surtees"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roy_Salvadori"
+                            ]
+                        }
+                    }
+                },
+                "South-african-grand-prix": {
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "56",
+                                "speed": "144.838",
+                                "fastestLap": "1:34.900",
+                                "lap_of_fastestLap": "54"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.900",
+                            "drivers": [
+                                "Roy_Salvadori"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "26",
+                                "speed": "148.879",
+                                "fastestLap": "1:33.000",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.000",
+                            "drivers": [
+                                "John_Surtees"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "name": "georges_berger",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Georges_Berger"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Georges_Berger"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 1:28.000",
+                                "interval": "+ 17.000",
+                                "speed": "141.988"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Georges_Berger"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Georges_Berger"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

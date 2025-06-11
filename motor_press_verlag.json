@@ -1,0 +1,41 @@
+{
+    "name": "motor_press_verlag",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "127": {
+                            "other_info": {
+                                "carNumber": "127",
+                                "gap": "+ 51.900",
+                                "interval": "+ 14.400",
+                                "speed": "125.119"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Paul_Pietsch"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "127": {
+                            "other_info": {
+                                "carNumber": "127",
+                                "laps": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Paul_Pietsch"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

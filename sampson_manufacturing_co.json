@@ -1,0 +1,43 @@
+{
+    "name": "sampson_manufacturing_co",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "gap": "+ 9.080",
+                                "interval": "+ 0.040",
+                                "speed": "209.12"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Walt_Ader"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "laps": "123",
+                                "gap": "15 Laps",
+                                "interval": "2 Laps"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Walt_Ader"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

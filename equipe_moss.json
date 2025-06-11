@@ -1,0 +1,42 @@
+{
+    "name": "equipe_moss",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 18.700",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "35",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

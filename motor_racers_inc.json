@@ -1,0 +1,40 @@
+{
+    "name": "motor_racers_inc",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 5.450",
+                                "speed": "222.227"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pat_O'Connor"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "181"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pat_O'Connor"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

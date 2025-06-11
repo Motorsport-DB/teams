@@ -1,0 +1,44 @@
+{
+    "name": "ram_racing_with_lavazza",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 7.230",
+                                "interval": "+ 1.580"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "laps": "50",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap",
+                                "speed": "196.09",
+                                "fastestLap": "1:43.170"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:43.170",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

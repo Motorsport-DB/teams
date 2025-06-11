@@ -1,0 +1,40 @@
+{
+    "name": "automobiles_bugatti",
+    "seasons": {
+        "1956": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 18.600",
+                                "interval": "+ 1.900"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

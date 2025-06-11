@@ -1,0 +1,40 @@
+{
+    "name": "wolcott_memorial_racing_team",
+    "seasons": {
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 6.600",
+                                "interval": "+ 0.020"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Len_Sutton"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Len_Sutton"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "champcarr_inc",
+    "seasons": {
+        "1972": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 4.044",
+                                "interval": "+ 0.092"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sam_Posey"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "57",
+                                "gap": "2 Laps"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sam_Posey"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

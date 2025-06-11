@@ -1,0 +1,40 @@
+{
+    "name": "a_simon",
+    "seasons": {
+        "1956": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "gap": "+ 24.600",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andre_Simon"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "laps": "41"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andre_Simon"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

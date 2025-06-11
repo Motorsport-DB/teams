@@ -1,0 +1,913 @@
+{
+    "name": "r_r_c_walker_racing_team",
+    "seasons": {
+        "1959": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "98",
+                                "gap": "2 Laps",
+                                "interval": "2 Laps",
+                                "fastestLap": "1:44.400",
+                                "lap_of_fastestLap": "42"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:44.400",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "81",
+                                "fastestLap": "1:42.300",
+                                "lap_of_fastestLap": "80"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:42.300",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "speed": "113.674"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 2.100",
+                                "interval": "+ 0.400",
+                                "speed": "111.327"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 0.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.700",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "73",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:38.400",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:38.400",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "62",
+                                "fastestLap": "1:36.600",
+                                "lap_of_fastestLap": "42"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.600",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "36",
+                                "gap": "14 Laps",
+                                "interval": "4 Laps"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.200"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "74",
+                                "gap": "1 Lap",
+                                "fastestLap": "1:59.200",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:59.200",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 0.900",
+                                "interval": "+ 0.900"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 6.800",
+                                "interval": "+ 1.300"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "59",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "fastestLap": "2:05.900",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:05.900",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "1",
+                                "fastestLap": "2:19.000",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:19.000",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 4.500",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "62",
+                                "fastestLap": "2:05.070",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2:05.070",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "60",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "2:08.050",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:08.050",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 3.700",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "72",
+                                "fastestLap": "1:41.000",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:41.000",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "70",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:44.200",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:44.200",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        },
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 6.000",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "42",
+                                "gap": "+ 0.600",
+                                "interval": "+ 0.600",
+                                "fastestLap": "3:05.000",
+                                "lap_of_fastestLap": "39"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "3:05.000",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1958": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 2.000",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "80"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Stirling_Moss"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "laps": "100",
+                                "speed": "109.4"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 1:45.900",
+                                "interval": "+ 1:45.900",
+                                "speed": "106.9"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ron_Flockhart"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.100",
+                                "speed": "111.988"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 6.100",
+                                "interval": "+ 0.900",
+                                "speed": "106.912"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ron_Flockhart"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.100"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "72",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Race": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "73",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "157.9"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 3.200",
+                                "interval": "+ 0.600",
+                                "speed": "165.28"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 22.900",
+                                "interval": "+ 1.600"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 1:07.000",
+                                "interval": "+ 3.100"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_Seidel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "15",
+                                "gap": "+ 5:11.200",
+                                "interval": "+ 1:41.500"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 3.700",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "48",
+                                "gap": "2 Laps"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 5.900",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "24"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                },
+                "Moroccan-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 2.900",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "carNumber": "54",
+                                "gap": "+ 23.500",
+                                "interval": "+ 3.500"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Francois_Picard"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maurice_Trintignant"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1957": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 6.800",
+                                "interval": "+ 1.400"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "74"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 53.200",
+                                "interval": "+ 3.800"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Brabham"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1955": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.200",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Rolt"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Peter_Walker"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 13.000",
+                                "interval": "+ 2.000"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Riseley-Prichard"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "40"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "John_Riseley-Prichard"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 6.000",
+                                "interval": "+ 2.000",
+                                "speed": "148.752"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Rolt"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "70"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Rolt"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

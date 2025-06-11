@@ -1,0 +1,75 @@
+{
+    "name": "hart_fullerton",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.120",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Marshall_Teague"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "169"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Marshall_Teague"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 1.920",
+                                "interval": "+ 1.920"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andy_Linden"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "20"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andy_Linden"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

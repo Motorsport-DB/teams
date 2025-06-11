@@ -1,0 +1,107 @@
+{
+    "name": "scuderia_sss_republica_di_venezia",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "gap": "+ 26.400",
+                                "interval": "+ 17.400"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 46.600",
+                                "interval": "+ 3.800"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "14",
+                                "gap": "1 Lap",
+                                "fastestLap": "11:13.100",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "11:13.100",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 3.050",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "84",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:44.600",
+                                "lap_of_fastestLap": "40"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:44.600",
+                            "drivers": [
+                                "Nino_Vaccarella"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "e_r_casale",
+    "seasons": {
+        "1956": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "41": {
+                            "other_info": {
+                                "carNumber": "41",
+                                "gap": "+ 8.860",
+                                "interval": "+ 1.150"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Billy_Garrett"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "41": {
+                            "other_info": {
+                                "carNumber": "41",
+                                "laps": "194",
+                                "gap": "6 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Billy_Garrett"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "gap": "+ 9.510",
+                                "interval": "+ 0.560"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "laps": "53"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

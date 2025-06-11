@@ -1,0 +1,41 @@
+{
+    "name": "rennkollektiv_emw",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 1:41.000",
+                                "interval": "+ 3.600",
+                                "speed": "117.174"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

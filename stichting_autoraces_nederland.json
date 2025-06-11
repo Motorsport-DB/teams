@@ -1,0 +1,61 @@
+{
+    "name": "stichting_autoraces_nederland",
+    "seasons": {
+        "1971": {
+            "Formula_1": {
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 3.370",
+                                "interval": "+ 0.180"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gijs_Van Lennep"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "65",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:41.980",
+                                "lap_of_fastestLap": "47"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:41.980",
+                            "drivers": [
+                                "Gijs_Van Lennep"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 5.387",
+                                "interval": "+ 2.651"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gijs_Van Lennep"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

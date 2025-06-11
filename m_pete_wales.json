@@ -1,0 +1,76 @@
+{
+    "name": "m_pete_wales",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "68": {
+                            "other_info": {
+                                "carNumber": "68",
+                                "gap": "+ 8.950",
+                                "interval": "+ 1.400"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ed_Elisian"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "68": {
+                            "other_info": {
+                                "carNumber": "68",
+                                "laps": "53"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ed_Elisian"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62",
+                                "gap": "+ 9.610",
+                                "speed": "208.721"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_McDowell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62",
+                                "laps": "128",
+                                "gap": "10 Laps"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnny_McDowell"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "afm",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 14.200",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Von Stuck"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Von Stuck"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

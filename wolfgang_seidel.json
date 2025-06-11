@@ -1,0 +1,82 @@
+{
+    "name": "wolfgang_seidel",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 25.600",
+                                "interval": "+ 4.900"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_Seidel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "44",
+                                "gap": "6 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "3:04.300",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "3:04.300",
+                            "drivers": [
+                                "Wolfgang_Seidel"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 1:59.500",
+                                "interval": "+ 3.000",
+                                "speed": "114.16"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_Seidel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "14",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_Seidel"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

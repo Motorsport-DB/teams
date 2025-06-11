@@ -1,0 +1,77 @@
+{
+    "name": "emmett_j_malloy",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 0.100",
+                                "interval": "+ 0.010"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Reece"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Reece"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 5.020",
+                                "interval": "+ 0.050",
+                                "speed": "222.594"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Reece"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "194",
+                                "gap": "6 Laps"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jimmy_Reece"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

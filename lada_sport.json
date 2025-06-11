@@ -1,6 +1,214 @@
 {
     "name": "lada_sport",
     "seasons": {
+        "2012": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-hungary": {
+                    "1st Practice": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "9",
+                                "speed": "134.364"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "10",
+                                "speed": "135.14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "2",
+                                "speed": "135.347"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "8",
+                                "speed": "134.85"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "7",
+                                "speed": "125.434",
+                                "fastestLap": "1:58.871",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.871",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "1",
+                                "speed": "119.716",
+                                "fastestLap": "2:10.538",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:10.538",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    }
+                },
+                "Race-of-portugal": {
+                    "1st Practice": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "11",
+                                "gap": "+ 1.874",
+                                "interval": "+ 0.015",
+                                "speed": "143.85"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "12",
+                                "gap": "+ 1.441",
+                                "interval": "+ 0.097",
+                                "speed": "143.131"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "6",
+                                "gap": "+ 1.117",
+                                "interval": "+ 0.034",
+                                "speed": "144.495"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "6",
+                                "gap": "+ 2.197",
+                                "interval": "+ 0.126",
+                                "speed": "144.04"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "10",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "133.433",
+                                "fastestLap": "1:57.634",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:57.634",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "11",
+                                "gap": "+ 19.832",
+                                "interval": "+ 1.704",
+                                "speed": "139.491",
+                                "fastestLap": "1:57.767",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:57.767",
+                            "drivers": [
+                                "James_Thompson"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "2009": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-brazil": {
@@ -3284,214 +3492,6 @@
                             "fastest_lap": "2:33.060",
                             "drivers": [
                                 "Jaap_van Lagen"
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "2012": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-hungary": {
-                    "1st Practice": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "9",
-                                "speed": "134.364"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "2nd Practice": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "10",
-                                "speed": "135.14"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "1st Qualifying": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "2",
-                                "speed": "135.347"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Warm Up": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "8",
-                                "speed": "134.85"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "7",
-                                "speed": "125.434",
-                                "fastestLap": "1:58.871",
-                                "lap_of_fastestLap": "2"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:58.871",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "1",
-                                "speed": "119.716",
-                                "fastestLap": "2:10.538",
-                                "lap_of_fastestLap": "1"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "2:10.538",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    }
-                },
-                "Race-of-portugal": {
-                    "1st Practice": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "11",
-                                "gap": "+ 1.874",
-                                "interval": "+ 0.015",
-                                "speed": "143.85"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "2nd Practice": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "12",
-                                "gap": "+ 1.441",
-                                "interval": "+ 0.097",
-                                "speed": "143.131"
-                            },
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "1st Qualifying": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "6",
-                                "gap": "+ 1.117",
-                                "interval": "+ 0.034",
-                                "speed": "144.495"
-                            },
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Warm Up": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "6",
-                                "gap": "+ 2.197",
-                                "interval": "+ 0.126",
-                                "speed": "144.04"
-                            },
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "10",
-                                "gap": "1 Lap",
-                                "interval": "1 Lap",
-                                "speed": "133.433",
-                                "fastestLap": "1:57.634",
-                                "lap_of_fastestLap": "3"
-                            },
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:57.634",
-                            "drivers": [
-                                "James_Thompson"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "69": {
-                            "other_info": {
-                                "carNumber": "69",
-                                "laps": "11",
-                                "gap": "+ 19.832",
-                                "interval": "+ 1.704",
-                                "speed": "139.491",
-                                "fastestLap": "1:57.767",
-                                "lap_of_fastestLap": "4"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:57.767",
-                            "drivers": [
-                                "James_Thompson"
                             ]
                         }
                     }

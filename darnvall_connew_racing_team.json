@@ -1,0 +1,57 @@
+{
+    "name": "darnvall_connew_racing_team",
+    "seasons": {
+        "1972": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 8.100",
+                                "interval": "+ 7.000"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Migault"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 7.910",
+                                "interval": "+ 3.960"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Migault"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "22"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Migault"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "name": "sachs_racing",
+    "seasons": {
+        "1978": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 4.350",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "41",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:57.570"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:57.570",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 3.890",
+                                "interval": "+ 0.020"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 4.640",
+                                "interval": "+ 0.310"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 2.750",
+                                "interval": "+ 0.071"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

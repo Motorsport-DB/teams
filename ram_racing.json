@@ -1,0 +1,351 @@
+{
+    "name": "ram_racing",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 3.530",
+                                "interval": "+ 0.090"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 4.370",
+                                "interval": "+ 0.670"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 2.250",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Patrick_Nève"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 2.540",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "63",
+                                "gap": "7 Laps",
+                                "interval": "5 Laps",
+                                "fastestLap": "1:30.890"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:30.890",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "laps": "26",
+                                "fastestLap": "1:30.450"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.450",
+                            "drivers": [
+                                "Patrick_Nève"
+                            ]
+                        }
+                    }
+                },
+                "Swedish-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 4.361",
+                                "interval": "+ 0.423"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 4.600",
+                                "interval": "+ 0.239"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jac_Nelleman"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jac_Nelleman"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 5.600",
+                                "interval": "+ 0.670"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Damien_Magee"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 7.410",
+                                "interval": "+ 1.520"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Damien_Magee"
+                            ]
+                        },
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 3.120",
+                                "interval": "+ 0.410"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bob_Evans"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 7.730",
+                                "interval": "+ 1.420"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "24",
+                                "fastestLap": "1:24.630",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.630",
+                            "drivers": [
+                                "Bob_Evans"
+                            ]
+                        },
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 44.600",
+                                "interval": "+ 2.600"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lella_Lombardi"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 2:00.990",
+                                "interval": "+ 1:53.760"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "44",
+                                "fastestLap": "1:41.330"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:41.330",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

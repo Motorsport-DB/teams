@@ -1,0 +1,405 @@
+{
+    "name": "auto_motor_und_sport",
+    "seasons": {
+        "1970": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 1.900",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "23",
+                                "speed": "173.4",
+                                "fastestLap": "1:23.600",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.600",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "43",
+                                "fastestLap": "1:27.500"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.500",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 2.300",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 4.000",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "28",
+                                "gap": "+ 3:31.800",
+                                "interval": "+ 53.300",
+                                "speed": "232.9",
+                                "fastestLap": "3:34.600",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "3:34.600",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 3.840",
+                                "interval": "+ 0.980"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.190",
+                                "interval": "+ 0.540"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "38",
+                                "gap": "+ 2:20.160",
+                                "interval": "+ 1:00.510",
+                                "fastestLap": "3:03.690",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "3:03.690",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.500",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 2.100",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "49",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "fastestLap": "2:03.500",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:03.500",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 2.860",
+                                "interval": "+ 0.230"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "60",
+                                "gap": "+ 1:27.880",
+                                "interval": "+ 1:27.270",
+                                "fastestLap": "1:41.980",
+                                "lap_of_fastestLap": "49"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:41.980",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "gap": "+ 2.460",
+                                "interval": "+ 0.410"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "laps": "68",
+                                "gap": "+ 6.410",
+                                "interval": "+ 0.260",
+                                "speed": "236.44",
+                                "fastestLap": "1:26.000",
+                                "lap_of_fastestLap": "63"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:26.000",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 3.200",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "23",
+                                "speed": "148.898",
+                                "fastestLap": "1:39.700",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.700",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 2.700",
+                                "interval": "+ 0.330"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "104",
+                                "gap": "4 Laps",
+                                "interval": "+ 31.740",
+                                "speed": "194.69",
+                                "fastestLap": "1:05.420",
+                                "lap_of_fastestLap": "67"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:05.420",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 4.440",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "15",
+                                "speed": "140.51",
+                                "fastestLap": "1:47.340",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:47.340",
+                            "drivers": [
+                                "Rolf_Stommelen"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

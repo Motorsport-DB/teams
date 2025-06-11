@@ -1,0 +1,40 @@
+{
+    "name": "hoover_motor_express_inc",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 10.870",
+                                "interval": "+ 1.580"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_McWithey"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "60"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_McWithey"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

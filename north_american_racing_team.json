@@ -1,0 +1,42 @@
+{
+    "name": "north_american_racing_team",
+    "seasons": {
+        "1965": {
+            "Formula_1": {
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 2.890",
+                                "interval": "+ 0.840"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pedro_Rodriguez"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "62",
+                                "gap": "3 Laps",
+                                "interval": "2 Laps"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pedro_Rodriguez"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

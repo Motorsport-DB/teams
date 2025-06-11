@@ -1,0 +1,177 @@
+{
+    "name": "stp_corporation",
+    "seasons": {
+        "1970": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 1.200",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "26",
+                                "speed": "175",
+                                "fastestLap": "1:22.600",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:22.600",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.800",
+                                "interval": "+ 0.160"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "89",
+                                "gap": "1 Lap",
+                                "interval": "+ 16.000",
+                                "speed": "138.4",
+                                "fastestLap": "1:25.700"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:25.700",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 1.400",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "21",
+                                "fastestLap": "1:29.100",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.100",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 2.000",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "15",
+                                "fastestLap": "2:03.800",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:03.800",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 3.050",
+                                "interval": "+ 0.190"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "13",
+                                "fastestLap": "1:44.080",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:44.080",
+                            "drivers": [
+                                "Mario_Andretti"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

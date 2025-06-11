@@ -1,0 +1,40 @@
+{
+    "name": "joe_hunt",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "76": {
+                            "other_info": {
+                                "carNumber": "76",
+                                "gap": "+ 8.230",
+                                "interval": "+ 0.650"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Al_Herman"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "76": {
+                            "other_info": {
+                                "carNumber": "76",
+                                "laps": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Al_Herman"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

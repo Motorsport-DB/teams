@@ -1,0 +1,42 @@
+{
+    "name": "blignaut_embassy_racing_sa",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 2.420",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eddie_Keizan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "76",
+                                "gap": "2 Laps",
+                                "fastestLap": "1:20.370"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:20.370",
+                            "drivers": [
+                                "Eddie_Keizan"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

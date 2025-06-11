@@ -1,0 +1,112 @@
+{
+    "name": "warsteiner_brewery",
+    "seasons": {
+        "1975": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 20.900",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "14",
+                                "gap": "+ 7:40.900",
+                                "interval": "+ 10.500",
+                                "speed": "176.1",
+                                "fastestLap": "7:25.000",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "7:25.000",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 5.870",
+                                "interval": "+ 1.160"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "23"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 3.190",
+                                "interval": "+ 0.140"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "51",
+                                "gap": "1 Lap",
+                                "interval": "+ 24.600",
+                                "speed": "210.8",
+                                "fastestLap": "1:35.000",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:35.000",
+                            "drivers": [
+                                "Harald_Ertl"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

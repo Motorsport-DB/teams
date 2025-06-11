@@ -1,0 +1,143 @@
+{
+    "name": "automobili_osca",
+    "seasons": {
+        "1959": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 28.000",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_de Tomaso"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alessandro_de Tomaso"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1958": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "1st Qualifying": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "gap": "+ 1:52.000",
+                                "interval": "+ 0.600",
+                                "speed": "101.1"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giulio_Cabianca"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "carNumber": "54",
+                                "gap": "+ 1:52.400",
+                                "interval": "+ 0.400",
+                                "speed": "100.7"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luigi_Piotti"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "52": {
+                            "other_info": {
+                                "carNumber": "52",
+                                "gap": "+ 12.200",
+                                "interval": "+ 0.600",
+                                "speed": "101.089"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giulio_Cabianca"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "carNumber": "54",
+                                "gap": "+ 12.600",
+                                "interval": "+ 0.400",
+                                "speed": "100.729"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luigi_Piotti"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "gap": "+ 20.200",
+                                "interval": "+ 1.300"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Franco_Rol"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "67",
+                                "gap": "13 Laps",
+                                "interval": "5 Laps"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Franco_Rol"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

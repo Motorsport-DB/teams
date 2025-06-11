@@ -1,0 +1,76 @@
+{
+    "name": "helmut_niedermayr",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 1:24.500",
+                                "interval": "+ 2.200",
+                                "speed": "120"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Theo_Fitzau"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Theo_Fitzau"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1952": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "124": {
+                            "other_info": {
+                                "carNumber": "124"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Helmut_Niedermayr"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "124": {
+                            "other_info": {
+                                "carNumber": "124",
+                                "laps": "15",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Helmut_Niedermayr"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "name": "osca_automobili",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "gap": "+ 5.100",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "17"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Elie_Bayol"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

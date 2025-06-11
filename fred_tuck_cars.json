@@ -1,0 +1,113 @@
+{
+    "name": "fred_tuck_cars",
+    "seasons": {
+        "1961": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 18.500",
+                                "interval": "+ 1.800"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jack_Fairman"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1960": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "gap": "+ 3.300",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruce_Halford"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 6.800",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lucien_Bianchi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "18",
+                                "fastestLap": "2:25.500",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:25.500",
+                            "drivers": [
+                                "Lucien_Bianchi"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 5.600",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lucien_Bianchi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "62",
+                                "fastestLap": "1:40.200",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:40.200",
+                            "drivers": [
+                                "Lucien_Bianchi"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

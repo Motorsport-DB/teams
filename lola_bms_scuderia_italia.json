@@ -1,0 +1,792 @@
+{
+    "name": "lola_bms_scuderia_italia",
+    "seasons": {
+        "1993": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 6.197",
+                                "interval": "+ 0.899"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 9.041",
+                                "interval": "+ 2.844"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "55",
+                                "speed": "178.838",
+                                "fastestLap": "1:23.496",
+                                "lap_of_fastestLap": "40"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.496",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "20",
+                                "speed": "138.557",
+                                "fastestLap": "1:26.074",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:26.074",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.042",
+                                "interval": "+ 0.192"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.622",
+                                "interval": "+ 0.260"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "68",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "158.374",
+                                "fastestLap": "1:24.329",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:24.329",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "68",
+                                "gap": "3 Laps",
+                                "interval": "+ 31.264",
+                                "speed": "157.637",
+                                "fastestLap": "1:23.774",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:23.774",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "European-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 4.864",
+                                "interval": "+ 0.395"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.183",
+                                "interval": "+ 0.224"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "70",
+                                "gap": "6 Laps",
+                                "interval": "+ 7:59.553",
+                                "speed": "151.691",
+                                "fastestLap": "1:28.023",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:28.023",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.301",
+                                "interval": "+ 0.094"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.701",
+                                "interval": "+ 0.169"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "58",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "185.025",
+                                "fastestLap": "1:31.751",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:31.751",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 6.459",
+                                "interval": "+ 0.804"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 7.587",
+                                "interval": "+ 0.997"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "43",
+                                "speed": "187.453",
+                                "fastestLap": "1:28.633",
+                                "lap_of_fastestLap": "41"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.633",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.887",
+                                "interval": "+ 1.177"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 9.056",
+                                "interval": "+ 3.031"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "28",
+                                "speed": "128.963",
+                                "fastestLap": "1:29.377",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.377",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.370",
+                                "interval": "+ 0.397"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.395",
+                                "interval": "+ 0.025"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "65",
+                                "gap": "4 Laps",
+                                "interval": "1 Lap",
+                                "speed": "178.11",
+                                "fastestLap": "1:26.440",
+                                "lap_of_fastestLap": "47"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:26.440",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 5.111",
+                                "interval": "+ 0.350"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.748",
+                                "interval": "+ 0.274"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "28",
+                                "speed": "175.599",
+                                "fastestLap": "1:25.196",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:25.196",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 7.233",
+                                "interval": "+ 0.842"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 7.514",
+                                "interval": "+ 0.281"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "32",
+                                "speed": "201.383",
+                                "fastestLap": "1:29.474",
+                                "lap_of_fastestLap": "29"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.474",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 4.597",
+                                "interval": "+ 0.338"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.418",
+                                "interval": "+ 0.821"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "43",
+                                "gap": "2 Laps",
+                                "interval": "+ 4:36.174",
+                                "speed": "221.057",
+                                "fastestLap": "1:48.875",
+                                "lap_of_fastestLap": "40"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:48.875",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "4",
+                                "speed": "194.36",
+                                "fastestLap": "1:51.879",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:51.879",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 6.871",
+                                "interval": "+ 1.020"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 8.024",
+                                "interval": "+ 1.153"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "39",
+                                "speed": "156.671",
+                                "fastestLap": "1:27.289",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.289",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "37",
+                                "speed": "160.413",
+                                "fastestLap": "1:24.568",
+                                "lap_of_fastestLap": "29"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.568",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 7.407",
+                                "interval": "+ 0.427"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 8.394",
+                                "interval": "+ 0.987"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "42",
+                                "gap": "2 Laps",
+                                "interval": "+ 1:05.685",
+                                "speed": "203.974",
+                                "fastestLap": "1:59.228",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:59.228",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "41",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "200.186",
+                                "fastestLap": "2:00.927",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "2:00.927",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 4.189",
+                                "interval": "+ 0.111"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 4.778",
+                                "interval": "+ 0.258"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "51",
+                                "gap": "2 Laps",
+                                "interval": "+ 4.432",
+                                "speed": "226.596",
+                                "fastestLap": "1:29.426",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:29.426",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "23",
+                                "speed": "227.123",
+                                "fastestLap": "1:30.168",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:30.168",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 5.624",
+                                "interval": "+ 0.467"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 6.245",
+                                "interval": "+ 0.621"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "68",
+                                "gap": "3 Laps",
+                                "interval": "+ 59.238",
+                                "speed": "188.4",
+                                "fastestLap": "1:19.602",
+                                "lap_of_fastestLap": "49"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:19.602",
+                            "drivers": [
+                                "Luca_Badoer"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "38",
+                                "speed": "186.311",
+                                "fastestLap": "1:21.270",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.270",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

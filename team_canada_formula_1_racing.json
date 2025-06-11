@@ -1,0 +1,41 @@
+{
+    "name": "team_canada_formula_1_racing",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50",
+                                "gap": "+ 3.123",
+                                "interval": "+ 0.496"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eppie_Wietzes"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50",
+                                "laps": "33",
+                                "fastestLap": "1:17.914"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:17.914",
+                            "drivers": [
+                                "Eppie_Wietzes"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

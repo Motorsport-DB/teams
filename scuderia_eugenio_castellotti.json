@@ -1,0 +1,154 @@
+{
+    "name": "scuderia_eugenio_castellotti",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 11.100",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 14.500",
+                                "interval": "+ 6.600"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "16",
+                                "fastestLap": "2:31.900",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:31.900",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "laps": "70",
+                                "gap": "7 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:44.200",
+                                "lap_of_fastestLap": "58"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:44.200",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 8.300",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Giorgio_Scarlatti"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 11.700",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "48",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "2:49.600",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:49.600",
+                            "drivers": [
+                                "Giulio_Cabianca"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "laps": "27",
+                                "fastestLap": "2:51.800",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:51.800",
+                            "drivers": [
+                                "Gino_Munaron"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

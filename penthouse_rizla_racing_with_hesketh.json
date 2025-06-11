@@ -1,0 +1,45 @@
+{
+    "name": "penthouse_rizla_racing_with_hesketh",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 4.828",
+                                "interval": "+ 1.016"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Guy_Edwards"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "75",
+                                "gap": "5 Laps",
+                                "interval": "2 Laps",
+                                "speed": "175.9",
+                                "fastestLap": "1:17.276",
+                                "lap_of_fastestLap": "44"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:17.276",
+                            "drivers": [
+                                "Guy_Edwards"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

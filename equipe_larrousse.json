@@ -1,0 +1,782 @@
+{
+    "name": "equipe_larrousse",
+    "seasons": {
+        "1989": {
+            "Formula_1": {
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 4.158",
+                                "interval": "+ 0.005"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 5.127",
+                                "interval": "+ 0.209"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 4.549",
+                                "interval": "+ 0.062"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 5.638",
+                                "interval": "+ 0.036"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "38",
+                                "speed": "130.818",
+                                "fastestLap": "1:29.446",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.446",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 3.155",
+                                "interval": "+ 0.088"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 7.775",
+                                "interval": "+ 3.570"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "28",
+                                "speed": "77.093",
+                                "fastestLap": "1:22.593",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:22.593",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2.454",
+                                "interval": "+ 0.069"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 5.388",
+                                "interval": "+ 0.698"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "3",
+                                "speed": "132.532",
+                                "fastestLap": "1:38.690",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:38.690",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2.086",
+                                "interval": "+ 0.009"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 4.188",
+                                "interval": "+ 0.110"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yannick_Dalmas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "26",
+                                "speed": "154.037",
+                                "fastestLap": "1:36.687",
+                                "lap_of_fastestLap": "11"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.687",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 1.358",
+                                "interval": "+ 0.328"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 2.393",
+                                "interval": "+ 0.072"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Éric_Bernard"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "77",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "181.876",
+                                "fastestLap": "1:13.144",
+                                "lap_of_fastestLap": "55"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:13.144",
+                            "drivers": [
+                                "Éric_Bernard"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "30",
+                                "speed": "182.685",
+                                "fastestLap": "1:13.719",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:13.719",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2.442",
+                                "interval": "+ 0.173"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 2.588",
+                                "interval": "+ 0.146"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Éric_Bernard"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "46",
+                                "speed": "215.029",
+                                "fastestLap": "1:16.264",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:16.264",
+                            "drivers": [
+                                "Éric_Bernard"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "39",
+                                "speed": "221.903",
+                                "fastestLap": "1:15.405",
+                                "lap_of_fastestLap": "34"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:15.405",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 5.186",
+                                "interval": "+ 0.099"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 6.370",
+                                "interval": "+ 0.274"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "20",
+                                "speed": "212.389",
+                                "fastestLap": "1:52.638",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.638",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "1",
+                                "speed": "187.69",
+                                "fastestLap": "2:10.370",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:10.370",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 4.007",
+                                "interval": "+ 0.334"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "26",
+                                "speed": "158.882",
+                                "fastestLap": "1:27.840",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.840",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 5.023",
+                                "interval": "+ 0.026"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 5.749",
+                                "interval": "+ 0.016"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "39",
+                                "gap": "5 Laps",
+                                "interval": "2 Laps",
+                                "speed": "172.813",
+                                "fastestLap": "2:14.675",
+                                "lap_of_fastestLap": "37"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2:14.675",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "19",
+                                "speed": "167.215",
+                                "fastestLap": "2:21.323",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:21.323",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 3.265",
+                                "interval": "+ 0.669"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 4.083",
+                                "interval": "+ 0.176"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "14",
+                                "speed": "221.442",
+                                "fastestLap": "1:32.548",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:32.548",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "1",
+                                "speed": "200.701",
+                                "fastestLap": "1:44.035",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:44.035",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2.918",
+                                "interval": "+ 0.058"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 3.095",
+                                "interval": "+ 0.081"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "70",
+                                "gap": "1 Lap",
+                                "interval": "+ 0.253",
+                                "speed": "186.462",
+                                "fastestLap": "1:20.697",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:20.697",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "laps": "69",
+                                "gap": "2 Laps",
+                                "interval": "+ 32.645",
+                                "speed": "184.6",
+                                "fastestLap": "1:21.756",
+                                "lap_of_fastestLap": "56"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:21.756",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 1.417",
+                                "interval": "+ 0.229"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "72",
+                                "gap": "1 Lap",
+                                "interval": "+ 52.737",
+                                "speed": "167.646",
+                                "fastestLap": "1:26.272",
+                                "lap_of_fastestLap": "32"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:26.272",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 3.295",
+                                "interval": "+ 0.012"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        },
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 6.022",
+                                "interval": "+ 0.033"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "36",
+                                "speed": "193.647",
+                                "fastestLap": "1:45.353",
+                                "lap_of_fastestLap": "25"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:45.353",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 2.903",
+                                "interval": "+ 0.176"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "6",
+                                "speed": "115.414",
+                                "fastestLap": "1:49.251",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:49.251",
+                            "drivers": [
+                                "Philippe_Alliot"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

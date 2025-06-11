@@ -1,0 +1,41 @@
+{
+    "name": "a_j_watson",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "gap": "+ 6.990",
+                                "interval": "+ 0.530",
+                                "speed": "210.71"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dick_Rathmann"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "45": {
+                            "other_info": {
+                                "carNumber": "45",
+                                "laps": "25"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dick_Rathmann"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

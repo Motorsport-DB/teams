@@ -1,0 +1,43 @@
+{
+    "name": "leonard_a_faas",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "gap": "+ 6.020",
+                                "interval": "+ 0.130"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Red_Amick"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "laps": "200",
+                                "gap": "+ 11:10.580",
+                                "interval": "+ 2:30.300",
+                                "speed": "212.35"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Red_Amick"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

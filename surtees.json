@@ -1,0 +1,42 @@
+{
+    "name": "surtees",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "gap": "+ 3.480",
+                                "interval": "+ 0.210"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dieter_Quester"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "30": {
+                            "other_info": {
+                                "carNumber": "30",
+                                "laps": "51",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dieter_Quester"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

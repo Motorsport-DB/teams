@@ -1,0 +1,42 @@
+{
+    "name": "team_lawson",
+    "seasons": {
+        "1969": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.800",
+                                "interval": "+ 0.700"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Basil_van Rooyen"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "12",
+                                "fastestLap": "1:24.600",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.600",
+                            "drivers": [
+                                "Basil_van Rooyen"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

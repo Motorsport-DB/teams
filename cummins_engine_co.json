@@ -1,0 +1,76 @@
+{
+    "name": "cummins_engine_co",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "gap": "+ 1.920",
+                                "interval": "+ 0.380"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Fred_Agabashian"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "28": {
+                            "other_info": {
+                                "carNumber": "28",
+                                "laps": "71"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Fred_Agabashian"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "61": {
+                            "other_info": {
+                                "carNumber": "61",
+                                "gap": "+ 10.650",
+                                "interval": "+ 0.010",
+                                "speed": "207.942"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Jimmy Jackson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "61": {
+                            "other_info": {
+                                "carNumber": "61",
+                                "laps": "52"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "James_Jimmy Jackson"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

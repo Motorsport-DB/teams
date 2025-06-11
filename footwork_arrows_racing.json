@@ -1,0 +1,932 @@
+{
+    "name": "footwork_arrows_racing",
+    "seasons": {
+        "1990": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.228",
+                                "interval": "+ 0.242"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bernd_Schneider"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.284",
+                                "interval": "+ 0.056"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "70",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "140.656",
+                                "fastestLap": "1:34.517",
+                                "lap_of_fastestLap": "65"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:34.517",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "70",
+                                "gap": "2 Laps",
+                                "interval": "+ 36.171",
+                                "speed": "139.853",
+                                "fastestLap": "1:33.573",
+                                "lap_of_fastestLap": "62"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:33.573",
+                            "drivers": [
+                                "Bernd_Schneider"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.643",
+                                "interval": "+ 0.018"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.788",
+                                "interval": "+ 0.067"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "49",
+                                "speed": "174.621",
+                                "fastestLap": "1:23.671",
+                                "lap_of_fastestLap": "22"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.671",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "24",
+                                "speed": "171.434",
+                                "fastestLap": "1:23.292",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.292",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "San-marino-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.479",
+                                "interval": "+ 0.032"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.577",
+                                "interval": "+ 0.098"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.686",
+                                "interval": "+ 0.629"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.308",
+                                "interval": "+ 0.114"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "76",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "134.254",
+                                "fastestLap": "1:26.421",
+                                "lap_of_fastestLap": "63"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:26.421",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "15",
+                                "gap": "+ 3.345",
+                                "interval": "+ 0.139",
+                                "speed": "188.718"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "15",
+                                "gap": "+ 4.714",
+                                "interval": "+ 0.492",
+                                "speed": "185.683"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "68",
+                                "gap": "2 Laps",
+                                "interval": "+ 15.827",
+                                "speed": "172.919",
+                                "fastestLap": "1:24.770",
+                                "lap_of_fastestLap": "61"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:24.770",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "11",
+                                "speed": "150.989",
+                                "fastestLap": "1:39.464",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.464",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Mexican-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.714",
+                                "interval": "+ 0.044"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.927",
+                                "interval": "+ 0.489"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "66",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "188.604",
+                                "fastestLap": "1:22.082",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:22.082",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 2.445",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.805",
+                                "interval": "+ 0.070"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "79",
+                                "gap": "1 Lap",
+                                "interval": "+ 1.256",
+                                "speed": "191.925",
+                                "fastestLap": "1:09.314",
+                                "lap_of_fastestLap": "67"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:09.314",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "22",
+                                "speed": "189.125",
+                                "fastestLap": "1:11.242",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:11.242",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 2.682",
+                                "interval": "+ 0.018"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.134",
+                                "interval": "+ 0.175"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "63",
+                                "gap": "1 Lap",
+                                "interval": "+ 17.553",
+                                "speed": "228.651",
+                                "fastestLap": "1:13.573",
+                                "lap_of_fastestLap": "59"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:13.573",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "37",
+                                "speed": "223.533",
+                                "fastestLap": "1:13.932",
+                                "lap_of_fastestLap": "36"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:13.932",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.406",
+                                "interval": "+ 0.057"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.557",
+                                "interval": "+ 0.151"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "44",
+                                "gap": "1 Lap",
+                                "interval": "+ 34.958",
+                                "speed": "219.733",
+                                "fastestLap": "1:49.054",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:49.054",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "10",
+                                "speed": "207.537",
+                                "fastestLap": "1:52.041",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:52.041",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Hungarian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.839",
+                                "interval": "+ 0.755"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.207",
+                                "interval": "+ 0.048"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "76",
+                                "gap": "1 Lap",
+                                "interval": "+ 12.691",
+                                "speed": "163.848",
+                                "fastestLap": "1:24.388",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:24.388",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "75",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "162.993",
+                                "fastestLap": "1:24.418",
+                                "lap_of_fastestLap": "46"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:24.418",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.834",
+                                "interval": "+ 0.131"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.690",
+                                "interval": "+ 0.196"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "43",
+                                "gap": "1 Lap",
+                                "interval": "+ 25.449",
+                                "speed": "204.192",
+                                "fastestLap": "2:00.610",
+                                "lap_of_fastestLap": "35"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "2:00.610",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "43",
+                                "gap": "1 Lap",
+                                "interval": "+ 28.973",
+                                "speed": "202.743",
+                                "fastestLap": "2:00.671",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "2:00.671",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.877",
+                                "interval": "+ 0.367"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.915",
+                                "interval": "+ 0.038"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "51",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "227.421",
+                                "fastestLap": "1:29.820",
+                                "lap_of_fastestLap": "47"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:29.820",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "50",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "226.724",
+                                "fastestLap": "1:30.348",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:30.348",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 3.389",
+                                "interval": "+ 0.151"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 3.524",
+                                "interval": "+ 0.015"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "60",
+                                "gap": "1 Lap",
+                                "interval": "+ 15.656",
+                                "speed": "187.837",
+                                "fastestLap": "1:20.792",
+                                "lap_of_fastestLap": "55"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:20.792",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "58",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "188.218",
+                                "fastestLap": "1:21.843",
+                                "lap_of_fastestLap": "33"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:21.843",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    }
+                },
+                "Spanish-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.774",
+                                "interval": "+ 0.028"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 5.537",
+                                "interval": "+ 0.650"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bernd_Schneider"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "71",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "164.956",
+                                "fastestLap": "1:28.712",
+                                "lap_of_fastestLap": "65"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:28.712",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 6.274",
+                                "interval": "+ 0.114"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 6.308",
+                                "interval": "+ 0.034"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "laps": "52",
+                                "gap": "1 Lap",
+                                "interval": "+ 11.049",
+                                "speed": "192.012",
+                                "fastestLap": "1:46.849",
+                                "lap_of_fastestLap": "42"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:46.849",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "28",
+                                "speed": "189.687",
+                                "fastestLap": "1:47.094",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:47.094",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        }
+                    }
+                },
+                "Australian-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 4.874",
+                                "interval": "+ 0.249"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Michele_Alboreto"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "carNumber": "10",
+                                "gap": "+ 4.938",
+                                "interval": "+ 0.039"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alex_Caffi"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

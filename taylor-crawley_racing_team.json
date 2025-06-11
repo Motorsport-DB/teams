@@ -1,0 +1,72 @@
+{
+    "name": "taylor-crawley_racing_team",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Taylor"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Taylor"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 30.600",
+                                "interval": "+ 2.600"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Constantine"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Constantine"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

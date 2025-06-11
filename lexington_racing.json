@@ -1,0 +1,76 @@
+{
+    "name": "lexington_racing",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 1.300",
+                                "interval": "+ 0.050"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Scheckter"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Scheckter"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1975": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 1.590",
+                                "interval": "+ 0.210"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Scheckter"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "55",
+                                "fastestLap": "1:19.240",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:19.240",
+                            "drivers": [
+                                "Ian_Scheckter"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

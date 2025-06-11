@@ -1,0 +1,105 @@
+{
+    "name": "scuderia_finotto",
+    "seasons": {
+        "1974": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "43": {
+                            "other_info": {
+                                "carNumber": "43",
+                                "gap": "+ 4.400",
+                                "interval": "+ 0.170"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gerard_Larrousse"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "43": {
+                            "other_info": {
+                                "carNumber": "43",
+                                "laps": "53",
+                                "fastestLap": "1:14.270"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:14.270",
+                            "drivers": [
+                                "Gerard_Larrousse"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "43": {
+                            "other_info": {
+                                "carNumber": "43",
+                                "gap": "+ 4.480",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gerard_Larrousse"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 5.200",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Helmuth_Koinigg"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Helmuth_Koinigg"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 4.140",
+                                "interval": "+ 0.460"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Carlo_Facetti"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

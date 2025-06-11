@@ -1,0 +1,86 @@
+{
+    "name": "equipe_anglaise",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "38": {
+                            "other_info": {
+                                "carNumber": "38",
+                                "gap": "+ 1:08.900",
+                                "interval": "+ 1.400",
+                                "speed": "122.799"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Brown"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "38": {
+                            "other_info": {
+                                "carNumber": "38",
+                                "laps": "15"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Brown"
+                            ]
+                        },
+                        "39": {
+                            "other_info": {
+                                "carNumber": "39"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Helm_Glockler"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "gap": "+ 12.100",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Brown"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "laps": "70",
+                                "gap": "10 Laps",
+                                "interval": "2 Laps",
+                                "speed": "154.5"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Brown"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

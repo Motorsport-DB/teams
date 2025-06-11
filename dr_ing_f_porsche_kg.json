@@ -1,0 +1,182 @@
+{
+    "name": "dr_ing_f_porsche_kg",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "gap": "+ 20.700",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "24": {
+                            "other_info": {
+                                "carNumber": "24",
+                                "laps": "47",
+                                "gap": "3 Laps",
+                                "fastestLap": "2:55.900",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:55.900",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "laps": "1",
+                                "speed": "93.6",
+                                "fastestLap": "2:01.000",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:01.000",
+                            "drivers": [
+                                "Wolfgang_von Trips"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 1:47.800",
+                                "interval": "+ 2.400",
+                                "speed": "105"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_Teresa de Filippis"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "6": {
+                            "other_info": {
+                                "carNumber": "6",
+                                "gap": "+ 4.200",
+                                "interval": "+ 0.600",
+                                "speed": "109.075"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_von Trips"
+                            ]
+                        },
+                        "4": {
+                            "other_info": {
+                                "carNumber": "4",
+                                "gap": "+ 8.200",
+                                "interval": "+ 2.400",
+                                "speed": "105.027"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Maria_Teresa de Filippis"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Wolfgang_von Trips"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1958": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 43.200",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1957": {
+            "Formula_1": {
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "carNumber": "21",
+                                "gap": "+ 36.600",
+                                "interval": "+ 2.200"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Edgar_Barth"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "carNumber": "20",
+                                "gap": "+ 43.300",
+                                "interval": "+ 2.900"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Umberto_Maglioli"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

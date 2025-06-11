@@ -1,0 +1,40 @@
+{
+    "name": "3-l_racing_team",
+    "seasons": {
+        "1953": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62",
+                                "gap": "+ 4.250",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Spider_Webb"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62",
+                                "laps": "166"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "3_Drivers"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

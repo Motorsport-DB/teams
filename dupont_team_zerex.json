@@ -1,0 +1,45 @@
+{
+    "name": "dupont_team_zerex",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "gap": "+ 5.500",
+                                "interval": "+ 0.600"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Roger_Penske"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "96",
+                                "gap": "4 Laps",
+                                "interval": "+ 1.700",
+                                "speed": "167.205",
+                                "fastestLap": "1:17.200",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:17.200",
+                            "drivers": [
+                                "Roger_Penske"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

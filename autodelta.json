@@ -1,0 +1,118 @@
+{
+    "name": "autodelta",
+    "seasons": {
+        "1979": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 3.473",
+                                "interval": "+ 0.379"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "laps": "28",
+                                "fastestLap": "1:38.090",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:38.090",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 3.486",
+                                "interval": "+ 0.016"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Vittorio_Brambilla"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "52",
+                                "fastestLap": "1:34.318",
+                                "lap_of_fastestLap": "47"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:34.318",
+                            "drivers": [
+                                "Vittorio_Brambilla"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35",
+                                "gap": "+ 4.662",
+                                "interval": "+ 0.133"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        },
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 5.174",
+                                "interval": "+ 0.035"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Vittorio_Brambilla"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "35": {
+                            "other_info": {
+                                "carNumber": "35"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bruno_Giacomelli"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

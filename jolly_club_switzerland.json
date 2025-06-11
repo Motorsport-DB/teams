@@ -1,0 +1,49 @@
+{
+    "name": "jolly_club_switzerland",
+    "seasons": {
+        "1977": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "41": {
+                            "other_info": {
+                                "carNumber": "41",
+                                "gap": "+ 8.600",
+                                "interval": "+ 3.580"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Loris_Kessel"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1971": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Race": {
+                        "27": {
+                            "other_info": {
+                                "carNumber": "27",
+                                "laps": "5",
+                                "speed": "224.8",
+                                "fastestLap": "1:28.800",
+                                "lap_of_fastestLap": "3"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:28.800",
+                            "drivers": [
+                                "Silvio_Moser"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

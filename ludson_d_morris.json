@@ -1,0 +1,113 @@
+{
+    "name": "ludson_d_morris",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "93": {
+                            "other_info": {
+                                "carNumber": "93",
+                                "gap": "+ 7.900",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bob_Scott"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "93": {
+                            "other_info": {
+                                "carNumber": "93",
+                                "laps": "49"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Bob_Scott"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 5.240",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Cliff_Griffith"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "30"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Cliff_Griffith"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "81": {
+                            "other_info": {
+                                "carNumber": "81",
+                                "gap": "+ 9.980",
+                                "interval": "+ 0.490",
+                                "speed": "208.443"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jerry_Hoyt"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "81": {
+                            "other_info": {
+                                "carNumber": "81",
+                                "laps": "125",
+                                "gap": "13 Laps",
+                                "interval": "1 Lap"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jerry_Hoyt"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,118 +1,6 @@
 {
     "name": "chevrolet_motorsport_sweden",
     "seasons": {
-        "2010": {
-            "World_Touring_Car_Championship_WTCC": {
-                "Race-of-italy": {
-                    "1st Practice": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "10",
-                                "gap": "+ 1.654",
-                                "interval": "+ 0.142",
-                                "speed": "169.964"
-                            },
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    },
-                    "2nd Practice": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "9",
-                                "gap": "+ 1.011",
-                                "interval": "+ 0.052",
-                                "speed": "169.971"
-                            },
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    },
-                    "1st Qualifying": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "8",
-                                "gap": "+ 1.751",
-                                "interval": "+ 0.057",
-                                "speed": "170.325"
-                            },
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    },
-                    "Warm Up": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "5",
-                                "gap": "+ 54.205",
-                                "interval": "+ 48.140",
-                                "speed": "118.731"
-                            },
-                            "position": "21",
-                            "points": 0,
-                            "fastest_lap": "",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "7",
-                                "gap": "2 Laps",
-                                "interval": "1 Lap",
-                                "speed": "166.171",
-                                "fastestLap": "2:02.548",
-                                "lap_of_fastestLap": "6"
-                            },
-                            "position": "18",
-                            "points": 0,
-                            "fastest_lap": "2:02.548",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "34": {
-                            "other_info": {
-                                "carNumber": "34",
-                                "laps": "9",
-                                "gap": "+ 9.918",
-                                "interval": "+ 4.819",
-                                "speed": "166.631",
-                                "fastestLap": "2:02.582",
-                                "lap_of_fastestLap": "6"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "2:02.582",
-                            "drivers": [
-                                "Leonel_Pernía"
-                            ]
-                        }
-                    }
-                }
-            }
-        },
         "2012": {
             "World_Touring_Car_Championship_WTCC": {
                 "Race-of-italy": {
@@ -236,6 +124,118 @@
                             "fastest_lap": "2:00.868",
                             "drivers": [
                                 "Rickard_Rydell"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2010": {
+            "World_Touring_Car_Championship_WTCC": {
+                "Race-of-italy": {
+                    "1st Practice": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "10",
+                                "gap": "+ 1.654",
+                                "interval": "+ 0.142",
+                                "speed": "169.964"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leonel_Pernía"
+                            ]
+                        }
+                    },
+                    "2nd Practice": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "9",
+                                "gap": "+ 1.011",
+                                "interval": "+ 0.052",
+                                "speed": "169.971"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leonel_Pernía"
+                            ]
+                        }
+                    },
+                    "1st Qualifying": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "8",
+                                "gap": "+ 1.751",
+                                "interval": "+ 0.057",
+                                "speed": "170.325"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leonel_Pernía"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "5",
+                                "gap": "+ 54.205",
+                                "interval": "+ 48.140",
+                                "speed": "118.731"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Leonel_Pernía"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "7",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "speed": "166.171",
+                                "fastestLap": "2:02.548",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "2:02.548",
+                            "drivers": [
+                                "Leonel_Pernía"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "34": {
+                            "other_info": {
+                                "carNumber": "34",
+                                "laps": "9",
+                                "gap": "+ 9.918",
+                                "interval": "+ 4.819",
+                                "speed": "166.631",
+                                "fastestLap": "2:02.582",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "2:02.582",
+                            "drivers": [
+                                "Leonel_Pernía"
                             ]
                         }
                     }

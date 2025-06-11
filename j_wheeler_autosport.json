@@ -1,0 +1,43 @@
+{
+    "name": "j_wheeler_autosport",
+    "seasons": {
+        "1961": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 3.000",
+                                "interval": "+ 0.800"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Peter_Ryan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "96",
+                                "gap": "4 Laps",
+                                "fastestLap": "1:21.200",
+                                "lap_of_fastestLap": "77"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:21.200",
+                            "drivers": [
+                                "Peter_Ryan"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

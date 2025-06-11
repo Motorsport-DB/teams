@@ -1,0 +1,44 @@
+{
+    "name": "fred_armbruster",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 8.000",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Pete_Lovely"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "69",
+                                "gap": "6 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "2:03.000",
+                                "lap_of_fastestLap": "67"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:03.000",
+                            "drivers": [
+                                "Pete_Lovely"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "blignaut_lucky_strike_racing",
+    "seasons": {
+        "1973": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "gap": "+ 2.640",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Eddie_Keizan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "26": {
+                            "other_info": {
+                                "carNumber": "26",
+                                "laps": "67",
+                                "fastestLap": "1:20.400"
+                            },
+                            "position": "NCL",
+                            "points": 0,
+                            "fastest_lap": "1:20.400",
+                            "drivers": [
+                                "Eddie_Keizan"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

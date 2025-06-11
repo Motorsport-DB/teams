@@ -1,0 +1,43 @@
+{
+    "name": "tom_wheatcroft_racing",
+    "seasons": {
+        "1970": {
+            "Formula_1": {
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 8.200",
+                                "interval": "+ 2.000"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_Bell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "1",
+                                "speed": "180.6",
+                                "fastestLap": "4:41.100",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "4:41.100",
+                            "drivers": [
+                                "Derek_Bell"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

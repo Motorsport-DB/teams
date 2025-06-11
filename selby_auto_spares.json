@@ -1,0 +1,39 @@
+{
+    "name": "selby_auto_spares",
+    "seasons": {
+        "1963": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 8.000",
+                                "interval": "+ 0.300"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Paddy_Driver"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Paddy_Driver"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "name": "leader_cards_inc",
+    "seasons": {
+        "1960": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 1.740",
+                                "interval": "+ 1.370"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        },
+                        "65": {
+                            "other_info": {
+                                "carNumber": "65",
+                                "gap": "+ 3.270",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "200",
+                                "gap": "+ 12.750",
+                                "interval": "+ 12.750",
+                                "speed": "223.1"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        },
+                        "65": {
+                            "other_info": {
+                                "carNumber": "65",
+                                "laps": "196",
+                                "gap": "4 Laps"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1959": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 3.210",
+                                "interval": "+ 0.330"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "200"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "gap": "+ 43.800",
+                                "interval": "+ 4.800"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "1": {
+                            "other_info": {
+                                "carNumber": "1",
+                                "laps": "20"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rodger_Ward"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

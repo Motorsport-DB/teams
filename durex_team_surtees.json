@@ -1,0 +1,145 @@
+{
+    "name": "durex_team_surtees",
+    "seasons": {
+        "1977": {
+            "Formula_1": {
+                "Argentine-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.430",
+                                "interval": "+ 0.710"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "18",
+                                "fastestLap": "1:55.960",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:55.960",
+                            "drivers": [
+                                "Hans_Binder"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1976": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 2.680",
+                                "interval": "+ 0.160"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 2.580",
+                                "interval": "+ 0.360"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "30",
+                                "fastestLap": "1:39.180"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:39.180",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 3.263",
+                                "interval": "+ 0.054"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "+ 16.500",
+                                "speed": "183.7",
+                                "fastestLap": "1:14.792",
+                                "lap_of_fastestLap": "52"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:14.792",
+                            "drivers": [
+                                "Alan_Jones"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

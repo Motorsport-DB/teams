@@ -1,0 +1,41 @@
+{
+    "name": "muritsu_racing_team",
+    "seasons": {
+        "1977": {
+            "Formula_1": {
+                "Japanese-grand-prix": {
+                    "Qualifying": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50",
+                                "gap": "+ 2.650",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Kunimitsu_Takahashi"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50",
+                                "laps": "71",
+                                "gap": "2 Laps"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Kunimitsu_Takahashi"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

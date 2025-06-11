@@ -1,0 +1,43 @@
+{
+    "name": "joe_langley",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "75": {
+                            "other_info": {
+                                "carNumber": "75",
+                                "gap": "+ 10.640",
+                                "interval": "+ 1.040",
+                                "speed": "207.95"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gene_Hartley"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "75": {
+                            "other_info": {
+                                "carNumber": "75",
+                                "laps": "128",
+                                "gap": "10 Laps",
+                                "interval": "2 Laps"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Gene_Hartley"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

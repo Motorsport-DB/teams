@@ -1,0 +1,64 @@
+{
+    "name": "castrol_oils_ltd",
+    "seasons": {
+        "1968": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 15.800",
+                                "interval": "+ 13.000"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Al_Pease"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1967": {
+            "Formula_1": {
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "gap": "+ 7.700",
+                                "interval": "+ 2.800"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Al_Pease"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "47",
+                                "speed": "69.4",
+                                "fastestLap": "1:37.500",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "1:37.500",
+                            "drivers": [
+                                "Al_Pease"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

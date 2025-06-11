@@ -1,6 +1,1780 @@
 {
     "name": "strakka_racing",
     "seasons": {
+        "2015": {
+            "Formula_v8_3,5": {
+                "Motorland": {
+                    "Test Session 1": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 0.007",
+                                "interval": "+ 0.007",
+                                "speed": "188.574",
+                                "fastestLap": "1:52.004"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:52.004",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "15",
+                                "speed": "187.946",
+                                "fastestLap": "1:48.610"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:48.610",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "15",
+                                "speed": "187.134",
+                                "fastestLap": "1:48.610"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:48.610",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 0.997",
+                                "interval": "+ 0.002",
+                                "speed": "186.176",
+                                "fastestLap": "1:52.004"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:52.004",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "speed": "188.9",
+                                "fastestLap": "1:48.610"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:48.610",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "13",
+                                "fastestLap": "1:52.004"
+                            },
+                            "position": "",
+                            "points": 0,
+                            "fastest_lap": "1:52.004",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "24",
+                                "gap": "+ 35.891",
+                                "interval": "+ 0.134",
+                                "speed": "180.204",
+                                "fastestLap": "1:44.909",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:44.909",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "fastestLap": "1:48.610"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:48.610",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "gap": "+ 0.328",
+                                "interval": "+ 0.039",
+                                "speed": "188.728",
+                                "fastestLap": "1:48.610"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:48.610",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 0.704",
+                                "interval": "+ 0.228",
+                                "speed": "188.034",
+                                "fastestLap": "1:44.909"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:44.909",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 20.518",
+                                "interval": "+ 10.592",
+                                "speed": "90.72",
+                                "fastestLap": "1:58.904",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "18",
+                                "gap": "+ 59.944",
+                                "interval": "1 Lap",
+                                "speed": "85.113",
+                                "fastestLap": "2:00.642",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                },
+                "Monaco": {
+                    "Grid": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "speed": "141.247",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "speed": "140.908",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "25",
+                                "speed": "141.752",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "25",
+                                "speed": "140.033",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "speed": "141.247",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "speed": "140.908",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "1",
+                                "speed": "74.005",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                },
+                "Spa-francorchamps": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "18",
+                                "speed": "209.581",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "gap": "+ 0.921",
+                                "interval": "+ 0.105",
+                                "speed": "207.989",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "14",
+                                "gap": "+ 0.210",
+                                "interval": "+ 0.210",
+                                "speed": "210.415",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "15",
+                                "gap": "+ 1.164",
+                                "interval": "+ 0.111",
+                                "speed": "208.754",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "gap": "+ 0.557",
+                                "interval": "+ 0.013",
+                                "speed": "211.306",
+                                "fastestLap": "1:58.904"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:58.904",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "13",
+                                "gap": "+ 0.880",
+                                "interval": "+ 0.016",
+                                "speed": "210.736",
+                                "fastestLap": "2:00.642"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:00.642",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 15.875",
+                                "interval": "+ 0.771",
+                                "speed": "192.17",
+                                "fastestLap": "2:02.921",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:02.921",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 17.917",
+                                "interval": "+ 2.042",
+                                "speed": "192.013",
+                                "fastestLap": "2:03.031",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2:03.031",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "12",
+                                "gap": "+ 0.062",
+                                "interval": "+ 0.062",
+                                "speed": "211.609",
+                                "fastestLap": "2:02.921"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "2:02.921",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "gap": "+ 1.104",
+                                "interval": "+ 0.003",
+                                "speed": "209.775",
+                                "fastestLap": "2:03.031"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:03.031",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "21",
+                                "gap": "+ 14.392",
+                                "interval": "+ 0.454",
+                                "speed": "200.805",
+                                "fastestLap": "2:02.913",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:02.913",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "gap": "+ 1:01.603",
+                                "interval": "+ 7.179",
+                                "speed": "197.273",
+                                "fastestLap": "2:03.970",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "2:03.970",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                },
+                "Hungaroring": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "gap": "+ 0.185",
+                                "interval": "+ 0.185",
+                                "speed": "172.523",
+                                "fastestLap": "2:02.913"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "2:02.913",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "22",
+                                "gap": "+ 0.626",
+                                "interval": "+ 0.043",
+                                "speed": "171.695",
+                                "fastestLap": "2:03.970"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2:03.970",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "gap": "+ 0.353",
+                                "interval": "+ 0.166",
+                                "speed": "175.499",
+                                "fastestLap": "2:02.913"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:02.913",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "18",
+                                "gap": "+ 2.142",
+                                "interval": "+ 0.186",
+                                "speed": "172.073",
+                                "fastestLap": "2:03.970"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:03.970",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "12",
+                                "gap": "+ 0.911",
+                                "interval": "+ 0.236",
+                                "speed": "175.673",
+                                "fastestLap": "2:02.913"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "2:02.913",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "2",
+                                "gap": "+ 17.143",
+                                "interval": "+ 15.697",
+                                "speed": "148.774",
+                                "fastestLap": "2:03.970"
+                            },
+                            "position": "",
+                            "points": 0,
+                            "fastest_lap": "2:03.970",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "27",
+                                "gap": "+ 27.711",
+                                "interval": "+ 0.236",
+                                "speed": "164.85",
+                                "fastestLap": "1:33.191",
+                                "lap_of_fastestLap": "26"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:33.191",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 42.784",
+                                "interval": "+ 2.594",
+                                "speed": "163.894",
+                                "fastestLap": "1:33.054",
+                                "lap_of_fastestLap": "16"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:33.054",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "15",
+                                "gap": "+ 0.594",
+                                "interval": "+ 0.036",
+                                "speed": "175.6",
+                                "fastestLap": "1:33.191"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:33.191",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "gap": "+ 0.863",
+                                "interval": "+ 0.200",
+                                "speed": "175.076",
+                                "fastestLap": "1:33.054"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:33.054",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "27",
+                                "gap": "+ 19.722",
+                                "interval": "+ 18.203",
+                                "speed": "166.35",
+                                "fastestLap": "1:32.820",
+                                "lap_of_fastestLap": "20"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:32.820",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 25.173",
+                                "interval": "+ 0.782",
+                                "speed": "165.997",
+                                "fastestLap": "1:32.393",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:32.393",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    }
+                },
+                "Red-bull-ring": {
+                    "Test": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "26",
+                                "speed": "199.094",
+                                "fastestLap": "1:32.393"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:32.393",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "25",
+                                "gap": "+ 0.776",
+                                "interval": "+ 0.099",
+                                "speed": "197.139",
+                                "fastestLap": "1:32.820"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:32.820",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "28",
+                                "gap": "+ 0.139",
+                                "interval": "+ 0.139",
+                                "speed": "202.818",
+                                "fastestLap": "1:32.393"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:32.393",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "29",
+                                "gap": "+ 0.573",
+                                "interval": "+ 0.081",
+                                "speed": "201.678",
+                                "fastestLap": "1:32.820"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:32.820",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "19",
+                                "gap": "+ 0.582",
+                                "interval": "+ 0.107",
+                                "speed": "199.092",
+                                "fastestLap": "1:32.820"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:32.820",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "18",
+                                "gap": "+ 0.603",
+                                "interval": "+ 0.001",
+                                "speed": "199.038",
+                                "fastestLap": "1:32.393"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:32.393",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "22",
+                                "gap": "+ 1.285",
+                                "interval": "+ 0.047",
+                                "speed": "196.029",
+                                "fastestLap": "1:19.989"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:19.989",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "gap": "+ 2.208",
+                                "interval": "+ 0.406",
+                                "speed": "193.778",
+                                "fastestLap": "1:20.059"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:20.059",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "27",
+                                "gap": "+ 20.347",
+                                "interval": "+ 0.734",
+                                "speed": "166.353",
+                                "fastestLap": "1:19.989",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:19.989",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "27",
+                                "gap": "+ 22.002",
+                                "interval": "+ 0.561",
+                                "speed": "166.244",
+                                "fastestLap": "1:20.059",
+                                "lap_of_fastestLap": "27"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:20.059",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "31",
+                                "gap": "+ 42.152",
+                                "interval": "+ 1.047",
+                                "speed": "189.247",
+                                "fastestLap": "1:20.190",
+                                "lap_of_fastestLap": "31"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:20.190",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "30",
+                                "gap": "+ 20.936",
+                                "interval": "1 Lap",
+                                "speed": "184.678",
+                                "fastestLap": "1:20.282",
+                                "lap_of_fastestLap": "29"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:20.282",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "11",
+                                "gap": "+ 0.684",
+                                "interval": "+ 0.083",
+                                "speed": "204.43",
+                                "fastestLap": "1:20.282"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:20.282",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "13",
+                                "gap": "+ 2.576",
+                                "interval": "+ 0.121",
+                                "speed": "200.768",
+                                "fastestLap": "1:20.190"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:20.190",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "18",
+                                "speed": "208.954",
+                                "fastestLap": "1:20.282"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:20.282",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "18",
+                                "gap": "+ 0.466",
+                                "interval": "+ 0.043",
+                                "speed": "207.999",
+                                "fastestLap": "1:20.190"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:20.190",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "14",
+                                "speed": "208.207",
+                                "fastestLap": "1:20.282"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:20.282",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 0.661",
+                                "interval": "+ 0.019",
+                                "speed": "206.865",
+                                "fastestLap": "1:20.190"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:20.190",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "24",
+                                "speed": "201.374",
+                                "fastestLap": "1:44.475",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:44.475",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "24",
+                                "gap": "+ 24.387",
+                                "interval": "+ 2.928",
+                                "speed": "199.449",
+                                "fastestLap": "1:44.707",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:44.707",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "gap": "+ 0.871",
+                                "interval": "+ 0.043",
+                                "speed": "210.603",
+                                "fastestLap": "1:44.475"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:44.475",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 1.070",
+                                "interval": "+ 0.021",
+                                "speed": "210.188",
+                                "fastestLap": "1:44.707"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:44.707",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "24",
+                                "gap": "+ 22.536",
+                                "interval": "+ 6.760",
+                                "speed": "193.726",
+                                "fastestLap": "1:43.948",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:43.948",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "24",
+                                "gap": "+ 34.014",
+                                "interval": "+ 2.076",
+                                "speed": "192.884",
+                                "fastestLap": "1:44.836",
+                                "lap_of_fastestLap": "22"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:44.836",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    }
+                },
+                "Nurburgring": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "18",
+                                "gap": "+ 0.201",
+                                "interval": "+ 0.084",
+                                "speed": "180.684",
+                                "fastestLap": "1:44.836"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:44.836",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "gap": "+ 0.560",
+                                "interval": "+ 0.262",
+                                "speed": "180.054",
+                                "fastestLap": "1:43.948"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:43.948",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 0.028",
+                                "interval": "+ 0.028",
+                                "speed": "181.713",
+                                "fastestLap": "1:43.948"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:43.948",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "16",
+                                "gap": "+ 0.195",
+                                "interval": "+ 0.167",
+                                "speed": "181.416",
+                                "fastestLap": "1:44.836"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:44.836",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "11",
+                                "gap": "+ 0.226",
+                                "interval": "+ 0.013",
+                                "speed": "183.076",
+                                "fastestLap": "1:44.836"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:44.836",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "11",
+                                "gap": "+ 0.872",
+                                "interval": "+ 0.214",
+                                "speed": "181.915",
+                                "fastestLap": "1:43.948"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:43.948",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "23",
+                                "gap": "+ 13.540",
+                                "interval": "+ 0.905",
+                                "speed": "165.654",
+                                "fastestLap": "1:44.040",
+                                "lap_of_fastestLap": "8"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:44.040",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "23",
+                                "gap": "+ 16.188",
+                                "interval": "+ 1.202",
+                                "speed": "165.484",
+                                "fastestLap": "1:44.406",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:44.406",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "14",
+                                "gap": "+ 0.394",
+                                "interval": "+ 0.037",
+                                "speed": "183.436",
+                                "fastestLap": "1:44.040"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:44.040",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "14",
+                                "gap": "+ 0.427",
+                                "interval": "+ 0.033",
+                                "speed": "183.376",
+                                "fastestLap": "1:44.406"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:44.406",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "speed": "159.733",
+                                "fastestLap": "1:44.078",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:44.078",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "22",
+                                "gap": "+ 2.240",
+                                "interval": "+ 2.240",
+                                "speed": "159.593",
+                                "fastestLap": "1:44.322",
+                                "lap_of_fastestLap": "18"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:44.322",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                },
+                "Le-mans": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "24",
+                                "gap": "+ 0.905",
+                                "interval": "+ 0.128",
+                                "speed": "180.008",
+                                "fastestLap": "1:44.078"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:44.078",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "25",
+                                "gap": "+ 1.548",
+                                "interval": "+ 0.047",
+                                "speed": "178.636",
+                                "fastestLap": "1:44.322"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:44.322",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "22",
+                                "gap": "+ 0.593",
+                                "interval": "+ 0.067",
+                                "speed": "181.706",
+                                "fastestLap": "1:44.078"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:44.078",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "22",
+                                "gap": "+ 1.128",
+                                "interval": "+ 0.053",
+                                "speed": "180.541",
+                                "fastestLap": "1:44.322"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:44.322",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "gap": "+ 0.280",
+                                "interval": "+ 0.074",
+                                "speed": "185.354",
+                                "fastestLap": "1:44.078"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:44.078",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "gap": "+ 0.760",
+                                "interval": "+ 0.072",
+                                "speed": "184.266",
+                                "fastestLap": "1:44.322"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:44.322",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "30",
+                                "gap": "+ 11.984",
+                                "interval": "+ 1.954",
+                                "speed": "176.187",
+                                "fastestLap": "1:24.555",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:24.555",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "30",
+                                "gap": "+ 16.168",
+                                "interval": "+ 3.210",
+                                "speed": "175.9",
+                                "fastestLap": "1:24.588",
+                                "lap_of_fastestLap": "26"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:24.588",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "speed": "186.811",
+                                "fastestLap": "1:24.555"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:24.555",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "17",
+                                "gap": "+ 1.199",
+                                "interval": "+ 0.021",
+                                "speed": "184.075",
+                                "fastestLap": "1:24.588"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:24.588",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "28",
+                                "gap": "+ 9.075",
+                                "interval": "+ 6.687",
+                                "speed": "168.851",
+                                "fastestLap": "1:23.995",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:23.995",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "28",
+                                "gap": "+ 19.017",
+                                "interval": "+ 0.796",
+                                "speed": "168.182",
+                                "fastestLap": "1:23.796",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:23.796",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                },
+                "Jerez": {
+                    "Test Session 1": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "19",
+                                "gap": "+ 0.640",
+                                "interval": "+ 0.227",
+                                "speed": "178.312",
+                                "fastestLap": "1:23.995"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:23.995",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "gap": "+ 1.211",
+                                "interval": "+ 0.030",
+                                "speed": "177.181",
+                                "fastestLap": "1:23.796"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:23.796",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Test Session 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "17",
+                                "gap": "+ 0.524",
+                                "interval": "+ 0.524",
+                                "speed": "178.274",
+                                "fastestLap": "1:23.995"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:23.995",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "15",
+                                "gap": "+ 0.880",
+                                "interval": "+ 0.058",
+                                "speed": "177.567",
+                                "fastestLap": "1:23.796"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:23.796",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "10",
+                                "gap": "+ 0.567",
+                                "interval": "+ 0.017",
+                                "speed": "178.732",
+                                "fastestLap": "1:23.995"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:23.995",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "12",
+                                "gap": "+ 0.883",
+                                "interval": "+ 0.204",
+                                "speed": "178.101",
+                                "fastestLap": "1:23.796"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:23.796",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "23",
+                                "gap": "+ 26.020",
+                                "interval": "+ 9.539",
+                                "speed": "139.898",
+                                "fastestLap": "1:47.710",
+                                "lap_of_fastestLap": "22"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:47.710",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "23",
+                                "gap": "+ 58.633",
+                                "interval": "+ 0.567",
+                                "speed": "138.178",
+                                "fastestLap": "1:49.607",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:49.607",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "13",
+                                "gap": "+ 1.353",
+                                "interval": "+ 0.200",
+                                "speed": "148.623",
+                                "fastestLap": "1:47.710"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:47.710",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "13",
+                                "gap": "+ 1.574",
+                                "interval": "+ 0.010",
+                                "speed": "148.318",
+                                "fastestLap": "1:49.607"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:49.607",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "11": {
+                            "other_info": {
+                                "carNumber": "11",
+                                "laps": "24",
+                                "gap": "+ 4.084",
+                                "interval": "+ 1.500",
+                                "speed": "152.965",
+                                "fastestLap": "1:32.202",
+                                "lap_of_fastestLap": "24"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:32.202",
+                            "drivers": [
+                                "Tio_Ellinas"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "24",
+                                "gap": "+ 13.411",
+                                "interval": "+ 9.327",
+                                "speed": "152.397",
+                                "fastestLap": "1:33.355",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:33.355",
+                            "drivers": [
+                                "Gustav_Malja"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
         "2014": {
             "Formula_v8_3,5": {
                 "Monza": {
@@ -1786,1780 +3560,6 @@
                             "fastest_lap": "1:32.179",
                             "drivers": [
                                 "Matias_Laine"
-                            ]
-                        }
-                    }
-                }
-            }
-        },
-        "2015": {
-            "Formula_v8_3,5": {
-                "Motorland": {
-                    "Test Session 1": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "19",
-                                "gap": "+ 0.007",
-                                "interval": "+ 0.007",
-                                "speed": "188.574",
-                                "fastestLap": "1:52.004"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:52.004",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "15",
-                                "speed": "187.946",
-                                "fastestLap": "1:48.610"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:48.610",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "15",
-                                "speed": "187.134",
-                                "fastestLap": "1:48.610"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:48.610",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 0.997",
-                                "interval": "+ 0.002",
-                                "speed": "186.176",
-                                "fastestLap": "1:52.004"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:52.004",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "speed": "188.9",
-                                "fastestLap": "1:48.610"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:48.610",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "13",
-                                "fastestLap": "1:52.004"
-                            },
-                            "position": "",
-                            "points": 0,
-                            "fastest_lap": "1:52.004",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "24",
-                                "gap": "+ 35.891",
-                                "interval": "+ 0.134",
-                                "speed": "180.204",
-                                "fastestLap": "1:44.909",
-                                "lap_of_fastestLap": "12"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:44.909",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "fastestLap": "1:48.610"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:48.610",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "gap": "+ 0.328",
-                                "interval": "+ 0.039",
-                                "speed": "188.728",
-                                "fastestLap": "1:48.610"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:48.610",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 0.704",
-                                "interval": "+ 0.228",
-                                "speed": "188.034",
-                                "fastestLap": "1:44.909"
-                            },
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:44.909",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "19",
-                                "gap": "+ 20.518",
-                                "interval": "+ 10.592",
-                                "speed": "90.72",
-                                "fastestLap": "1:58.904",
-                                "lap_of_fastestLap": "19"
-                            },
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "18",
-                                "gap": "+ 59.944",
-                                "interval": "1 Lap",
-                                "speed": "85.113",
-                                "fastestLap": "2:00.642",
-                                "lap_of_fastestLap": "17"
-                            },
-                            "position": "20",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    }
-                },
-                "Monaco": {
-                    "Grid": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "speed": "141.247",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "speed": "140.908",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Practice": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "25",
-                                "speed": "141.752",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "25",
-                                "speed": "140.033",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "speed": "141.247",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "17",
-                                "speed": "140.908",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "1",
-                                "speed": "74.005",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "DNF",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    }
-                },
-                "Spa-francorchamps": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "18",
-                                "speed": "209.581",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "17",
-                                "gap": "+ 0.921",
-                                "interval": "+ 0.105",
-                                "speed": "207.989",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "14",
-                                "gap": "+ 0.210",
-                                "interval": "+ 0.210",
-                                "speed": "210.415",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "15",
-                                "gap": "+ 1.164",
-                                "interval": "+ 0.111",
-                                "speed": "208.754",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "gap": "+ 0.557",
-                                "interval": "+ 0.013",
-                                "speed": "211.306",
-                                "fastestLap": "1:58.904"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:58.904",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "13",
-                                "gap": "+ 0.880",
-                                "interval": "+ 0.016",
-                                "speed": "210.736",
-                                "fastestLap": "2:00.642"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "2:00.642",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "19",
-                                "gap": "+ 15.875",
-                                "interval": "+ 0.771",
-                                "speed": "192.17",
-                                "fastestLap": "2:02.921",
-                                "lap_of_fastestLap": "19"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "2:02.921",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "19",
-                                "gap": "+ 17.917",
-                                "interval": "+ 2.042",
-                                "speed": "192.013",
-                                "fastestLap": "2:03.031",
-                                "lap_of_fastestLap": "10"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "2:03.031",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "12",
-                                "gap": "+ 0.062",
-                                "interval": "+ 0.062",
-                                "speed": "211.609",
-                                "fastestLap": "2:02.921"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "2:02.921",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "11",
-                                "gap": "+ 1.104",
-                                "interval": "+ 0.003",
-                                "speed": "209.775",
-                                "fastestLap": "2:03.031"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "2:03.031",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "21",
-                                "gap": "+ 14.392",
-                                "interval": "+ 0.454",
-                                "speed": "200.805",
-                                "fastestLap": "2:02.913",
-                                "lap_of_fastestLap": "7"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "2:02.913",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "21",
-                                "gap": "+ 1:01.603",
-                                "interval": "+ 7.179",
-                                "speed": "197.273",
-                                "fastestLap": "2:03.970",
-                                "lap_of_fastestLap": "10"
-                            },
-                            "position": "14",
-                            "points": 0,
-                            "fastest_lap": "2:03.970",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    }
-                },
-                "Hungaroring": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "22",
-                                "gap": "+ 0.185",
-                                "interval": "+ 0.185",
-                                "speed": "172.523",
-                                "fastestLap": "2:02.913"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "2:02.913",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "22",
-                                "gap": "+ 0.626",
-                                "interval": "+ 0.043",
-                                "speed": "171.695",
-                                "fastestLap": "2:03.970"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "2:03.970",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "gap": "+ 0.353",
-                                "interval": "+ 0.166",
-                                "speed": "175.499",
-                                "fastestLap": "2:02.913"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "2:02.913",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "18",
-                                "gap": "+ 2.142",
-                                "interval": "+ 0.186",
-                                "speed": "172.073",
-                                "fastestLap": "2:03.970"
-                            },
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "2:03.970",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "12",
-                                "gap": "+ 0.911",
-                                "interval": "+ 0.236",
-                                "speed": "175.673",
-                                "fastestLap": "2:02.913"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "2:02.913",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "2",
-                                "gap": "+ 17.143",
-                                "interval": "+ 15.697",
-                                "speed": "148.774",
-                                "fastestLap": "2:03.970"
-                            },
-                            "position": "",
-                            "points": 0,
-                            "fastest_lap": "2:03.970",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "27",
-                                "gap": "+ 27.711",
-                                "interval": "+ 0.236",
-                                "speed": "164.85",
-                                "fastestLap": "1:33.191",
-                                "lap_of_fastestLap": "26"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:33.191",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "27",
-                                "gap": "+ 42.784",
-                                "interval": "+ 2.594",
-                                "speed": "163.894",
-                                "fastestLap": "1:33.054",
-                                "lap_of_fastestLap": "16"
-                            },
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:33.054",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "15",
-                                "gap": "+ 0.594",
-                                "interval": "+ 0.036",
-                                "speed": "175.6",
-                                "fastestLap": "1:33.191"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:33.191",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "gap": "+ 0.863",
-                                "interval": "+ 0.200",
-                                "speed": "175.076",
-                                "fastestLap": "1:33.054"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:33.054",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "27",
-                                "gap": "+ 19.722",
-                                "interval": "+ 18.203",
-                                "speed": "166.35",
-                                "fastestLap": "1:32.820",
-                                "lap_of_fastestLap": "20"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:32.820",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "27",
-                                "gap": "+ 25.173",
-                                "interval": "+ 0.782",
-                                "speed": "165.997",
-                                "fastestLap": "1:32.393",
-                                "lap_of_fastestLap": "12"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:32.393",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    }
-                },
-                "Red-bull-ring": {
-                    "Test": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "26",
-                                "speed": "199.094",
-                                "fastestLap": "1:32.393"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:32.393",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "25",
-                                "gap": "+ 0.776",
-                                "interval": "+ 0.099",
-                                "speed": "197.139",
-                                "fastestLap": "1:32.820"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:32.820",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Practice": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "28",
-                                "gap": "+ 0.139",
-                                "interval": "+ 0.139",
-                                "speed": "202.818",
-                                "fastestLap": "1:32.393"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:32.393",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "29",
-                                "gap": "+ 0.573",
-                                "interval": "+ 0.081",
-                                "speed": "201.678",
-                                "fastestLap": "1:32.820"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:32.820",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "19",
-                                "gap": "+ 0.582",
-                                "interval": "+ 0.107",
-                                "speed": "199.092",
-                                "fastestLap": "1:32.820"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:32.820",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "18",
-                                "gap": "+ 0.603",
-                                "interval": "+ 0.001",
-                                "speed": "199.038",
-                                "fastestLap": "1:32.393"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:32.393",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "22",
-                                "gap": "+ 1.285",
-                                "interval": "+ 0.047",
-                                "speed": "196.029",
-                                "fastestLap": "1:19.989"
-                            },
-                            "position": "15",
-                            "points": 0,
-                            "fastest_lap": "1:19.989",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "gap": "+ 2.208",
-                                "interval": "+ 0.406",
-                                "speed": "193.778",
-                                "fastestLap": "1:20.059"
-                            },
-                            "position": "19",
-                            "points": 0,
-                            "fastest_lap": "1:20.059",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "27",
-                                "gap": "+ 20.347",
-                                "interval": "+ 0.734",
-                                "speed": "166.353",
-                                "fastestLap": "1:19.989",
-                                "lap_of_fastestLap": "27"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:19.989",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "27",
-                                "gap": "+ 22.002",
-                                "interval": "+ 0.561",
-                                "speed": "166.244",
-                                "fastestLap": "1:20.059",
-                                "lap_of_fastestLap": "27"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:20.059",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "31",
-                                "gap": "+ 42.152",
-                                "interval": "+ 1.047",
-                                "speed": "189.247",
-                                "fastestLap": "1:20.190",
-                                "lap_of_fastestLap": "31"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:20.190",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "30",
-                                "gap": "+ 20.936",
-                                "interval": "1 Lap",
-                                "speed": "184.678",
-                                "fastestLap": "1:20.282",
-                                "lap_of_fastestLap": "29"
-                            },
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:20.282",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    }
-                },
-                "Silverstone": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "11",
-                                "gap": "+ 0.684",
-                                "interval": "+ 0.083",
-                                "speed": "204.43",
-                                "fastestLap": "1:20.282"
-                            },
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:20.282",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "13",
-                                "gap": "+ 2.576",
-                                "interval": "+ 0.121",
-                                "speed": "200.768",
-                                "fastestLap": "1:20.190"
-                            },
-                            "position": "16",
-                            "points": 0,
-                            "fastest_lap": "1:20.190",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "18",
-                                "speed": "208.954",
-                                "fastestLap": "1:20.282"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:20.282",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "18",
-                                "gap": "+ 0.466",
-                                "interval": "+ 0.043",
-                                "speed": "207.999",
-                                "fastestLap": "1:20.190"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:20.190",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "14",
-                                "speed": "208.207",
-                                "fastestLap": "1:20.282"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:20.282",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 0.661",
-                                "interval": "+ 0.019",
-                                "speed": "206.865",
-                                "fastestLap": "1:20.190"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:20.190",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "24",
-                                "speed": "201.374",
-                                "fastestLap": "1:44.475",
-                                "lap_of_fastestLap": "6"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:44.475",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "24",
-                                "gap": "+ 24.387",
-                                "interval": "+ 2.928",
-                                "speed": "199.449",
-                                "fastestLap": "1:44.707",
-                                "lap_of_fastestLap": "24"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:44.707",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "gap": "+ 0.871",
-                                "interval": "+ 0.043",
-                                "speed": "210.603",
-                                "fastestLap": "1:44.475"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:44.475",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 1.070",
-                                "interval": "+ 0.021",
-                                "speed": "210.188",
-                                "fastestLap": "1:44.707"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:44.707",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "24",
-                                "gap": "+ 22.536",
-                                "interval": "+ 6.760",
-                                "speed": "193.726",
-                                "fastestLap": "1:43.948",
-                                "lap_of_fastestLap": "8"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:43.948",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "24",
-                                "gap": "+ 34.014",
-                                "interval": "+ 2.076",
-                                "speed": "192.884",
-                                "fastestLap": "1:44.836",
-                                "lap_of_fastestLap": "22"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:44.836",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    }
-                },
-                "Nurburgring": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "18",
-                                "gap": "+ 0.201",
-                                "interval": "+ 0.084",
-                                "speed": "180.684",
-                                "fastestLap": "1:44.836"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:44.836",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "17",
-                                "gap": "+ 0.560",
-                                "interval": "+ 0.262",
-                                "speed": "180.054",
-                                "fastestLap": "1:43.948"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:43.948",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 0.028",
-                                "interval": "+ 0.028",
-                                "speed": "181.713",
-                                "fastestLap": "1:43.948"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:43.948",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        },
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "16",
-                                "gap": "+ 0.195",
-                                "interval": "+ 0.167",
-                                "speed": "181.416",
-                                "fastestLap": "1:44.836"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:44.836",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "11",
-                                "gap": "+ 0.226",
-                                "interval": "+ 0.013",
-                                "speed": "183.076",
-                                "fastestLap": "1:44.836"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:44.836",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "11",
-                                "gap": "+ 0.872",
-                                "interval": "+ 0.214",
-                                "speed": "181.915",
-                                "fastestLap": "1:43.948"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:43.948",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "23",
-                                "gap": "+ 13.540",
-                                "interval": "+ 0.905",
-                                "speed": "165.654",
-                                "fastestLap": "1:44.040",
-                                "lap_of_fastestLap": "8"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:44.040",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "23",
-                                "gap": "+ 16.188",
-                                "interval": "+ 1.202",
-                                "speed": "165.484",
-                                "fastestLap": "1:44.406",
-                                "lap_of_fastestLap": "6"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:44.406",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "14",
-                                "gap": "+ 0.394",
-                                "interval": "+ 0.037",
-                                "speed": "183.436",
-                                "fastestLap": "1:44.040"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:44.040",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "14",
-                                "gap": "+ 0.427",
-                                "interval": "+ 0.033",
-                                "speed": "183.376",
-                                "fastestLap": "1:44.406"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:44.406",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "22",
-                                "speed": "159.733",
-                                "fastestLap": "1:44.078",
-                                "lap_of_fastestLap": "18"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:44.078",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "22",
-                                "gap": "+ 2.240",
-                                "interval": "+ 2.240",
-                                "speed": "159.593",
-                                "fastestLap": "1:44.322",
-                                "lap_of_fastestLap": "18"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:44.322",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    }
-                },
-                "Le-mans": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "24",
-                                "gap": "+ 0.905",
-                                "interval": "+ 0.128",
-                                "speed": "180.008",
-                                "fastestLap": "1:44.078"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:44.078",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "25",
-                                "gap": "+ 1.548",
-                                "interval": "+ 0.047",
-                                "speed": "178.636",
-                                "fastestLap": "1:44.322"
-                            },
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:44.322",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "22",
-                                "gap": "+ 0.593",
-                                "interval": "+ 0.067",
-                                "speed": "181.706",
-                                "fastestLap": "1:44.078"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:44.078",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "22",
-                                "gap": "+ 1.128",
-                                "interval": "+ 0.053",
-                                "speed": "180.541",
-                                "fastestLap": "1:44.322"
-                            },
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:44.322",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "gap": "+ 0.280",
-                                "interval": "+ 0.074",
-                                "speed": "185.354",
-                                "fastestLap": "1:44.078"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:44.078",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "17",
-                                "gap": "+ 0.760",
-                                "interval": "+ 0.072",
-                                "speed": "184.266",
-                                "fastestLap": "1:44.322"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:44.322",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "30",
-                                "gap": "+ 11.984",
-                                "interval": "+ 1.954",
-                                "speed": "176.187",
-                                "fastestLap": "1:24.555",
-                                "lap_of_fastestLap": "5"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:24.555",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "30",
-                                "gap": "+ 16.168",
-                                "interval": "+ 3.210",
-                                "speed": "175.9",
-                                "fastestLap": "1:24.588",
-                                "lap_of_fastestLap": "26"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:24.588",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "speed": "186.811",
-                                "fastestLap": "1:24.555"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1:24.555",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "17",
-                                "gap": "+ 1.199",
-                                "interval": "+ 0.021",
-                                "speed": "184.075",
-                                "fastestLap": "1:24.588"
-                            },
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:24.588",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "28",
-                                "gap": "+ 9.075",
-                                "interval": "+ 6.687",
-                                "speed": "168.851",
-                                "fastestLap": "1:23.995",
-                                "lap_of_fastestLap": "10"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1:23.995",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "28",
-                                "gap": "+ 19.017",
-                                "interval": "+ 0.796",
-                                "speed": "168.182",
-                                "fastestLap": "1:23.796",
-                                "lap_of_fastestLap": "13"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:23.796",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    }
-                },
-                "Jerez": {
-                    "Test Session 1": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "19",
-                                "gap": "+ 0.640",
-                                "interval": "+ 0.227",
-                                "speed": "178.312",
-                                "fastestLap": "1:23.995"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:23.995",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "21",
-                                "gap": "+ 1.211",
-                                "interval": "+ 0.030",
-                                "speed": "177.181",
-                                "fastestLap": "1:23.796"
-                            },
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:23.796",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Test Session 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "17",
-                                "gap": "+ 0.524",
-                                "interval": "+ 0.524",
-                                "speed": "178.274",
-                                "fastestLap": "1:23.995"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1:23.995",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "15",
-                                "gap": "+ 0.880",
-                                "interval": "+ 0.058",
-                                "speed": "177.567",
-                                "fastestLap": "1:23.796"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:23.796",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "10",
-                                "gap": "+ 0.567",
-                                "interval": "+ 0.017",
-                                "speed": "178.732",
-                                "fastestLap": "1:23.995"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:23.995",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "12",
-                                "gap": "+ 0.883",
-                                "interval": "+ 0.204",
-                                "speed": "178.101",
-                                "fastestLap": "1:23.796"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1:23.796",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "23",
-                                "gap": "+ 26.020",
-                                "interval": "+ 9.539",
-                                "speed": "139.898",
-                                "fastestLap": "1:47.710",
-                                "lap_of_fastestLap": "22"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:47.710",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "23",
-                                "gap": "+ 58.633",
-                                "interval": "+ 0.567",
-                                "speed": "138.178",
-                                "fastestLap": "1:49.607",
-                                "lap_of_fastestLap": "21"
-                            },
-                            "position": "11",
-                            "points": 0,
-                            "fastest_lap": "1:49.607",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Qualifying 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "13",
-                                "gap": "+ 1.353",
-                                "interval": "+ 0.200",
-                                "speed": "148.623",
-                                "fastestLap": "1:47.710"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:47.710",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "13",
-                                "gap": "+ 1.574",
-                                "interval": "+ 0.010",
-                                "speed": "148.318",
-                                "fastestLap": "1:49.607"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1:49.607",
-                            "drivers": [
-                                "Gustav_Malja"
-                            ]
-                        }
-                    },
-                    "Race 2": {
-                        "11": {
-                            "other_info": {
-                                "carNumber": "11",
-                                "laps": "24",
-                                "gap": "+ 4.084",
-                                "interval": "+ 1.500",
-                                "speed": "152.965",
-                                "fastestLap": "1:32.202",
-                                "lap_of_fastestLap": "24"
-                            },
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:32.202",
-                            "drivers": [
-                                "Tio_Ellinas"
-                            ]
-                        },
-                        "12": {
-                            "other_info": {
-                                "carNumber": "12",
-                                "laps": "24",
-                                "gap": "+ 13.411",
-                                "interval": "+ 9.327",
-                                "speed": "152.397",
-                                "fastestLap": "1:33.355",
-                                "lap_of_fastestLap": "17"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1:33.355",
-                            "drivers": [
-                                "Gustav_Malja"
                             ]
                         }
                     }

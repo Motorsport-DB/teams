@@ -1,0 +1,41 @@
+{
+    "name": "verlin_brown",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "gap": "+ 6.700",
+                                "interval": "+ 1.670",
+                                "speed": "210.932"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Duke_Dinsmore"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "69": {
+                            "other_info": {
+                                "carNumber": "69",
+                                "laps": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Duke_Dinsmore"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

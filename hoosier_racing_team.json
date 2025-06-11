@@ -1,0 +1,44 @@
+{
+    "name": "hoosier_racing_team",
+    "seasons": {
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "gap": "+ 6.220",
+                                "interval": "+ 0.220",
+                                "speed": "221.573"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Paul_Russo"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "5": {
+                            "other_info": {
+                                "carNumber": "5",
+                                "laps": "200",
+                                "gap": "+ 5:01.170",
+                                "interval": "+ 47.820",
+                                "speed": "206.057"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "2_Drivers"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "name": "archie_bryde",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "gap": "+ 17.200",
+                                "interval": "+ 1.100"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Hawthorn"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "42": {
+                            "other_info": {
+                                "carNumber": "42",
+                                "laps": "51"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Hawthorn"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 6.000"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Reg_Parnell"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "82",
+                                "gap": "3 Laps"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Reg_Parnell"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

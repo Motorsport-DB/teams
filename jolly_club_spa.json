@@ -1,0 +1,75 @@
+{
+    "name": "jolly_club_spa",
+    "seasons": {
+        "1986": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 9.766",
+                                "interval": "+ 2.940"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ivan_Capelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "31",
+                                "fastestLap": "1:36.290",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:36.290",
+                            "drivers": [
+                                "Ivan_Capelli"
+                            ]
+                        }
+                    }
+                },
+                "Portuguese-grand-prix": {
+                    "Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "gap": "+ 7.314",
+                                "interval": "+ 0.421"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ivan_Capelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "carNumber": "31",
+                                "laps": "6",
+                                "fastestLap": "1:27.861",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.861",
+                            "drivers": [
+                                "Ivan_Capelli"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "name": "carl_marchese",
+    "seasons": {
+        "1951": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "gap": "+ 5.390",
+                                "interval": "+ 0.150"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "93"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Chuck_Stevenson"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "gap": "+ 5.350",
+                                "speed": "211.974"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Myron_Fohr"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "2": {
+                            "other_info": {
+                                "carNumber": "2",
+                                "laps": "133",
+                                "gap": "5 Laps",
+                                "interval": "2 Laps"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Myron_Fohr"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "name": "shadow_racing_with_tabatip",
+    "seasons": {
+        "1976": {
+            "Formula_1": {
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "gap": "+ 1.540",
+                                "interval": "+ 0.040"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tom_Pryce"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 2.860",
+                                "interval": "+ 0.120"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "40",
+                                "fastestLap": "1:40.220"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:40.220",
+                            "drivers": [
+                                "Jean-Pierre_Jarier"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "14",
+                                "fastestLap": "1:45.750"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:45.750",
+                            "drivers": [
+                                "Tom_Pryce"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

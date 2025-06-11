@@ -1,0 +1,74 @@
+{
+    "name": "temple_buell",
+    "seasons": {
+        "1958": {
+            "Formula_1": {
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "gap": "+ 4.400",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Masten_Gregory"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "32": {
+                            "other_info": {
+                                "carNumber": "32",
+                                "laps": "69",
+                                "gap": "1 Lap"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Masten_Gregory"
+                            ]
+                        }
+                    }
+                },
+                "Moroccan-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 4.500",
+                                "interval": "+ 0.500"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Masten_Gregory"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "laps": "52",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Masten_Gregory"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

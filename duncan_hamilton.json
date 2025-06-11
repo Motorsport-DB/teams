@@ -1,0 +1,76 @@
+{
+    "name": "duncan_hamilton",
+    "seasons": {
+        "1951": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 13.800",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Duncan_Hamilton"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "81",
+                                "gap": "9 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:54.000"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:54.000",
+                            "drivers": [
+                                "Duncan_Hamilton"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "88": {
+                            "other_info": {
+                                "carNumber": "88",
+                                "gap": "+ 1:53.500",
+                                "interval": "+ 7.400"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Duncan_Hamilton"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "88": {
+                            "other_info": {
+                                "carNumber": "88",
+                                "laps": "12",
+                                "fastestLap": "11:29.700",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "11:29.700",
+                            "drivers": [
+                                "Duncan_Hamilton"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

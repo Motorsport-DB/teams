@@ -1,0 +1,41 @@
+{
+    "name": "milt_marion",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "gap": "+ 5.600",
+                                "interval": "+ 0.660",
+                                "speed": "211.781"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sam_Hanks"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "42"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sam_Hanks"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

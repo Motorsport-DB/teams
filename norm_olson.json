@@ -1,0 +1,42 @@
+{
+    "name": "norm_olson",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "77": {
+                            "other_info": {
+                                "carNumber": "77",
+                                "gap": "+ 9.600",
+                                "interval": "+ 0.520",
+                                "speed": "208.729"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jackie_John Holmes"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "77": {
+                            "other_info": {
+                                "carNumber": "77",
+                                "laps": "123",
+                                "gap": "15 Laps"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jackie_John Holmes"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

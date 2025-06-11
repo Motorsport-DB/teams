@@ -1,0 +1,73 @@
+{
+    "name": "john_dalton",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "48": {
+                            "other_info": {
+                                "carNumber": "48",
+                                "gap": "+ 8.800",
+                                "interval": "+ 1.000"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Shelly"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "48": {
+                            "other_info": {
+                                "carNumber": "48",
+                                "laps": "5",
+                                "speed": "128.861",
+                                "fastestLap": "2:10.400",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:10.400",
+                            "drivers": [
+                                "Tony_Shelly"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29",
+                                "gap": "+ 1:31.400",
+                                "interval": "+ 8.900"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Shelly"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "29": {
+                            "other_info": {
+                                "carNumber": "29"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Tony_Shelly"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

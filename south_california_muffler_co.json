@@ -1,0 +1,78 @@
+{
+    "name": "south_california_muffler_co",
+    "seasons": {
+        "1955": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "gap": "+ 2.480",
+                                "interval": "+ 0.910"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_Rathmann"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "33": {
+                            "other_info": {
+                                "carNumber": "33",
+                                "laps": "191",
+                                "gap": "9 Laps",
+                                "interval": "5 Laps"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jim_Rathmann"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1954": {
+            "Formula_1": {
+                "Indianapolis-500": {
+                    "Qualifying": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "gap": "+ 2.660",
+                                "interval": "+ 0.020",
+                                "speed": "224.631"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnnie_Parsons"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "15": {
+                            "other_info": {
+                                "carNumber": "15",
+                                "laps": "79"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Johnnie_Parsons"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

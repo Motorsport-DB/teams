@@ -1,0 +1,154 @@
+{
+    "name": "anglo-american_equipe",
+    "seasons": {
+        "1970": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Race": {
+                        "23": {
+                            "other_info": {
+                                "carNumber": "23",
+                                "laps": "78",
+                                "gap": "2 Laps",
+                                "interval": "+ 19.700",
+                                "speed": "127.1",
+                                "fastestLap": "1:27.600",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:27.600",
+                            "drivers": [
+                                "Ronnie_Peterson"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Race": {
+                        "14": {
+                            "other_info": {
+                                "carNumber": "14",
+                                "laps": "20",
+                                "speed": "170.1",
+                                "fastestLap": "3:33.000",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "NC",
+                            "points": 0,
+                            "fastest_lap": "3:33.000",
+                            "drivers": [
+                                "Ronnie_Peterson"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1962": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "gap": "+ 7.000",
+                                "interval": "+ 1.200"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "36": {
+                            "other_info": {
+                                "carNumber": "36",
+                                "laps": "71",
+                                "gap": "4 Laps",
+                                "interval": "+ 58.400",
+                                "speed": "139.149",
+                                "fastestLap": "1:59.600",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:59.600",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "gap": "+ 52.000",
+                                "interval": "+ 5.400"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "25": {
+                            "other_info": {
+                                "carNumber": "25",
+                                "laps": "15",
+                                "gap": "+ 8:15.300",
+                                "interval": "+ 0.600",
+                                "fastestLap": "10:36.600",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "10:36.600",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62",
+                                "gap": "+ 12.750",
+                                "interval": "+ 0.200"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "62": {
+                            "other_info": {
+                                "carNumber": "62"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ian_Burgess"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

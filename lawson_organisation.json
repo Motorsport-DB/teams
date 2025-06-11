@@ -1,0 +1,64 @@
+{
+    "name": "lawson_organisation",
+    "seasons": {
+        "1965": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "22": {
+                            "other_info": {
+                                "carNumber": "22",
+                                "gap": "+ 10.700",
+                                "interval": "+ 1.700"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ernie_Pieterse"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "1963": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "gap": "+ 5.600",
+                                "interval": "+ 2.500"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Ernie_Pieterse"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "3",
+                                "speed": "139.619",
+                                "fastestLap": "1:37.900",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:37.900",
+                            "drivers": [
+                                "Ernie_Pieterse"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

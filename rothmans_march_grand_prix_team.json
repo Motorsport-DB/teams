@@ -1,0 +1,896 @@
+{
+    "name": "rothmans_march_grand_prix_team",
+    "seasons": {
+        "1982": {
+            "Formula_1": {
+                "South-african-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 5.726",
+                                "interval": "+ 0.269"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 5.749",
+                                "interval": "+ 0.023"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "74",
+                                "gap": "3 Laps",
+                                "interval": "+ 25.421",
+                                "speed": "196.527",
+                                "fastestLap": "1:13.657",
+                                "lap_of_fastestLap": "54"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:13.657",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "72",
+                                "gap": "5 Laps",
+                                "interval": "1 Lap",
+                                "speed": "192.267",
+                                "fastestLap": "1:14.380",
+                                "lap_of_fastestLap": "5"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:14.380",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Brazilian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 5.242",
+                                "interval": "+ 1.281"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 6.231",
+                                "interval": "+ 0.019"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "61",
+                                "gap": "2 Laps",
+                                "interval": "+ 40.182",
+                                "speed": "175.182",
+                                "fastestLap": "1:40.094",
+                                "lap_of_fastestLap": "36"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:40.094",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "11",
+                                "speed": "174.008",
+                                "fastestLap": "1:42.360",
+                                "lap_of_fastestLap": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:42.360",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix-west": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 3.160",
+                                "interval": "+ 0.002"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 3.661",
+                                "interval": "+ 0.058"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "73",
+                                "gap": "2 Laps",
+                                "interval": "+ 50.876",
+                                "speed": "126.382",
+                                "fastestLap": "1:34.312",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:34.312",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "70",
+                                "gap": "5 Laps",
+                                "interval": "3 Laps",
+                                "speed": "122.076",
+                                "fastestLap": "1:36.915",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:36.915",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Belgian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 3.920",
+                                "interval": "+ 0.023"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.076",
+                                "interval": "+ 0.156"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "66",
+                                "gap": "4 Laps",
+                                "interval": "+ 8.323",
+                                "speed": "175.812",
+                                "fastestLap": "1:25.061",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:25.061",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "60",
+                                "speed": "180.137",
+                                "fastestLap": "1:22.934",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:22.934",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.604",
+                                "interval": "+ 0.362"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 7.931",
+                                "interval": "+ 0.153"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 29.120",
+                                "interval": "+ 20.930"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    }
+                },
+                "Detroit-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 3.734",
+                                "interval": "+ 0.403"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.333",
+                                "interval": "+ 0.003"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 8.052",
+                                "interval": "+ 0.741"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "61",
+                                "gap": "1 Lap",
+                                "interval": "+ 1:00.373",
+                                "speed": "122.395",
+                                "fastestLap": "1:55.250",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:55.250",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.250",
+                                "interval": "+ 0.524"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.352",
+                                "interval": "+ 0.102"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 6.536",
+                                "interval": "+ 1.686"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "66",
+                                "gap": "4 Laps",
+                                "interval": "+ 6:33.138",
+                                "speed": "162.402",
+                                "fastestLap": "1:32.974",
+                                "lap_of_fastestLap": "38"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:32.974",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "47",
+                                "speed": "166.061",
+                                "fastestLap": "1:33.353",
+                                "lap_of_fastestLap": "45"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.353",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Dutch-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.425",
+                                "interval": "+ 0.180"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.850",
+                                "interval": "+ 0.130"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "carNumber": "19",
+                                "gap": "+ 7.274",
+                                "interval": "+ 0.358"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Emilio_de Villota"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "60",
+                                "speed": "178.786",
+                                "fastestLap": "1:21.952",
+                                "lap_of_fastestLap": "55"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:21.952",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "21",
+                                "speed": "176.758",
+                                "fastestLap": "1:23.682",
+                                "lap_of_fastestLap": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:23.682",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.082",
+                                "interval": "+ 0.321"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.428",
+                                "interval": "+ 0.102"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "73",
+                                "gap": "3 Laps",
+                                "interval": "1 Lap",
+                                "speed": "191.153",
+                                "fastestLap": "1:16.287",
+                                "lap_of_fastestLap": "30"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:16.287",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "French-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 7.173",
+                                "interval": "+ 0.582"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 8.693",
+                                "interval": "+ 0.685"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "10",
+                                "speed": "191.076",
+                                "fastestLap": "1:46.965",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:46.965",
+                            "drivers": [
+                                "Jochen_Mass"
+                            ]
+                        }
+                    }
+                },
+                "German-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 9.298",
+                                "interval": "+ 0.565"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 12.004",
+                                "interval": "+ 0.944"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "22",
+                                "speed": "198.261",
+                                "fastestLap": "2:01.692",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:01.692",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 7.158",
+                                "interval": "+ 0.055"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 7.537",
+                                "interval": "+ 0.164"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "1",
+                                "speed": "146.806",
+                                "fastestLap": "2:25.720",
+                                "lap_of_fastestLap": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:25.720",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        }
+                    }
+                },
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.631",
+                                "interval": "+ 0.134"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.756",
+                                "interval": "+ 0.119"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "31",
+                                "speed": "187.383",
+                                "fastestLap": "1:11.313",
+                                "lap_of_fastestLap": "28"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:11.313",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "25",
+                                "speed": "188.912",
+                                "fastestLap": "1:10.470",
+                                "lap_of_fastestLap": "25"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:10.470",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        }
+                    }
+                },
+                "Italian-grand-prix": {
+                    "Qualifying": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 6.850",
+                                "interval": "+ 0.093"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 7.274",
+                                "interval": "+ 0.046"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                },
+                "Caesars-palace-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.410",
+                                "interval": "+ 0.495"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        },
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "gap": "+ 4.824",
+                                "interval": "+ 0.414"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "17": {
+                            "other_info": {
+                                "carNumber": "17",
+                                "laps": "73",
+                                "gap": "2 Laps",
+                                "interval": "+ 31.208",
+                                "speed": "154.637",
+                                "fastestLap": "1:23.040",
+                                "lap_of_fastestLap": "55"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:23.040",
+                            "drivers": [
+                                "Rupert_Keegan"
+                            ]
+                        },
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "69",
+                                "gap": "6 Laps",
+                                "interval": "4 Laps",
+                                "speed": "147.535",
+                                "fastestLap": "1:24.778",
+                                "lap_of_fastestLap": "48"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:24.778",
+                            "drivers": [
+                                "Raul_Boesel"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

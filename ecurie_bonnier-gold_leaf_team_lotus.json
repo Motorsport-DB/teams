@@ -1,0 +1,42 @@
+{
+    "name": "ecurie_bonnier-gold_leaf_team_lotus",
+    "seasons": {
+        "1969": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 7.400",
+                                "interval": "+ 2.100"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jo_Bonnier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "6",
+                                "fastestLap": "1:29.100",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:29.100",
+                            "drivers": [
+                                "Jo_Bonnier"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

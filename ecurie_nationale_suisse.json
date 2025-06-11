@@ -1,0 +1,39 @@
+{
+    "name": "ecurie_nationale_suisse",
+    "seasons": {
+        "1962": {
+            "Formula_1": {
+                "Monaco-grand-prix": {
+                    "Qualifying": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46",
+                                "gap": "+ 3.500",
+                                "interval": "+ 0.400"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jo_Siffert"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "46": {
+                            "other_info": {
+                                "carNumber": "46"
+                            },
+                            "position": "DNQ",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jo_Siffert"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

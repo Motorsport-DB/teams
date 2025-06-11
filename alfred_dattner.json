@@ -1,0 +1,38 @@
+{
+    "name": "alfred_dattner",
+    "seasons": {
+        "1952": {
+            "Formula_1": {
+                "Swiss-grand-prix": {
+                    "Qualifying": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Max_de Terra"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "50": {
+                            "other_info": {
+                                "carNumber": "50",
+                                "laps": "1"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Max_de Terra"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
