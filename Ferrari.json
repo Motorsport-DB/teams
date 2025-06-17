@@ -1262,6 +1262,157 @@
                             ]
                         }
                     }
+                },
+                "PIRELLI GRAND PRIX DU CANADA": {
+                    "PRACTICE 1": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "30",
+                                "gap": "+ 0.427",
+                                "interval": "+ 0.085",
+                                "speed": "213.251"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "9",
+                                "gap": "+ 0.692",
+                                "interval": "+ 0.068",
+                                "speed": "212.486"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "34",
+                                "gap": "+ 0.530",
+                                "interval": "+ 0.022",
+                                "speed": "216.09"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "29",
+                                "gap": "+ 0.078",
+                                "interval": "+ 0.078",
+                                "speed": "218.423"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ]
+                        },
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "26",
+                                "gap": "+ 0.251",
+                                "interval": "+ 0.100",
+                                "speed": "217.898"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "27",
+                                "gap": "+ 0.627",
+                                "interval": "+ 0.135",
+                                "speed": "219.495"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "27",
+                                "gap": "+ 0.783",
+                                "interval": "+ 0.057",
+                                "speed": "219.017"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "16": {
+                            "other_info": {
+                                "carNumber": "16",
+                                "laps": "70",
+                                "gap": "+ 3.442",
+                                "interval": "+ 1.333",
+                                "speed": "199.228",
+                                "fastestLap": "1:14.261",
+                                "lap_of_fastestLap": "57"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:14.261",
+                            "drivers": [
+                                "Charles_Leclerc"
+                            ]
+                        },
+                        "44": {
+                            "other_info": {
+                                "carNumber": "44",
+                                "laps": "70",
+                                "gap": "+ 10.713",
+                                "interval": "+ 7.271",
+                                "speed": "198.966",
+                                "fastestLap": "1:14.805",
+                                "lap_of_fastestLap": "64"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:14.805",
+                            "drivers": [
+                                "Lewis_Hamilton"
+                            ]
+                        }
+                    }
                 }
             }
         },

@@ -1259,6 +1259,166 @@
                             ]
                         }
                     }
+                },
+                "PIRELLI GRAND PRIX DU CANADA": {
+                    "PRACTICE 1": {
+                        "63": {
+                            "other_info": {
+                                "carNumber": "63",
+                                "laps": "29",
+                                "gap": "+ 0.342",
+                                "interval": "+ 0.260",
+                                "speed": "213.498"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "30",
+                                "gap": "+ 0.809",
+                                "interval": "+ 0.030",
+                                "speed": "212.151"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "PRACTICE 2": {
+                        "63": {
+                            "other_info": {
+                                "carNumber": "63",
+                                "laps": "33",
+                                "speed": "217.678"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "33",
+                                "gap": "+ 0.288",
+                                "interval": "+ 0.260",
+                                "speed": "216.812"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "PRACTICE 3": {
+                        "63": {
+                            "other_info": {
+                                "carNumber": "63",
+                                "laps": "20",
+                                "gap": "+ 0.151",
+                                "interval": "+ 0.073",
+                                "speed": "218.201"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "gap": "+ 0.549",
+                                "interval": "+ 0.101",
+                                "speed": "217.001"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "63": {
+                            "other_info": {
+                                "carNumber": "63",
+                                "laps": "21",
+                                "speed": "221.436"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "21",
+                                "gap": "+ 0.492",
+                                "interval": "+ 0.271",
+                                "speed": "219.91"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "63": {
+                            "other_info": {
+                                "carNumber": "63",
+                                "laps": "70",
+                                "speed": "199.353",
+                                "fastestLap": "1:14.119",
+                                "lap_of_fastestLap": "63"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:14.119",
+                            "drivers": [
+                                "George_Russell"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "carNumber": "12",
+                                "laps": "70",
+                                "gap": "+ 1.014",
+                                "interval": "+ 0.786",
+                                "speed": "199.316",
+                                "fastestLap": "1:14.455",
+                                "lap_of_fastestLap": "60"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:14.455",
+                            "drivers": [
+                                "Andrea Kimi_Antonelli"
+                            ]
+                        }
+                    }
                 }
             }
         },
