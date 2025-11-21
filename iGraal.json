@@ -1,0 +1,105 @@
+{
+    "name": "iGraal",
+    "seasons": {
+        "0000": {
+            "GP_Explorer": {
+                "GP Explorer 1": {
+                    "Free Practice": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": 3,
+                                "interval": "16.066",
+                                "Average_speed": "124.9",
+                                "lap_of_fastestLap": 11
+                            },
+                            "position": 13,
+                            "points": 0,
+                            "fastest_lap": "2:00.594",
+                            "drivers": [
+                                "Seb"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": 8,
+                                "interval": "24.449",
+                                "Average_speed": "116.8",
+                                "lap_of_fastestLap": 4
+                            },
+                            "position": 20,
+                            "points": 0,
+                            "fastest_lap": "2:08.977",
+                            "drivers": [
+                                "Sofyan"
+                            ]
+                        }
+                    },
+                    "Qualifying 1 - G1": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": 3,
+                                "interval": "11.154",
+                                "Average_speed": "131.2",
+                                "lap_of_fastestLap": 7
+                            },
+                            "position": 10,
+                            "points": 0,
+                            "fastest_lap": "1:54.786",
+                            "drivers": [
+                                "Seb"
+                            ]
+                        }
+                    },
+                    "Qualifying 1 - G2": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": 8,
+                                "interval": "11.506",
+                                "Average_speed": "129.0",
+                                "lap_of_fastestLap": 6
+                            },
+                            "position": 20,
+                            "points": 0,
+                            "fastest_lap": "1:56.748",
+                            "drivers": [
+                                "Sofyan"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "3": {
+                            "other_info": {
+                                "carNumber": 3,
+                                "interval": "1 Lap",
+                                "Average_speed": "131.2",
+                                "lap_of_fastestLap": 13,
+                                "laps": 14
+                            },
+                            "position": 15,
+                            "points": 14,
+                            "fastest_lap": "1:54.791",
+                            "drivers": [
+                                "Seb"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": 8,
+                                "interval": "2 Laps",
+                                "Average_speed": "128.9",
+                                "lap_of_fastestLap": 9,
+                                "laps": 13
+                            },
+                            "position": 18,
+                            "points": 6,
+                            "fastest_lap": "1:56.841",
+                            "drivers": [
+                                "Sofyan"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
