@@ -20,14 +20,12 @@
                                 "Norman_Nato",
                                 "Will_Stevens"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "6:01'21.665",
-                                    "Laps": "212",
-                                    "Car_number": "12",
-                                    "Class": "HYPERCAR"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "6:01'21.665",
+                                "Laps": "212",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            }
                         },
                         "38": {
                             "position": "16",
@@ -38,14 +36,12 @@
                                 "Sébastien_Bourdais",
                                 "Jenson_Button"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "6:00'30.358",
-                                    "Laps": "210",
-                                    "Car_number": "38",
-                                    "Class": "HYPERCAR"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "6:00'30.358",
+                                "Laps": "210",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            }
                         }
                     },
                     "Hypercar Hyperpole": {
@@ -856,6 +852,780 @@
                             "drivers": [
                                 "Earl_Bamber",
                                 "Sebastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    }
+                },
+                "Rolex 6 Hours of Sao Paulo": {
+                    "Free Practice 1": {
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "181.746 Km/h",
+                                "Laps": "48",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1'25.352",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "181.648 Km/h",
+                                "Laps": "53",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1'25.398",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "185.375 Km/h",
+                                "Laps": "53",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1'23.681",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "184.364 Km/h",
+                                "Laps": "51",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1'24.140",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "183.865 Km/h",
+                                "Laps": "35",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'24.368",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "182.376 Km/h",
+                                "Laps": "33",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1'25.057",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "187.282 Km/h",
+                                "Laps": "6",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1'22.829",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "185.694 Km/h",
+                                "Laps": "8",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1'23.537",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "187.869 Km/h",
+                                "Laps": "6",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1'22.570",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "187.642 Km/h",
+                                "Laps": "7",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'22.670",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "Elapsed_times": "6:00'19.732",
+                                "Laps": "242",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "1",
+                            "points": "26",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'16.748",
+                                "Laps": "242",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "2",
+                            "points": "18",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    }
+                },
+                "Lone Star Le Mans": {
+                    "Free Practice 1": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "174.732 Km/h",
+                                "Laps": "28",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1'53.584",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "173.251 Km/h",
+                                "Laps": "32",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1'54.555",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "175.063 Km/h",
+                                "Laps": "42",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1'53.369",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "174.022 Km/h",
+                                "Laps": "35",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1'54.047",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "176.763 Km/h",
+                                "Laps": "26",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1'52.279",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "174.637 Km/h",
+                                "Laps": "26",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1'53.646",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "160.856 Km/h",
+                                "Laps": "5",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2'03.382",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "160.116 Km/h",
+                                "Laps": "5",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2'03.952",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "38": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'07.827",
+                                "Laps": "120",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "6",
+                            "points": "8",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'36.206",
+                                "Laps": "120",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "8",
+                            "points": "4",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "179.310 Km/h",
+                                "Laps": "44",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'31.611",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "178.830 Km/h",
+                                "Laps": "41",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1'31.857",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "182.629 Km/h",
+                                "Laps": "48",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1'29.946",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "181.529 Km/h",
+                                "Laps": "30",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1'30.491",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "183.506 Km/h",
+                                "Laps": "33",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'29.516",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "183.492 Km/h",
+                                "Laps": "31",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'29.523",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "184.400 Km/h",
+                                "Laps": "6",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1'29.082",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "183.884 Km/h",
+                                "Laps": "8",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1'29.332",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "186.168 Km/h",
+                                "Laps": "6",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1'28.236",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "185.247 Km/h",
+                                "Laps": "7",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1'28.675",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'21.734",
+                                "Laps": "202",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "6",
+                            "points": "9",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Elapsed_times": "6:00'38.623",
+                                "Laps": "201",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    }
+                },
+                "Bapco Energies 8 Hours of Bahrain": {
+                    "Free Practice 1": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "172.262 Km/h",
+                                "Laps": "37",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1'53.102",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "171.404 Km/h",
+                                "Laps": "37",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1'53.668",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "177.897 Km/h",
+                                "Laps": "43",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1'49.519",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "177.294 Km/h",
+                                "Laps": "40",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1'49.892",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "176.875 Km/h",
+                                "Laps": "29",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'50.152",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "175.953 Km/h",
+                                "Laps": "30",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'50.729",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "180.598 Km/h",
+                                "Laps": "5",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1'47.881",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Average_speed": "179.747 Km/h",
+                                "Laps": "5",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1'48.392",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
+                                "Jenson_Button"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "12": {
+                            "other_info": {
+                                "Average_speed": "181.166 Km/h",
+                                "Laps": "5",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1'47.543",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "12": {
+                            "other_info": {
+                                "Elapsed_times": "8:01'49.153",
+                                "Laps": "237",
+                                "Car_number": "12",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "6",
+                            "points": "12",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Alexander_Lynn",
+                                "Norman_Nato",
+                                "Will_Stevens"
+                            ]
+                        },
+                        "38": {
+                            "other_info": {
+                                "Elapsed_times": "8:01'46.593",
+                                "Laps": "235",
+                                "Car_number": "38",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Earl_Bamber",
+                                "Sébastien_Bourdais",
                                 "Jenson_Button"
                             ]
                         }

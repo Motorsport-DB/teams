@@ -20,14 +20,12 @@
                                 "Francesco_Castellacci",
                                 "Davide_Rigon"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "6:00'29.481",
-                                    "Laps": "192",
-                                    "Car_number": "54",
-                                    "Class": "LMGT3"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "6:00'29.481",
+                                "Laps": "192",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            }
                         },
                         "21": {
                             "position": "",
@@ -38,14 +36,12 @@
                                 "Simon_Mann",
                                 "Alessio_Rovera"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "3:49'53.350",
-                                    "Laps": "119",
-                                    "Car_number": "21",
-                                    "Class": "LMGT3"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "3:49'53.350",
+                                "Laps": "119",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            }
                         }
                     },
                     "LMGT3 Hyperpole": {
@@ -831,6 +827,746 @@
                             "other_info": {
                                 "Elapsed_times": "14:04'56.647",
                                 "Laps": "192",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "dnf",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    }
+                },
+                "Rolex 6 Hours of Sao Paulo": {
+                    "Free Practice 1": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "162.188 Km/h",
+                                "Laps": "29",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1'35.644",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "161.402 Km/h",
+                                "Laps": "47",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "34",
+                            "points": 0,
+                            "fastest_lap": "1'36.110",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "161.872 Km/h",
+                                "Laps": "50",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "1'35.831",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "161.862 Km/h",
+                                "Laps": "50",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "31",
+                            "points": 0,
+                            "fastest_lap": "1'35.837",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "162.753 Km/h",
+                                "Laps": "34",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "1'35.312",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "162.571 Km/h",
+                                "Laps": "34",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "1'35.419",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "162.661 Km/h",
+                                "Laps": "7",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1'35.366",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "162.362 Km/h",
+                                "Laps": "7",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1'35.542",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "54": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'12.575",
+                                "Laps": "215",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'43.139",
+                                "Laps": "215",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    }
+                },
+                "Lone Star Le Mans": {
+                    "Free Practice 1": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "155.801 Km/h",
+                                "Laps": "29",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "2'07.385",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "155.326 Km/h",
+                                "Laps": "28",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "2'07.775",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "155.856 Km/h",
+                                "Laps": "37",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "2'07.340",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "155.431 Km/h",
+                                "Laps": "23",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "2'07.688",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "157.214 Km/h",
+                                "Laps": "24",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "2'06.240",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "157.071 Km/h",
+                                "Laps": "23",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "2'06.355",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "143.684 Km/h",
+                                "Laps": "5",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "2'18.128",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "140.522 Km/h",
+                                "Laps": "5",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2'21.236",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "54": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'38.859",
+                                "Laps": "115",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'51.185",
+                                "Laps": "115",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "161.599 Km/h",
+                                "Laps": "37",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1'41.651",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "161.550 Km/h",
+                                "Laps": "37",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1'41.682",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "161.471 Km/h",
+                                "Laps": "39",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1'41.732",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "161.084 Km/h",
+                                "Laps": "42",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1'41.976",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": " Km/h",
+                                "Laps": "30",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": 0,
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "161.835 Km/h",
+                                "Laps": "30",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1'41.503",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "162.286 Km/h",
+                                "Laps": "7",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1'41.221",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "162.039 Km/h",
+                                "Laps": "6",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1'41.375",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "163.288 Km/h",
+                                "Laps": "6",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1'40.600",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "162.933 Km/h",
+                                "Laps": "6",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1'40.819",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'06.228",
+                                "Laps": "185",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'21.489",
+                                "Laps": "185",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    }
+                },
+                "Bapco Energies 8 Hours of Bahrain": {
+                    "Free Practice 1": {
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "155.984 Km/h",
+                                "Laps": "33",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "2'04.905",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "154.339 Km/h",
+                                "Laps": "33",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "36",
+                            "points": 0,
+                            "fastest_lap": "2'06.236",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "156.907 Km/h",
+                                "Laps": "38",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "2'04.170",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "156.352 Km/h",
+                                "Laps": "38",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "2'04.611",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "157.452 Km/h",
+                                "Laps": "26",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "2'03.740",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "156.318 Km/h",
+                                "Laps": "26",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "32",
+                            "points": 0,
+                            "fastest_lap": "2'04.638",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "157.712 Km/h",
+                                "Laps": "6",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2'03.536",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Average_speed": "156.539 Km/h",
+                                "Laps": "4",
+                                "Car_number": "54",
+                                "Class": "LMGT3"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2'04.462",
+                            "drivers": [
+                                "Thomas_Flohr",
+                                "Francesco_Castellacci",
+                                "Davide_Rigon"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "21": {
+                            "other_info": {
+                                "Average_speed": "158.705 Km/h",
+                                "Laps": "5",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2'02.763",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "21": {
+                            "other_info": {
+                                "Elapsed_times": "8:02'27.205",
+                                "Laps": "216",
+                                "Car_number": "21",
+                                "Class": "LMGT3"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "François_Heriau",
+                                "Simon_Mann",
+                                "Alessio_Rovera"
+                            ]
+                        },
+                        "54": {
+                            "other_info": {
+                                "Elapsed_times": "3:15'56.351",
+                                "Laps": "90",
                                 "Car_number": "54",
                                 "Class": "LMGT3"
                             },

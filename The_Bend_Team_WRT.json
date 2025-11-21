@@ -20,14 +20,12 @@
                                 "Timur_Boguslavskiy",
                                 "Augusto_Farfus"
                             ],
-                            "other_Info": [
-                                {
-                                    "Average_speed": "169.314 Km/h",
-                                    "Laps": "7",
-                                    "Car_number": "31",
-                                    "Class": "LMGT3"
-                                }
-                            ]
+                            "other_info": {
+                                "Average_speed": "169.314 Km/h",
+                                "Laps": "7",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            }
                         }
                     },
                     "Race": {
@@ -40,14 +38,12 @@
                                 "Timur_Boguslavskiy",
                                 "Augusto_Farfus"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "6:01'18.841",
-                                    "Laps": "191",
-                                    "Car_number": "31",
-                                    "Class": "LMGT3"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "6:01'18.841",
+                                "Laps": "191",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            }
                         }
                     },
                     "Free Practice 1": {
@@ -378,6 +374,410 @@
                                 "Class": "LMGT3"
                             },
                             "position": "dnf",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    }
+                },
+                "Rolex 6 Hours of Sao Paulo": {
+                    "Free Practice 1": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "161.555 Km/h",
+                                "Laps": "49",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "1'36.019",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Pedro_Ebrahim",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "160.441 Km/h",
+                                "Laps": "42",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "35",
+                            "points": 0,
+                            "fastest_lap": "1'36.686",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Pedro_Ebrahim",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "161.923 Km/h",
+                                "Laps": "30",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "36",
+                            "points": 0,
+                            "fastest_lap": "1'35.801",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Pedro_Ebrahim",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "160.444 Km/h",
+                                "Laps": "5",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1'36.684",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Pedro_Ebrahim",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'29.019",
+                                "Laps": "215",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Pedro_Ebrahim",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    }
+                },
+                "Lone Star Le Mans": {
+                    "Free Practice 1": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "153.873 Km/h",
+                                "Laps": "31",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "36",
+                            "points": 0,
+                            "fastest_lap": "2'08.981",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "155.079 Km/h",
+                                "Laps": "36",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "35",
+                            "points": 0,
+                            "fastest_lap": "2'07.978",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "155.777 Km/h",
+                                "Laps": "24",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "35",
+                            "points": 0,
+                            "fastest_lap": "2'07.405",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "150.080 Km/h",
+                                "Laps": "5",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2'12.241",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "152.399 Km/h",
+                                "Laps": "5",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "2'10.229",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'25.002",
+                                "Laps": "115",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "161.077 Km/h",
+                                "Laps": "41",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "1'41.981",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "160.280 Km/h",
+                                "Laps": "45",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "36",
+                            "points": 0,
+                            "fastest_lap": "1'42.488",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "161.357 Km/h",
+                                "Laps": "29",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "34",
+                            "points": 0,
+                            "fastest_lap": "1'41.804",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "161.382 Km/h",
+                                "Laps": "7",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1'41.788",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'08.106",
+                                "Laps": "185",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    }
+                },
+                "Bapco Energies 8 Hours of Bahrain": {
+                    "Free Practice 1": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "158.003 Km/h",
+                                "Laps": "34",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "2'03.309",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "157.036 Km/h",
+                                "Laps": "36",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "2'04.068",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "156.214 Km/h",
+                                "Laps": "27",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "34",
+                            "points": 0,
+                            "fastest_lap": "2'04.721",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "157.767 Km/h",
+                                "Laps": "5",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2'03.493",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "31": {
+                            "other_info": {
+                                "Average_speed": "159.141 Km/h",
+                                "Laps": "5",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2'02.427",
+                            "drivers": [
+                                "Yasser_Shahin",
+                                "Timur_Boguslavskiy",
+                                "Augusto_Farfus"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "31": {
+                            "other_info": {
+                                "Elapsed_times": "8:02'38.971",
+                                "Laps": "216",
+                                "Car_number": "31",
+                                "Class": "LMGT3"
+                            },
+                            "position": "24",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [

@@ -1,0 +1,42 @@
+{
+    "name": "ERA",
+    "seasons": {
+        "1950": {
+            "Formula_1": {
+                "British-grand-prix": {
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "gap": "+ 5.800",
+                                "interval": "+ 0.600",
+                                "speed": "143.549"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Peter_Walker"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "9": {
+                            "other_info": {
+                                "carNumber": "9",
+                                "laps": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Peter_Walker",
+                                "Tony_Rolt"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

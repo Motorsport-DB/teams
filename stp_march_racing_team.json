@@ -15,7 +15,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -30,7 +30,7 @@
                             "points": 0,
                             "fastest_lap": "1:14.250",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -47,7 +47,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -61,7 +61,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -78,7 +78,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -93,7 +93,7 @@
                             "points": 0,
                             "fastest_lap": "1:18.880",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -145,7 +145,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -159,7 +159,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -176,7 +176,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -191,7 +191,7 @@
                             "points": 0,
                             "fastest_lap": "1:31.000",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -208,7 +208,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -223,7 +223,7 @@
                             "points": 0,
                             "fastest_lap": "1:28.700",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -240,7 +240,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     },
@@ -255,7 +255,7 @@
                             "points": 0,
                             "fastest_lap": "1:52.870",
                             "drivers": [
-                                "Jean-Pierre_Jarier"
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -317,6 +317,103 @@
                             "fastest_lap": "",
                             "drivers": [
                                 "Roger_Williamson"
+                            ]
+                        }
+                    }
+                },
+                "Austrian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 1.950",
+                                "interval": "+ 0.100"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "37"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "Canadian-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 4.024",
+                                "interval": "+ 0.142"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "71"
+                            },
+                            "position": "NCL",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
+                            ]
+                        }
+                    }
+                },
+                "United-states-grand-prix": {
+                    "Qualifying": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "gap": "+ 3.095",
+                                "interval": "+ 0.235"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "18": {
+                            "other_info": {
+                                "carNumber": "18",
+                                "laps": "57",
+                                "gap": "2 Laps",
+                                "interval": "1 Lap",
+                                "fastestLap": "1:43.752",
+                                "lap_of_fastestLap": "47"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "1:43.752",
+                            "drivers": [
+                                "Jean_Pierre_Jarier"
                             ]
                         }
                     }
@@ -1080,7 +1177,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "26": {
@@ -1094,7 +1191,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     },
@@ -1130,7 +1227,7 @@
                             "points": 0,
                             "fastest_lap": "1:25.100",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "26": {
@@ -1145,7 +1242,7 @@
                             "points": 0,
                             "fastest_lap": "1:25.200",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     }
@@ -1175,7 +1272,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "19": {
@@ -1188,7 +1285,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     },
@@ -1205,7 +1302,7 @@
                             "points": 0,
                             "fastest_lap": "1:29.600",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         },
                         "17": {
@@ -1220,7 +1317,7 @@
                             "points": 0,
                             "fastest_lap": "1:31.600",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "18": {
@@ -1278,7 +1375,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     },
@@ -1327,7 +1424,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         },
                         "18": {
@@ -1372,7 +1469,7 @@
                             "points": 0,
                             "fastest_lap": "1:44.810",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     }
@@ -1402,7 +1499,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "18": {
@@ -1415,7 +1512,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         },
                         "33": {
@@ -1445,7 +1542,7 @@
                             "points": 0,
                             "fastest_lap": "1:59.830",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "17": {
@@ -1475,7 +1572,7 @@
                             "points": 0,
                             "fastest_lap": "2:00.060",
                             "drivers": [
-                                "Alex_Soler-Roig"
+                                "Alex_Soler_Roig"
                             ]
                         }
                     }
@@ -1518,7 +1615,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         }
                     },
@@ -1569,7 +1666,7 @@
                             "points": 0,
                             "fastest_lap": "1:24.400",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         }
                     }
@@ -1599,7 +1696,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "17": {
@@ -1663,7 +1760,7 @@
                             "points": 0,
                             "fastest_lap": "15:52.900",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         }
                     }
@@ -1800,7 +1897,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         }
                     },
@@ -1834,7 +1931,7 @@
                             "points": 0,
                             "fastest_lap": "1:29.800",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "22": {
@@ -1983,7 +2080,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         }
                     },
@@ -2017,7 +2114,7 @@
                             "points": 0,
                             "fastest_lap": "1:46.831",
                             "drivers": [
-                                "Andrea_de Adamich"
+                                "Andrea_de_Adamich"
                             ]
                         },
                         "26": {

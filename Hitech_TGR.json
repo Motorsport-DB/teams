@@ -245,14 +245,12 @@
                             "drivers": [
                                 "Luke_Browning"
                             ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.158",
-                                    "Average_speed": "214.257",
-                                    "Laps": "13",
-                                    "Car_number": "7"
-                                }
-                            ]
+                            "other_info": {
+                                "Gap": "0.158",
+                                "Average_speed": "214.257",
+                                "Laps": "13",
+                                "Car_number": "7"
+                            }
                         },
                         "8": {
                             "position": "13",
@@ -261,14 +259,12 @@
                             "drivers": [
                                 "Dino_Beganovic"
                             ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.582",
-                                    "Average_speed": "213.385",
-                                    "Laps": "13",
-                                    "Car_number": "8"
-                                }
-                            ]
+                            "other_info": {
+                                "Gap": "0.582",
+                                "Average_speed": "213.385",
+                                "Laps": "13",
+                                "Car_number": "8"
+                            }
                         }
                     },
                     "Free Practice": {
@@ -279,14 +275,12 @@
                             "drivers": [
                                 "Dino_Beganovic"
                             ],
-                            "other_Info": [
-                                {
-                                    "Gap": "0.319",
-                                    "Average_speed": "209.702",
-                                    "Laps": "19",
-                                    "Car_number": "8"
-                                }
-                            ]
+                            "other_info": {
+                                "Gap": "0.319",
+                                "Average_speed": "209.702",
+                                "Laps": "19",
+                                "Car_number": "8"
+                            }
                         },
                         "7": {
                             "position": "17",
@@ -295,14 +289,12 @@
                             "drivers": [
                                 "Luke_Browning"
                             ],
-                            "other_Info": [
-                                {
-                                    "Gap": "1.096",
-                                    "Average_speed": "208.176",
-                                    "Laps": "19",
-                                    "Car_number": "7"
-                                }
-                            ]
+                            "other_info": {
+                                "Gap": "1.096",
+                                "Average_speed": "208.176",
+                                "Laps": "19",
+                                "Car_number": "7"
+                            }
                         }
                     },
                     "Feature Race": {
@@ -313,16 +305,14 @@
                             "drivers": [
                                 "Luke_Browning"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "51:44.536",
-                                    "Gap": "10.607",
-                                    "Average_speed": "200.171",
-                                    "Lap_of_fastest_lap": "23",
-                                    "Laps": "28",
-                                    "Car_number": "7"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "51:44.536",
+                                "Gap": "10.607",
+                                "Average_speed": "200.171",
+                                "Lap_of_fastest_lap": "23",
+                                "Laps": "28",
+                                "Car_number": "7"
+                            }
                         },
                         "8": {
                             "position": "13",
@@ -331,16 +321,14 @@
                             "drivers": [
                                 "Dino_Beganovic"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "51:59.421",
-                                    "Gap": "25.492",
-                                    "Average_speed": "199.216",
-                                    "Lap_of_fastest_lap": "28",
-                                    "Laps": "28",
-                                    "Car_number": "8"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "51:59.421",
+                                "Gap": "25.492",
+                                "Average_speed": "199.216",
+                                "Lap_of_fastest_lap": "28",
+                                "Laps": "28",
+                                "Car_number": "8"
+                            }
                         }
                     },
                     "Sprint Race": {
@@ -351,16 +339,14 @@
                             "drivers": [
                                 "Luke_Browning"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "38:22.244",
-                                    "Gap": "6.185",
-                                    "Average_speed": "192.693",
-                                    "Lap_of_fastest_lap": "7",
-                                    "Laps": "20",
-                                    "Car_number": "7"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "38:22.244",
+                                "Gap": "6.185",
+                                "Average_speed": "192.693",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "20",
+                                "Car_number": "7"
+                            }
                         },
                         "8": {
                             "position": "15",
@@ -369,16 +355,14 @@
                             "drivers": [
                                 "Dino_Beganovic"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "38:26.522",
-                                    "Gap": "10.463",
-                                    "Average_speed": "192.336",
-                                    "Lap_of_fastest_lap": "15",
-                                    "Laps": "20",
-                                    "Car_number": "8"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "38:26.522",
+                                "Gap": "10.463",
+                                "Average_speed": "192.336",
+                                "Lap_of_fastest_lap": "15",
+                                "Laps": "20",
+                                "Car_number": "8"
+                            }
                         }
                     }
                 },
@@ -752,6 +736,810 @@
                             "position": "19",
                             "points": 0,
                             "fastest_lap": "1:29.182",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    }
+                },
+                "SPIELBURG GRAND PRIX": {
+                    "Free Practice": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "24",
+                                "gap": "+ 1.185",
+                                "interval": "+ 0.084",
+                                "speed": "201.453"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "24"
+                            },
+                            "position": "",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "15",
+                                "gap": "+ 0.572",
+                                "interval": "+ 0.020",
+                                "speed": "205.453"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "15",
+                                "gap": "+ 0.861",
+                                "interval": "+ 0.053",
+                                "speed": "204.673"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "4",
+                                "speed": "27.121",
+                                "fastestLap": "1:45.370",
+                                "lap_of_fastestLap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:45.370",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "1",
+                                "speed": "172.239"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "40",
+                                "gap": "+ 19.975",
+                                "interval": "+ 1.672",
+                                "speed": "192.336",
+                                "fastestLap": "1:18.600",
+                                "lap_of_fastestLap": "13"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:18.600",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "40",
+                                "gap": "+ 24.021",
+                                "interval": "+ 3.069",
+                                "speed": "192.096",
+                                "fastestLap": "1:18.959",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:18.959",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    }
+                },
+                "SILVERSTONE": {
+                    "Free Practice": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "17",
+                                "gap": "+ 0.051",
+                                "interval": "+ 0.051",
+                                "speed": "208.428"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "17",
+                                "gap": "+ 0.224",
+                                "interval": "+ 0.061",
+                                "speed": "208.074"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "11",
+                                "gap": "+ 0.606",
+                                "interval": "+ 0.011",
+                                "speed": "211.363"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "11",
+                                "gap": "+ 1.004",
+                                "interval": "+ 0.235",
+                                "speed": "210.528"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "21",
+                                "gap": "+ 22.810",
+                                "interval": "+ 1.065",
+                                "speed": "198.967",
+                                "fastestLap": "1:44.734",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:44.734",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "21",
+                                "gap": "+ 33.483",
+                                "interval": "+ 1.495",
+                                "speed": "198.022",
+                                "fastestLap": "1:45.161",
+                                "lap_of_fastestLap": "6"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:45.161",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "29",
+                                "gap": "+ 0.838",
+                                "interval": "+ 0.611",
+                                "speed": "162.312",
+                                "fastestLap": "2:02.661",
+                                "lap_of_fastestLap": "21"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:02.661",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "29",
+                                "gap": "+ 1.369",
+                                "interval": "+ 0.531",
+                                "speed": "162.289",
+                                "fastestLap": "2:03.200",
+                                "lap_of_fastestLap": "22"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "2:03.200",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    }
+                },
+                "SPA FRANCORCHAMPS": {
+                    "Free Practice": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "15",
+                                "gap": "+ 0.901",
+                                "interval": "+ 0.001",
+                                "speed": "209.387"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "14",
+                                "gap": "+ 2.108",
+                                "interval": "+ 0.098",
+                                "speed": "207.309"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "10",
+                                "gap": "+ 0.891",
+                                "interval": "+ 0.046",
+                                "speed": "213.605"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "10",
+                                "gap": "+ 1.017",
+                                "interval": "+ 0.126",
+                                "speed": "213.377"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "18",
+                                "gap": "+ 11.052",
+                                "interval": "+ 1.113",
+                                "speed": "179.906",
+                                "fastestLap": "2:00.836",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2:00.836",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "19",
+                                "gap": "+ 2.413",
+                                "interval": "+ 0.623",
+                                "speed": "172.311",
+                                "fastestLap": "2:18.405",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:18.405",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "19",
+                                "gap": "+ 5.198",
+                                "interval": "+ 0.846",
+                                "speed": "172.138",
+                                "fastestLap": "2:17.910",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:17.910",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    }
+                },
+                "BUDAPEST": {
+                    "Free Practice": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "15",
+                                "speed": "174.062"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "15",
+                                "gap": "+ 0.405",
+                                "interval": "+ 0.017",
+                                "speed": "173.287"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "12",
+                                "gap": "+ 0.250",
+                                "interval": "+ 0.077",
+                                "speed": "177.151"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "12",
+                                "gap": "+ 0.729",
+                                "interval": "+ 0.089",
+                                "speed": "176.203"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "28",
+                                "gap": "+ 5.969",
+                                "interval": "+ 0.404",
+                                "speed": "157.902",
+                                "fastestLap": "1:34.687",
+                                "lap_of_fastestLap": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:34.687",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "28",
+                                "gap": "+ 8.997",
+                                "interval": "+ 0.733",
+                                "speed": "157.731",
+                                "fastestLap": "1:34.242",
+                                "lap_of_fastestLap": "9"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:34.242",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "37",
+                                "gap": "+ 6.052",
+                                "interval": "+ 1.336",
+                                "speed": "161.175",
+                                "fastestLap": "1:32.849",
+                                "lap_of_fastestLap": "32"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:32.849",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "37",
+                                "gap": "+ 22.572",
+                                "interval": "+ 0.473",
+                                "speed": "160.443",
+                                "fastestLap": "1:31.178",
+                                "lap_of_fastestLap": "30"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:31.178",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    }
+                },
+                "MONZA": {
+                    "Free Practice": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "18",
+                                "gap": "+ 0.103",
+                                "interval": "+ 0.103",
+                                "speed": "225.092"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "18",
+                                "gap": "+ 0.446",
+                                "interval": "+ 0.164",
+                                "speed": "224.262"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "7",
+                                "speed": "225.725"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "7",
+                                "gap": "+ 0.629",
+                                "interval": "+ 0.022",
+                                "speed": "224.199"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "21",
+                                "gap": "+ 13.700",
+                                "interval": "+ 0.612",
+                                "speed": "204.07",
+                                "fastestLap": "1:34.139",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:34.139",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "21",
+                                "gap": "+ 17.951",
+                                "interval": "+ 0.416",
+                                "speed": "203.666",
+                                "fastestLap": "1:34.611",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:34.611",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "30",
+                                "speed": "193.206",
+                                "fastestLap": "1:33.428",
+                                "lap_of_fastestLap": "19"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:33.428",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "30",
+                                "gap": "+ 4.844",
+                                "interval": "+ 0.077",
+                                "speed": "192.917",
+                                "fastestLap": "1:33.372",
+                                "lap_of_fastestLap": "26"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:33.372",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    }
+                },
+                "BAKU": {
+                    "Free Practice": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "15",
+                                "gap": "+ 0.058",
+                                "interval": "+ 0.009",
+                                "speed": "186.657"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "15",
+                                "gap": "+ 0.149",
+                                "interval": "+ 0.091",
+                                "speed": "186.51"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "9",
+                                "gap": "+ 0.778",
+                                "speed": "186.994"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "9",
+                                "gap": "+ 1.128",
+                                "interval": "+ 0.110",
+                                "speed": "186.43"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "21",
+                                "speed": "154.93",
+                                "fastestLap": "1:56.561",
+                                "lap_of_fastestLap": "15"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:56.561",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "21",
+                                "gap": "+ 6.281",
+                                "interval": "+ 6.281",
+                                "speed": "154.598",
+                                "fastestLap": "1:56.668",
+                                "lap_of_fastestLap": "17"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:56.668",
+                            "drivers": [
+                                "Luke_Browning"
+                            ]
+                        }
+                    },
+                    "Race 2": {
+                        "8": {
+                            "other_info": {
+                                "carNumber": "8",
+                                "laps": "29",
+                                "gap": "+ 5.371",
+                                "interval": "+ 5.155",
+                                "speed": "171.791",
+                                "fastestLap": "1:57.042",
+                                "lap_of_fastestLap": "14"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:57.042",
+                            "drivers": [
+                                "Dino_Beganovic"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "carNumber": "7",
+                                "laps": "28",
+                                "gap": "1 Lap",
+                                "interval": "1 Lap",
+                                "speed": "162.799",
+                                "fastestLap": "1:56.942",
+                                "lap_of_fastestLap": "12"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:56.942",
                             "drivers": [
                                 "Luke_Browning"
                             ]
@@ -1679,6 +2467,908 @@
                             ]
                         }
                     }
+                },
+                "Spielberg": {
+                    "Feature Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "36:46.954",
+                                "Gap": "-",
+                                "Average_speed": "183.262",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "26",
+                                "Car_number": "14"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:23.185",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "37:00.731",
+                                "Gap": "13.777",
+                                "Average_speed": "182.125",
+                                "Lap_of_fastest_lap": "10",
+                                "Laps": "26",
+                                "Car_number": "15"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:23.795",
+                            "drivers": [
+                                "Jesse_Carrasquedo"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "37:03.274",
+                                "Gap": "16.320",
+                                "Average_speed": "181.917",
+                                "Lap_of_fastest_lap": "10",
+                                "Laps": "26",
+                                "Car_number": "16"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:23.421",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "33:58.887",
+                                "Gap": "9.034",
+                                "Average_speed": "160.177",
+                                "Lap_of_fastest_lap": "8",
+                                "Laps": "21",
+                                "Car_number": "14"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:23.107",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "34:00.811",
+                                "Gap": "10.958",
+                                "Average_speed": "160.026",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "21",
+                                "Car_number": "15"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:23.526",
+                            "drivers": [
+                                "Jesse_Carrasquedo"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "34:02.746",
+                                "Gap": "12.893",
+                                "Average_speed": "159.875",
+                                "Lap_of_fastest_lap": "20",
+                                "Laps": "21",
+                                "Car_number": "16"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:24.114",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.400",
+                                "Average_speed": "191.927",
+                                "Laps": "14",
+                                "Car_number": "14"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:21.143",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.816",
+                                "Average_speed": "190.948",
+                                "Laps": "14",
+                                "Car_number": "15"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:21.559",
+                            "drivers": [
+                                "Jesse_Carrasquedo"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "1.493",
+                                "Average_speed": "189.376",
+                                "Laps": "15",
+                                "Car_number": "16"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "1:22.236",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "16.706",
+                                "Average_speed": "157.753",
+                                "Laps": "6",
+                                "Car_number": "14"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:38.721",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "17.982",
+                                "Average_speed": "155.740",
+                                "Laps": "8",
+                                "Car_number": "15"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "1:39.997",
+                            "drivers": [
+                                "Jesse_Carrasquedo"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "-",
+                                "Average_speed": "-",
+                                "Laps": "3",
+                                "Car_number": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    }
+                },
+                "Silverstone": {
+                    "Feature Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "28:42.782",
+                                "Gap": "161.140",
+                                "Average_speed": "147.441",
+                                "Lap_of_fastest_lap": "9",
+                                "Laps": "12",
+                                "Car_number": "14"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:05.106",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "26:26.151",
+                                "Gap": "1 LAP",
+                                "Average_speed": "146.771",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "11",
+                                "Car_number": "15"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "2:12.875",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "26:16.911",
+                                "Gap": "1 LAP",
+                                "Average_speed": "148.573",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "11",
+                                "Car_number": "16"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "2:11.167",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "35:20.215",
+                                "Gap": "1.748",
+                                "Average_speed": "179.818",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "18",
+                                "Car_number": "14"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:48.010",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "35:49.202",
+                                "Gap": "30.735",
+                                "Average_speed": "177.393",
+                                "Lap_of_fastest_lap": "6",
+                                "Laps": "18",
+                                "Car_number": "16"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:49.380",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "35:51.170",
+                                "Gap": "32.703",
+                                "Average_speed": "177.231",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "18",
+                                "Car_number": "15"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:49.313",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.445",
+                                "Average_speed": "201.042",
+                                "Laps": "11",
+                                "Car_number": "14"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:45.488",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "1.415",
+                                "Average_speed": "199.210",
+                                "Laps": "12",
+                                "Car_number": "15"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "1:46.458",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "1.761",
+                                "Average_speed": "198.565",
+                                "Laps": "12",
+                                "Car_number": "16"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "1:46.804",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.304",
+                                "Average_speed": "199.787",
+                                "Laps": "16",
+                                "Car_number": "14"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:46.151",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.378",
+                                "Average_speed": "199.647",
+                                "Laps": "20",
+                                "Car_number": "15"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:46.225",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "0.734",
+                                "Average_speed": "198.981",
+                                "Laps": "16",
+                                "Car_number": "16"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:46.581",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    }
+                },
+                "Spa-Francorchamps": {
+                    "Sprint Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "26:05.347",
+                                "Gap": "15.783",
+                                "Average_speed": "193.009",
+                                "Lap_of_fastest_lap": "4",
+                                "Laps": "12",
+                                "Car_number": "14"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:07.489",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "26:08.553",
+                                "Gap": "18.989",
+                                "Average_speed": "192.614",
+                                "Lap_of_fastest_lap": "5",
+                                "Laps": "12",
+                                "Car_number": "16"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:07.961",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "26:27.565",
+                                "Gap": "38.001",
+                                "Average_speed": "190.308",
+                                "Lap_of_fastest_lap": "3",
+                                "Laps": "12",
+                                "Car_number": "15"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "2:08.102",
+                            "drivers": [
+                                "Freddie_Slater"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.231",
+                                "Average_speed": "202.551",
+                                "Laps": "11",
+                                "Car_number": "14"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:04.484",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.656",
+                                "Average_speed": "201.862",
+                                "Laps": "11",
+                                "Car_number": "15"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "2:04.909",
+                            "drivers": [
+                                "Freddie_Slater"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "0.835",
+                                "Average_speed": "201.573",
+                                "Laps": "11",
+                                "Car_number": "16"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:05.088",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.038",
+                                "Average_speed": "199.877",
+                                "Laps": "10",
+                                "Car_number": "14"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "2:06.149",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.914",
+                                "Average_speed": "198.499",
+                                "Laps": "10",
+                                "Car_number": "15"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:07.025",
+                            "drivers": [
+                                "Freddie_Slater"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "1.218",
+                                "Average_speed": "198.025",
+                                "Laps": "10",
+                                "Car_number": "16"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "2:07.329",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    }
+                },
+                "Budapest": {
+                    "Feature Race": {
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "48:02.356",
+                                "Gap": "48.025",
+                                "Average_speed": "125.800",
+                                "Lap_of_fastest_lap": "22",
+                                "Laps": "23",
+                                "Car_number": "15"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:53.195",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "48:28.953",
+                                "Gap": "1 LAP",
+                                "Average_speed": "119.228",
+                                "Lap_of_fastest_lap": "14",
+                                "Laps": "22",
+                                "Car_number": "14"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "1:54.583",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "13:19.678",
+                                "Gap": "DNF",
+                                "Average_speed": "118.154",
+                                "Lap_of_fastest_lap": "3",
+                                "Laps": "6",
+                                "Car_number": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:56.141",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "35:34.829",
+                                "Gap": "6.559",
+                                "Average_speed": "140.299",
+                                "Lap_of_fastest_lap": "8",
+                                "Laps": "19",
+                                "Car_number": "16"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:37.655",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "35:40.664",
+                                "Gap": "12.394",
+                                "Average_speed": "139.917",
+                                "Lap_of_fastest_lap": "9",
+                                "Laps": "19",
+                                "Car_number": "14"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:37.591",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "35:40.959",
+                                "Gap": "12.689",
+                                "Average_speed": "139.898",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "19",
+                                "Car_number": "15"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1:37.014",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "16": {
+                            "other_info": {
+                                "Gap": "0.153",
+                                "Average_speed": "170.203",
+                                "Laps": "12",
+                                "Car_number": "16"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:32.663",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.515",
+                                "Average_speed": "169.541",
+                                "Laps": "12",
+                                "Car_number": "14"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:33.025",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "1.266",
+                                "Average_speed": "168.183",
+                                "Laps": "13",
+                                "Car_number": "15"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "1:33.776",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.986",
+                                "Average_speed": "166.237",
+                                "Laps": "12",
+                                "Car_number": "14"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:34.874",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "1.369",
+                                "Average_speed": "165.568",
+                                "Laps": "15",
+                                "Car_number": "16"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "1:35.257",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Gap": "1.671",
+                                "Average_speed": "165.045",
+                                "Laps": "15",
+                                "Car_number": "15"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "1:35.559",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        }
+                    }
+                },
+                "Monza": {
+                    "Feature Race": {
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "44:53.774",
+                                "Gap": "41.867",
+                                "Average_speed": "169.907",
+                                "Lap_of_fastest_lap": "17",
+                                "Laps": "22",
+                                "Car_number": "15"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:39.510",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "45:04.082",
+                                "Gap": "52.175",
+                                "Average_speed": "169.260",
+                                "Lap_of_fastest_lap": "18",
+                                "Laps": "22",
+                                "Car_number": "14"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:38.991",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "2:31.643",
+                                "Gap": "DNF",
+                                "Average_speed": "130.189",
+                                "Lap_of_fastest_lap": "-",
+                                "Laps": "1",
+                                "Car_number": "16"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "14": {
+                            "other_info": {
+                                "Elapsed_times": "35:03.155",
+                                "Gap": "0.353",
+                                "Average_speed": "177.958",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "18",
+                                "Car_number": "14"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:39.911",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "15": {
+                            "other_info": {
+                                "Elapsed_times": "35:10.421",
+                                "Gap": "7.619",
+                                "Average_speed": "177.345",
+                                "Lap_of_fastest_lap": "13",
+                                "Laps": "18",
+                                "Car_number": "15"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:39.878",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Elapsed_times": "35:10.608",
+                                "Gap": "7.806",
+                                "Average_speed": "177.329",
+                                "Lap_of_fastest_lap": "12",
+                                "Laps": "18",
+                                "Car_number": "16"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:39.719",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.440",
+                                "Average_speed": "211.594",
+                                "Laps": "5",
+                                "Car_number": "14"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "1:38.560",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "0.964",
+                                "Average_speed": "210.475",
+                                "Laps": "6",
+                                "Car_number": "16"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:39.084",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.619",
+                                "Average_speed": "210.162",
+                                "Laps": "5",
+                                "Car_number": "15"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:39.232",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "15": {
+                            "other_info": {
+                                "Gap": "0.658",
+                                "Average_speed": "210.376",
+                                "Laps": "13",
+                                "Car_number": "15"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:39.131",
+                            "drivers": [
+                                "Nikita_Johnson"
+                            ]
+                        },
+                        "14": {
+                            "other_info": {
+                                "Gap": "0.716",
+                                "Average_speed": "210.253",
+                                "Laps": "12",
+                                "Car_number": "14"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:39.189",
+                            "drivers": [
+                                "Martinius_Stenshorne"
+                            ]
+                        },
+                        "16": {
+                            "other_info": {
+                                "Gap": "0.768",
+                                "Average_speed": "210.142",
+                                "Laps": "12",
+                                "Car_number": "16"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:39.241",
+                            "drivers": [
+                                "Gerrard_Xie"
+                            ]
+                        }
+                    }
                 }
             },
             "F1_Academy": {
@@ -1845,24 +3535,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "2.573",
-                                    "Average_speed": "175.158",
-                                    "Lap_of_fastest_lap": "22:08:06",
-                                    "Laps": "12",
-                                    "Car_number": "2"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "2.573",
-                                    "Average_speed": "175.158",
-                                    "Lap_of_fastest_lap": "22:08:06",
-                                    "Laps": "12",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "2.573",
+                                "Average_speed": "175.158",
+                                "Lap_of_fastest_lap": "22:08:06",
+                                "Laps": "12",
+                                "Car_number": "2"
+                            }
                         },
                         "11": {
                             "position": "16",
@@ -1871,24 +3551,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "2.778",
-                                    "Average_speed": "174.876",
-                                    "Lap_of_fastest_lap": "22:04:19",
-                                    "Laps": "13",
-                                    "Car_number": "11"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "2.778",
-                                    "Average_speed": "174.876",
-                                    "Lap_of_fastest_lap": "22:04:19",
-                                    "Laps": "13",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "2.778",
+                                "Average_speed": "174.876",
+                                "Lap_of_fastest_lap": "22:04:19",
+                                "Laps": "13",
+                                "Car_number": "11"
+                            }
                         },
                         "4": {
                             "position": "17",
@@ -1897,24 +3567,14 @@
                             "drivers": [
                                 "Farah_AlYousef"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "5.899",
-                                    "Average_speed": "170.684",
-                                    "Lap_of_fastest_lap": "22:02:48",
-                                    "Laps": "12",
-                                    "Car_number": "4"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "5.899",
-                                    "Average_speed": "170.684",
-                                    "Lap_of_fastest_lap": "22:02:48",
-                                    "Laps": "12",
-                                    "Car_number": "4"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "5.899",
+                                "Average_speed": "170.684",
+                                "Lap_of_fastest_lap": "22:02:48",
+                                "Laps": "12",
+                                "Car_number": "4"
+                            }
                         }
                     },
                     "Free Practice": {
@@ -1925,24 +3585,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "2.442",
-                                    "Average_speed": "173.916",
-                                    "Lap_of_fastest_lap": "14:41:08",
-                                    "Laps": "14",
-                                    "Car_number": "11"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "2.442",
-                                    "Average_speed": "173.916",
-                                    "Lap_of_fastest_lap": "14:41:08",
-                                    "Laps": "14",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "2.442",
+                                "Average_speed": "173.916",
+                                "Lap_of_fastest_lap": "14:41:08",
+                                "Laps": "14",
+                                "Car_number": "11"
+                            }
                         },
                         "2": {
                             "position": "17",
@@ -1951,24 +3601,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "2.467",
-                                    "Average_speed": "173.882",
-                                    "Lap_of_fastest_lap": "14:45:42",
-                                    "Laps": "15",
-                                    "Car_number": "2"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "2.467",
-                                    "Average_speed": "173.882",
-                                    "Lap_of_fastest_lap": "14:45:42",
-                                    "Laps": "15",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "2.467",
+                                "Average_speed": "173.882",
+                                "Lap_of_fastest_lap": "14:45:42",
+                                "Laps": "15",
+                                "Car_number": "2"
+                            }
                         },
                         "4": {
                             "position": "18",
@@ -1977,24 +3617,14 @@
                             "drivers": [
                                 "Farah_AlYousef"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "N/A",
-                                    "Gap": "4.345",
-                                    "Average_speed": "171.365",
-                                    "Lap_of_fastest_lap": "14:31:29",
-                                    "Laps": "16",
-                                    "Car_number": "4"
-                                },
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "4.345",
-                                    "Average_speed": "171.365",
-                                    "Lap_of_fastest_lap": "14:31:29",
-                                    "Laps": "16",
-                                    "Car_number": "4"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "N/A",
+                                "Gap": "4.345",
+                                "Average_speed": "171.365",
+                                "Lap_of_fastest_lap": "14:31:29",
+                                "Laps": "16",
+                                "Car_number": "4"
+                            }
                         }
                     },
                     "Race 2": {
@@ -2005,16 +3635,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "27:54.434",
-                                    "Gap": "35.584",
-                                    "Average_speed": "172.024",
-                                    "Lap_of_fastest_lap": "12",
-                                    "Laps": "13",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "27:54.434",
+                                "Gap": "35.584",
+                                "Average_speed": "172.024",
+                                "Lap_of_fastest_lap": "12",
+                                "Laps": "13",
+                                "Car_number": "2"
+                            }
                         },
                         "11": {
                             "position": "17",
@@ -2023,16 +3651,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "27:57.363",
-                                    "Gap": "38.513",
-                                    "Average_speed": "171.723",
-                                    "Lap_of_fastest_lap": "13",
-                                    "Laps": "13",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "27:57.363",
+                                "Gap": "38.513",
+                                "Average_speed": "171.723",
+                                "Lap_of_fastest_lap": "13",
+                                "Laps": "13",
+                                "Car_number": "11"
+                            }
                         },
                         "4": {
                             "position": "18",
@@ -2041,16 +3667,14 @@
                             "drivers": [
                                 "Farah_AlYousef"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "29:00.258",
-                                    "Gap": "101.408",
-                                    "Average_speed": "165.517",
-                                    "Lap_of_fastest_lap": "10",
-                                    "Laps": "13",
-                                    "Car_number": "4"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "29:00.258",
+                                "Gap": "101.408",
+                                "Average_speed": "165.517",
+                                "Lap_of_fastest_lap": "10",
+                                "Laps": "13",
+                                "Car_number": "4"
+                            }
                         }
                     },
                     "Race 1": {
@@ -2061,16 +3685,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "30:21.706",
-                                    "Gap": "20.836",
-                                    "Average_speed": "158.117",
-                                    "Lap_of_fastest_lap": "10",
-                                    "Laps": "13",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "30:21.706",
+                                "Gap": "20.836",
+                                "Average_speed": "158.117",
+                                "Lap_of_fastest_lap": "10",
+                                "Laps": "13",
+                                "Car_number": "11"
+                            }
                         },
                         "2": {
                             "position": "15",
@@ -2079,16 +3701,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "30:26.600",
-                                    "Gap": "25.730",
-                                    "Average_speed": "157.693",
-                                    "Lap_of_fastest_lap": "11",
-                                    "Laps": "13",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "30:26.600",
+                                "Gap": "25.730",
+                                "Average_speed": "157.693",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "13",
+                                "Car_number": "2"
+                            }
                         },
                         "4": {
                             "position": "16",
@@ -2097,16 +3717,14 @@
                             "drivers": [
                                 "Farah_AlYousef"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "31:38.880",
-                                    "Gap": "98.010",
-                                    "Average_speed": "151.691",
-                                    "Lap_of_fastest_lap": "13",
-                                    "Laps": "13",
-                                    "Car_number": "4"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "31:38.880",
+                                "Gap": "98.010",
+                                "Average_speed": "151.691",
+                                "Lap_of_fastest_lap": "13",
+                                "Laps": "13",
+                                "Car_number": "4"
+                            }
                         }
                     }
                 },
@@ -2119,16 +3737,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:47.369",
-                                    "Gap": "14.495",
-                                    "Average_speed": "146.299",
-                                    "Lap_of_fastest_lap": "4",
-                                    "Laps": "13",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:47.369",
+                                "Gap": "14.495",
+                                "Average_speed": "146.299",
+                                "Lap_of_fastest_lap": "4",
+                                "Laps": "13",
+                                "Car_number": "2"
+                            }
                         },
                         "90": {
                             "position": "13",
@@ -2137,16 +3753,14 @@
                             "drivers": [
                                 "Ava_Dobson"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:47.830",
-                                    "Gap": "14.956",
-                                    "Average_speed": "146.260",
-                                    "Lap_of_fastest_lap": "6",
-                                    "Laps": "13",
-                                    "Car_number": "90"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:47.830",
+                                "Gap": "14.956",
+                                "Average_speed": "146.260",
+                                "Lap_of_fastest_lap": "6",
+                                "Laps": "13",
+                                "Car_number": "90"
+                            }
                         },
                         "11": {
                             "position": "14",
@@ -2155,16 +3769,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:48.983",
-                                    "Gap": "16.109",
-                                    "Average_speed": "146.162",
-                                    "Lap_of_fastest_lap": "4",
-                                    "Laps": "13",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:48.983",
+                                "Gap": "16.109",
+                                "Average_speed": "146.162",
+                                "Lap_of_fastest_lap": "4",
+                                "Laps": "13",
+                                "Car_number": "11"
+                            }
                         }
                     },
                     "Qualifying": {
@@ -2175,16 +3787,14 @@
                             "drivers": [
                                 "Ava_Dobson"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "3.206",
-                                    "Average_speed": "157.549",
-                                    "Lap_of_fastest_lap": "10:29:32",
-                                    "Laps": "12",
-                                    "Car_number": "90"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "3.206",
+                                "Average_speed": "157.549",
+                                "Lap_of_fastest_lap": "10:29:32",
+                                "Laps": "12",
+                                "Car_number": "90"
+                            }
                         },
                         "2": {
                             "position": "16",
@@ -2193,16 +3803,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "3.393",
-                                    "Average_speed": "157.311",
-                                    "Lap_of_fastest_lap": "10:29:30",
-                                    "Laps": "11",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "3.393",
+                                "Average_speed": "157.311",
+                                "Lap_of_fastest_lap": "10:29:30",
+                                "Laps": "11",
+                                "Car_number": "2"
+                            }
                         },
                         "11": {
                             "position": "18",
@@ -2211,16 +3819,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "4.514",
-                                    "Average_speed": "155.900",
-                                    "Lap_of_fastest_lap": "10:29:33",
-                                    "Laps": "12",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "4.514",
+                                "Average_speed": "155.900",
+                                "Lap_of_fastest_lap": "10:29:33",
+                                "Laps": "12",
+                                "Car_number": "11"
+                            }
                         }
                     },
                     "Free Practice 2": {
@@ -2231,16 +3837,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "1.633",
-                                    "Average_speed": "162.119",
-                                    "Lap_of_fastest_lap": "16:01:12",
-                                    "Laps": "19",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "1.633",
+                                "Average_speed": "162.119",
+                                "Lap_of_fastest_lap": "16:01:12",
+                                "Laps": "19",
+                                "Car_number": "2"
+                            }
                         },
                         "90": {
                             "position": "16",
@@ -2249,16 +3853,14 @@
                             "drivers": [
                                 "Ava_Dobson"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "2.160",
-                                    "Average_speed": "161.411",
-                                    "Lap_of_fastest_lap": "15:55:43",
-                                    "Laps": "18",
-                                    "Car_number": "90"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "2.160",
+                                "Average_speed": "161.411",
+                                "Lap_of_fastest_lap": "15:55:43",
+                                "Laps": "18",
+                                "Car_number": "90"
+                            }
                         },
                         "11": {
                             "position": "18",
@@ -2267,16 +3869,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "2.754",
-                                    "Average_speed": "160.621",
-                                    "Lap_of_fastest_lap": "15:55:17",
-                                    "Laps": "19",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "2.754",
+                                "Average_speed": "160.621",
+                                "Lap_of_fastest_lap": "15:55:17",
+                                "Laps": "19",
+                                "Car_number": "11"
+                            }
                         }
                     },
                     "Free Practice 1": {
@@ -2287,16 +3887,14 @@
                             "drivers": [
                                 "Nicole_Havrda"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "2.216",
-                                    "Average_speed": "160.528",
-                                    "Lap_of_fastest_lap": "10:46:07",
-                                    "Laps": "19",
-                                    "Car_number": "2"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "2.216",
+                                "Average_speed": "160.528",
+                                "Lap_of_fastest_lap": "10:46:07",
+                                "Laps": "19",
+                                "Car_number": "2"
+                            }
                         },
                         "90": {
                             "position": "17",
@@ -2305,16 +3903,14 @@
                             "drivers": [
                                 "Ava_Dobson"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "3.239",
-                                    "Average_speed": "159.186",
-                                    "Lap_of_fastest_lap": "10:18:07",
-                                    "Laps": "9",
-                                    "Car_number": "90"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "3.239",
+                                "Average_speed": "159.186",
+                                "Lap_of_fastest_lap": "10:18:07",
+                                "Laps": "9",
+                                "Car_number": "90"
+                            }
                         },
                         "11": {
                             "position": "18",
@@ -2323,16 +3919,14 @@
                             "drivers": [
                                 "Aiva_Anagnostiadis"
                             ],
-                            "other_Info": [
-                                {
-                                    "Elapsed_times": "28:52.877",
-                                    "Gap": "3.407",
-                                    "Average_speed": "158.968",
-                                    "Lap_of_fastest_lap": "10:45:33",
-                                    "Laps": "19",
-                                    "Car_number": "11"
-                                }
-                            ]
+                            "other_info": {
+                                "Elapsed_times": "28:52.877",
+                                "Gap": "3.407",
+                                "Average_speed": "158.968",
+                                "Lap_of_fastest_lap": "10:45:33",
+                                "Laps": "19",
+                                "Car_number": "11"
+                            }
                         }
                     }
                 },
@@ -2520,6 +4114,444 @@
                             "fastest_lap": "1:42.208",
                             "drivers": [
                                 "Aiva_Anagnostiadis"
+                            ]
+                        }
+                    }
+                },
+                "Zandvoort": {
+                    "Race 2": {
+                        "86": {
+                            "other_info": {
+                                "Elapsed_times": "28:01.651",
+                                "Gap": "17.801",
+                                "Average_speed": "154.866",
+                                "Lap_of_fastest_lap": "5",
+                                "Laps": "17",
+                                "Car_number": "86"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:37.965",
+                            "drivers": [
+                                "Esmee_Kosterman"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "28:33.763",
+                                "Gap": "49.913",
+                                "Average_speed": "151.964",
+                                "Lap_of_fastest_lap": "6",
+                                "Laps": "17",
+                                "Car_number": "2"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:38.636",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Elapsed_times": "28:35.273",
+                                "Gap": "51.423",
+                                "Average_speed": "151.830",
+                                "Lap_of_fastest_lap": "5",
+                                "Laps": "17",
+                                "Car_number": "11"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:39.345",
+                            "drivers": [
+                                "Aiva_Anagnostiadis"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "29:19.531",
+                                "Gap": "18.784",
+                                "Average_speed": "148.011",
+                                "Lap_of_fastest_lap": "8",
+                                "Laps": "17",
+                                "Car_number": "2"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:38.336",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        },
+                        "86": {
+                            "other_info": {
+                                "Elapsed_times": "29:21.553",
+                                "Gap": "20.806",
+                                "Average_speed": "147.841",
+                                "Lap_of_fastest_lap": "15",
+                                "Laps": "17",
+                                "Car_number": "86"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:37.948",
+                            "drivers": [
+                                "Esmee_Kosterman"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Elapsed_times": "29:34.213",
+                                "Gap": "33.466",
+                                "Average_speed": "146.786",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "17",
+                                "Car_number": "11"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:39.267",
+                            "drivers": [
+                                "Aiva_Anagnostiadis"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "86": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "0.799",
+                                "Average_speed": "153.888",
+                                "Lap_of_fastest_lap": "11:04:34",
+                                "Laps": "15",
+                                "Car_number": "86"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:39.633",
+                            "drivers": [
+                                "Esmee_Kosterman"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "1.767",
+                                "Average_speed": "152.408",
+                                "Lap_of_fastest_lap": "11:04:37",
+                                "Laps": "15",
+                                "Car_number": "2"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:40.601",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "86": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "1.250",
+                                "Average_speed": "156.256",
+                                "Lap_of_fastest_lap": "17:46:36",
+                                "Laps": "14",
+                                "Car_number": "86"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:38.123",
+                            "drivers": [
+                                "Esmee_Kosterman"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "1.665",
+                                "Average_speed": "155.598",
+                                "Lap_of_fastest_lap": "17:48:46",
+                                "Laps": "15",
+                                "Car_number": "2"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:38.538",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "3.037",
+                                "Average_speed": "153.462",
+                                "Lap_of_fastest_lap": "17:50:32",
+                                "Laps": "16",
+                                "Car_number": "11"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:39.910",
+                            "drivers": [
+                                "Aiva_Anagnostiadis"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "86": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "1.782",
+                                "Average_speed": "153.357",
+                                "Lap_of_fastest_lap": "10:31:48",
+                                "Laps": "12",
+                                "Car_number": "86"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:39.978",
+                            "drivers": [
+                                "Esmee_Kosterman"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "2.295",
+                                "Average_speed": "152.574",
+                                "Lap_of_fastest_lap": "10:26:57",
+                                "Laps": "11",
+                                "Car_number": "2"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:40.491",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Elapsed_times": "1:45.244",
+                                "Gap": "2.579",
+                                "Average_speed": "152.144",
+                                "Lap_of_fastest_lap": "10:26:56",
+                                "Laps": "12",
+                                "Car_number": "11"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:40.775",
+                            "drivers": [
+                                "Aiva_Anagnostiadis"
+                            ]
+                        }
+                    }
+                },
+                "Singapore": {
+                    "Race 2": {
+                        "9": {
+                            "other_info": {
+                                "Elapsed_times": "32:19.128",
+                                "Gap": "36.890",
+                                "Average_speed": "127.803",
+                                "Lap_of_fastest_lap": "7",
+                                "Laps": "14",
+                                "Car_number": "9"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "2:05.773",
+                            "drivers": [
+                                "Megan_Bruce"
+                            ]
+                        },
+                        "60": {
+                            "other_info": {
+                                "Elapsed_times": "32:36.386",
+                                "Gap": "54.148",
+                                "Average_speed": "126.676",
+                                "Lap_of_fastest_lap": "5",
+                                "Laps": "14",
+                                "Car_number": "60"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "2:06.151",
+                            "drivers": [
+                                "Lisa_Billard"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "19:22.374",
+                                "Gap": "DNF",
+                                "Average_speed": "136.910",
+                                "Lap_of_fastest_lap": "4",
+                                "Laps": "9",
+                                "Car_number": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:06.378",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "9": {
+                            "other_info": {
+                                "Elapsed_times": "33:12.100",
+                                "Gap": "18.005",
+                                "Average_speed": "124.405",
+                                "Lap_of_fastest_lap": "11",
+                                "Laps": "14",
+                                "Car_number": "9"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "2:05.758",
+                            "drivers": [
+                                "Megan_Bruce"
+                            ]
+                        },
+                        "60": {
+                            "other_info": {
+                                "Elapsed_times": "15:07.721",
+                                "Gap": "DNF",
+                                "Average_speed": "116.698",
+                                "Lap_of_fastest_lap": "5",
+                                "Laps": "6",
+                                "Car_number": "60"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "2:08.446",
+                            "drivers": [
+                                "Lisa_Billard"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "DNF",
+                                "Average_speed": "-",
+                                "Lap_of_fastest_lap": "-",
+                                "Laps": "-",
+                                "Car_number": "2"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "60": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "0.900",
+                                "Average_speed": "142.635",
+                                "Lap_of_fastest_lap": "19:21:24",
+                                "Laps": "13",
+                                "Car_number": "60"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:04.353",
+                            "drivers": [
+                                "Lisa_Billard"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "1.872",
+                                "Average_speed": "141.529",
+                                "Lap_of_fastest_lap": "19:37:04",
+                                "Laps": "13",
+                                "Car_number": "9"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "2:05.325",
+                            "drivers": [
+                                "Megan_Bruce"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "2.661",
+                                "Average_speed": "140.644",
+                                "Lap_of_fastest_lap": "19:39:55",
+                                "Laps": "13",
+                                "Car_number": "2"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:06.114",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "60": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "1.089",
+                                "Average_speed": "141.860",
+                                "Lap_of_fastest_lap": "15:46:32",
+                                "Laps": "15",
+                                "Car_number": "60"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2:05.033",
+                            "drivers": [
+                                "Lisa_Billard"
+                            ]
+                        },
+                        "2": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "1.784",
+                                "Average_speed": "141.075",
+                                "Lap_of_fastest_lap": "15:49:01",
+                                "Laps": "15",
+                                "Car_number": "2"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "2:05.728",
+                            "drivers": [
+                                "Nicole_Havrda"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Elapsed_times": "-",
+                                "Gap": "3.142",
+                                "Average_speed": "139.568",
+                                "Lap_of_fastest_lap": "15:31:12",
+                                "Laps": "9",
+                                "Car_number": "9"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "2:07.086",
+                            "drivers": [
+                                "Megan_Bruce"
                             ]
                         }
                     }
