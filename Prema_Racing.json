@@ -1502,6 +1502,289 @@
                             ]
                         }
                     }
+                },
+                "LUSAIL": {
+                    "Feature Race": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "32",
+                                "Elapsed_times": "55:28.560",
+                                "Gap": "10.105",
+                                "Interval": "1.402",
+                                "Average_speed": "187.255",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:40.612",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "32",
+                                "Elapsed_times": "55:51.651",
+                                "Gap": "33.196",
+                                "Interval": "0.505",
+                                "Average_speed": "185.964",
+                                "Lap_of_fastest_lap": "26"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:40.528",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "23",
+                                "Elapsed_times": "42:38.601",
+                                "Gap": "2.120",
+                                "Interval": "0.513",
+                                "Average_speed": "174.983",
+                                "Lap_of_fastest_lap": "19"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:40.357",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "23",
+                                "Elapsed_times": "42:43.511",
+                                "Gap": "7.030",
+                                "Interval": "0.293",
+                                "Average_speed": "174.648",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:41.274",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "13",
+                                "Elapsed_times": "1:36.741",
+                                "Gap": "0.626",
+                                "Interval": "0.299",
+                                "Average_speed": "201.655"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "19:38:35",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "13",
+                                "Elapsed_times": "1:37.039",
+                                "Gap": "0.924",
+                                "Interval": "0.005",
+                                "Average_speed": "201.036"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "19:38:45",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "18",
+                                "Elapsed_times": "1:39.841",
+                                "Gap": "1.185",
+                                "Interval": "0.005",
+                                "Average_speed": "195.394"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "14:48:49",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "19",
+                                "Elapsed_times": "1:39.934",
+                                "Gap": "1.278",
+                                "Interval": "0.074",
+                                "Average_speed": "195.212"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "14:48:59",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        }
+                    }
+                },
+                "YAS ISLAND": {
+                    "Feature Race": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "33",
+                                "Elapsed_times": "1:01:30.486",
+                                "Gap": "6.057",
+                                "Interval": "0.552",
+                                "Average_speed": "169.887",
+                                "Lap_of_fastest_lap": "30"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:41.481",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "8",
+                                "Elapsed_times": "16:29.606",
+                                "Gap": "DNF",
+                                "Average_speed": "153.271",
+                                "Lap_of_fastest_lap": "8"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.807",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "23",
+                                "Elapsed_times": "39:39.173",
+                                "Gap": "23.525",
+                                "Interval": "2.638",
+                                "Average_speed": "183.615",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:41.189",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "23",
+                                "Elapsed_times": "39:43.860",
+                                "Gap": "28.212",
+                                "Interval": "1.897",
+                                "Average_speed": "183.254",
+                                "Lap_of_fastest_lap": "23"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:41.503",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "12",
+                                "Elapsed_times": "1:37.040",
+                                "Gap": "0.204",
+                                "Interval": "0.016",
+                                "Average_speed": "195.915"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "15:24:28",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "12",
+                                "Elapsed_times": "1:37.485",
+                                "Gap": "0.649",
+                                "Interval": "0.045",
+                                "Average_speed": "195.020"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "15:28:54",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Laps": "17",
+                                "Elapsed_times": "1:39.630",
+                                "Gap": "0.085",
+                                "Interval": "0.085",
+                                "Average_speed": "190.822"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "11:45:12",
+                            "drivers": [
+                                "Gabriele_Minì"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "17",
+                                "Elapsed_times": "1:40.070",
+                                "Gap": "0.525",
+                                "Interval": "0.005",
+                                "Average_speed": "189.983"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "11:45:24",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    }
                 }
             },
             "Formula_3": {
@@ -4571,6 +4854,196 @@
                             "position": "9",
                             "points": 0,
                             "fastest_lap": "2:05.576",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ]
+                        }
+                    }
+                },
+                "LAS VEGAS": {
+                    "Race 2": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "13",
+                                "Elapsed_times": "30:38.463",
+                                "Gap": "7.054",
+                                "Average_speed": "157.672",
+                                "Lap_of_fastest_lap": "8"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "2:07.232",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "Car_number": "3",
+                                "Laps": "13",
+                                "Elapsed_times": "30:43.296",
+                                "Gap": "11.887",
+                                "Average_speed": "157.259",
+                                "Lap_of_fastest_lap": "9"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "2:07.717",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ]
+                        },
+                        "78": {
+                            "other_info": {
+                                "Car_number": "78",
+                                "Laps": "13",
+                                "Elapsed_times": "30:43.433",
+                                "Gap": "12.024",
+                                "Average_speed": "157.247",
+                                "Lap_of_fastest_lap": "10"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "2:07.071",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ]
+                        }
+                    },
+                    "Race 1": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "12",
+                                "Elapsed_times": "35:55.247",
+                                "Average_speed": "124.139",
+                                "Lap_of_fastest_lap": "9"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "2:20.416",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "Car_number": "3",
+                                "Laps": "12",
+                                "Elapsed_times": "35:55.790",
+                                "Gap": "0.543",
+                                "Average_speed": "124.108",
+                                "Lap_of_fastest_lap": "9"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "2:21.568",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ]
+                        },
+                        "78": {
+                            "other_info": {
+                                "Car_number": "78",
+                                "Gap": "DNS"
+                            },
+                            "position": "DNS",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "14",
+                                "Elapsed_times": "2:06.978",
+                                "Gap": "0.440",
+                                "Average_speed": "175.806"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "22:02:49",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ]
+                        },
+                        "78": {
+                            "other_info": {
+                                "Car_number": "78",
+                                "Laps": "14",
+                                "Elapsed_times": "2:07.574",
+                                "Gap": "1.036",
+                                "Average_speed": "174.985"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "21:54:18",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "Car_number": "3",
+                                "Laps": "14",
+                                "Elapsed_times": "2:07.987",
+                                "Gap": "1.449",
+                                "Average_speed": "174.420"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "22:02:58",
+                            "drivers": [
+                                "Nina_Gademan"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "13",
+                                "Elapsed_times": "2:07.967",
+                                "Average_speed": "174.448"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "18:24:17",
+                            "drivers": [
+                                "Doriane_Pin"
+                            ]
+                        },
+                        "78": {
+                            "other_info": {
+                                "Car_number": "78",
+                                "Laps": "13",
+                                "Elapsed_times": "2:09.588",
+                                "Gap": "1.621",
+                                "Average_speed": "172.265"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "18:22:38",
+                            "drivers": [
+                                "Tina_Hausmann"
+                            ]
+                        },
+                        "3": {
+                            "other_info": {
+                                "Car_number": "3",
+                                "Laps": "13",
+                                "Elapsed_times": "2:09.894",
+                                "Gap": "1.927",
+                                "Average_speed": "171.860"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "18:20:23",
                             "drivers": [
                                 "Nina_Gademan"
                             ]
@@ -32281,7 +32754,7 @@
                     }
                 }
             },
-           "Formula3_European_Championship_FIAF3EURO": {
+            "Formula3_European_Championship_FIAF3EURO": {
                 "Silverstone": {
                     "Race 3": {
                         "53": {
@@ -53716,7 +54189,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -53778,7 +54251,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -53870,7 +54343,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -53900,7 +54373,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -53981,7 +54454,7 @@
                             "points": 0,
                             "fastest_lap": "1:45.363",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54034,7 +54507,7 @@
                             "points": 0,
                             "fastest_lap": "2:11.487",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54100,7 +54573,7 @@
                             "points": 0,
                             "fastest_lap": "2:12.917",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -54166,7 +54639,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54258,7 +54731,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -54275,7 +54748,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -54335,7 +54808,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -54397,7 +54870,7 @@
                             "points": 0,
                             "fastest_lap": "1:53.907",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -54501,7 +54974,7 @@
                             "points": 0,
                             "fastest_lap": "1:53.831",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54552,7 +55025,7 @@
                             "points": 0,
                             "fastest_lap": "1:56.129",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -54627,7 +55100,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54685,7 +55158,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54728,7 +55201,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -54788,7 +55261,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54869,7 +55342,7 @@
                             "points": 0,
                             "fastest_lap": "1:53.516",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54935,7 +55408,7 @@
                             "points": 0,
                             "fastest_lap": "1:34.419",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -54988,7 +55461,7 @@
                             "points": 0,
                             "fastest_lap": "1:33.820",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -55041,7 +55514,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -55130,7 +55603,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -55190,7 +55663,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -55248,7 +55721,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -55280,7 +55753,7 @@
                             "points": 0,
                             "fastest_lap": "41.099",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -55365,7 +55838,7 @@
                             "points": 0,
                             "fastest_lap": "41.720",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -55461,7 +55934,7 @@
                             "points": 0,
                             "fastest_lap": "41.595",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     }
@@ -55495,7 +55968,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -55572,7 +56045,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -55634,7 +56107,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -55694,7 +56167,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -55730,7 +56203,7 @@
                             "points": 0,
                             "fastest_lap": "1:26.713",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -55817,7 +56290,7 @@
                             "points": 0,
                             "fastest_lap": "1:26.405",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -55887,7 +56360,7 @@
                             "points": 0,
                             "fastest_lap": "1:26.190",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -55936,7 +56409,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -55998,7 +56471,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -56060,7 +56533,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -56120,7 +56593,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -56184,7 +56657,7 @@
                             "points": 0,
                             "fastest_lap": "48.827",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56235,7 +56708,7 @@
                             "points": 0,
                             "fastest_lap": "48.626",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -56322,7 +56795,7 @@
                             "points": 0,
                             "fastest_lap": "48.470",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -56403,7 +56876,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56463,7 +56936,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56522,7 +56995,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56582,7 +57055,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56648,7 +57121,7 @@
                             "points": 0,
                             "fastest_lap": "1:23.239",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56716,7 +57189,7 @@
                             "points": 0,
                             "fastest_lap": "1:23.346",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56784,7 +57257,7 @@
                             "points": 0,
                             "fastest_lap": "1:23.146",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56850,7 +57323,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -56897,7 +57370,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -56944,7 +57417,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -57005,7 +57478,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -57067,7 +57540,7 @@
                             "points": 0,
                             "fastest_lap": "1:32.299",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "1": {
@@ -57137,7 +57610,7 @@
                             "points": 0,
                             "fastest_lap": "1:32.061",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57201,7 +57674,7 @@
                             "points": 0,
                             "fastest_lap": "1:32.185",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57281,7 +57754,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57319,7 +57792,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57394,7 +57867,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -57454,7 +57927,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57514,7 +57987,7 @@
                             "points": 0,
                             "fastest_lap": "1:29.666",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -57565,7 +58038,7 @@
                             "points": 0,
                             "fastest_lap": "1:29.331",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -57644,7 +58117,7 @@
                             "points": 0,
                             "fastest_lap": "1:30.015",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57689,7 +58162,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57751,7 +58224,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57826,7 +58299,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -57916,7 +58389,7 @@
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         }
                     },
@@ -57952,7 +58425,7 @@
                             "points": 0,
                             "fastest_lap": "1:34.378",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -58004,7 +58477,7 @@
                             "points": 0,
                             "fastest_lap": "1:34.640",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "24": {
@@ -58106,7 +58579,7 @@
                             "points": 0,
                             "fastest_lap": "2:00.422",
                             "drivers": [
-                                "Alexander_Lynn"
+                                "Alex_Lynn"
                             ]
                         },
                         "25": {
@@ -87325,6 +87798,1800 @@
                             "fastest_lap": "",
                             "drivers": [
                                 "Ryan_Briscoe"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "Formula_2": {
+                "MELBOURNE": {
+                    "Feature Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "33",
+                                "Elapsed_times": "56:24.691",
+                                "Gap": "19.443",
+                                "Interval": "0.736",
+                                "Average_speed": "185.253",
+                                "Lap_of_fastest_lap": "25"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:32.165",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "33",
+                                "Elapsed_times": "56:29.061",
+                                "Gap": "23.813",
+                                "Interval": "1.497",
+                                "Average_speed": "185.014",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:32.369",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "23",
+                                "Elapsed_times": "39:18.708",
+                                "Gap": "8.982",
+                                "Interval": "0.423",
+                                "Average_speed": "185.278",
+                                "Lap_of_fastest_lap": "22"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:32.690",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "13",
+                                "Elapsed_times": "20:38.476",
+                                "Gap": "DNF",
+                                "Average_speed": "199.447",
+                                "Lap_of_fastest_lap": "10"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:33.012",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "13",
+                                "Elapsed_times": "1:29.824",
+                                "Gap": "1.129",
+                                "Interval": "0.059",
+                                "Average_speed": "211.533"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "15:35:35",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "5",
+                                "Elapsed_times": "2:02.893",
+                                "Gap": "34.198",
+                                "Interval": "31.760",
+                                "Average_speed": "154.612"
+                            },
+                            "position": "",
+                            "points": 0,
+                            "fastest_lap": "15:06:02",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "16",
+                                "Elapsed_times": "1:30.226",
+                                "Gap": "1.089",
+                                "Interval": "0.119",
+                                "Average_speed": "210.591"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "10:35:20",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "17",
+                                "Elapsed_times": "1:30.632",
+                                "Gap": "1.495",
+                                "Interval": "0.059",
+                                "Average_speed": "209.647"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "10:35:18",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    }
+                },
+                "MIAMI": {
+                    "Feature Race": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "25",
+                                "Elapsed_times": "56:29.952",
+                                "Gap": "7.923",
+                                "Interval": "3.476",
+                                "Average_speed": "143.515",
+                                "Lap_of_fastest_lap": "22"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:57.866",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "25",
+                                "Elapsed_times": "56:33.410",
+                                "Gap": "11.381",
+                                "Interval": "0.412",
+                                "Average_speed": "143.369",
+                                "Lap_of_fastest_lap": "7"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:58.646",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "23",
+                                "Elapsed_times": "39:54.910",
+                                "Gap": "28.637",
+                                "Interval": "1.465",
+                                "Average_speed": "186.873",
+                                "Lap_of_fastest_lap": "22"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:42.281",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "23",
+                                "Elapsed_times": "39:56.917",
+                                "Gap": "30.644",
+                                "Interval": "2.007",
+                                "Average_speed": "186.716",
+                                "Lap_of_fastest_lap": "19"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:42.788",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "11",
+                                "Elapsed_times": "1:40.554",
+                                "Gap": "0.666",
+                                "Interval": "0.002",
+                                "Average_speed": "193.758"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "14:55:17",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "12",
+                                "Elapsed_times": "1:40.678",
+                                "Gap": "0.790",
+                                "Interval": "0.004",
+                                "Average_speed": "193.519"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "14:54:59",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "16",
+                                "Elapsed_times": "1:40.717",
+                                "Gap": "0.397",
+                                "Interval": "0.005",
+                                "Average_speed": "193.444"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "10:14:47",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "17",
+                                "Elapsed_times": "1:40.876",
+                                "Gap": "0.556",
+                                "Interval": "0.104",
+                                "Average_speed": "193.140"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "10:06:48",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    }
+                },
+                "MONTRÉAL": {
+                    "Feature Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "37",
+                                "Elapsed_times": "1:03:10.084",
+                                "Gap": "2.061",
+                                "Interval": "0.748",
+                                "Average_speed": "153.264",
+                                "Lap_of_fastest_lap": "19"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:25.019",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "37",
+                                "Elapsed_times": "1:03:13.717",
+                                "Gap": "5.694",
+                                "Interval": "0.348",
+                                "Average_speed": "153.117",
+                                "Lap_of_fastest_lap": "22"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:24.891",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "28",
+                                "Elapsed_times": "43:54.526",
+                                "Gap": "17.657",
+                                "Interval": "1.885",
+                                "Average_speed": "166.856",
+                                "Lap_of_fastest_lap": "8"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:24.540",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "26",
+                                "Elapsed_times": "41:00.068",
+                                "Gap": "DNF",
+                                "Average_speed": "165.926",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.639",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "15",
+                                "Elapsed_times": "1:22.809",
+                                "Gap": "1.387",
+                                "Interval": "0.364",
+                                "Average_speed": "189.588"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "14:40:23",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "15",
+                                "Elapsed_times": "1:23.063",
+                                "Gap": "1.641",
+                                "Interval": "0.206",
+                                "Average_speed": "189.008"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "14:37:06",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "21",
+                                "Elapsed_times": "1:23.796",
+                                "Gap": "1.272",
+                                "Interval": "0.045",
+                                "Average_speed": "187.355"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "10:48:24",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "21",
+                                "Elapsed_times": "1:23.892",
+                                "Gap": "1.368",
+                                "Interval": "0.096",
+                                "Average_speed": "187.140"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "10:43:33",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    }
+                },
+                "MONACO": {
+                    "Feature Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "42",
+                                "Elapsed_times": "1:01:01.599",
+                                "Gap": "42.157",
+                                "Interval": "1.615",
+                                "Average_speed": "137.796",
+                                "Lap_of_fastest_lap": "19"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:23.803",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "42",
+                                "Elapsed_times": "1:01:30.045",
+                                "Gap": "70.603",
+                                "Interval": "4.869",
+                                "Average_speed": "136.733",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:24.943",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "30",
+                                "Elapsed_times": "44:20.915",
+                                "Gap": "74.508",
+                                "Interval": "2.714",
+                                "Average_speed": "135.440",
+                                "Lap_of_fastest_lap": "3"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "1:25.684",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "30",
+                                "Elapsed_times": "44:21.346",
+                                "Gap": "74.939",
+                                "Interval": "0.431",
+                                "Average_speed": "135.418",
+                                "Lap_of_fastest_lap": "25"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:25.528",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "11",
+                                "Elapsed_times": "1:22.370",
+                                "Gap": "1.317",
+                                "Interval": "0.551",
+                                "Average_speed": "145.844"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "16:01:43",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "11",
+                                "Elapsed_times": "1:21.870",
+                                "Gap": "0.947",
+                                "Interval": "0.025",
+                                "Average_speed": "146.735"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "15:33:56",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "22",
+                                "Elapsed_times": "1:23.111",
+                                "Gap": "1.302",
+                                "Interval": "0.150",
+                                "Average_speed": "144.544"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "15:46:16",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        },
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "21",
+                                "Elapsed_times": "1:23.373",
+                                "Gap": "1.564",
+                                "Interval": "0.161",
+                                "Average_speed": "144.089"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "15:45:05",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        }
+                    }
+                },
+                "BARCELONA": {
+                    "Feature Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "37",
+                                "Elapsed_times": "59:24.310",
+                                "Gap": "48.471",
+                                "Interval": "7.162",
+                                "Average_speed": "173.907",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:31.410",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "36",
+                                "Elapsed_times": "59:20.274",
+                                "Gap": "1 LAP",
+                                "Average_speed": "169.395",
+                                "Lap_of_fastest_lap": "33"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:30.762",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "26",
+                                "Elapsed_times": "40:26.732",
+                                "Gap": "31.007",
+                                "Interval": "4.434",
+                                "Average_speed": "179.435",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:31.432",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "26",
+                                "Elapsed_times": "40:33.562",
+                                "Gap": "37.837",
+                                "Interval": "2.023",
+                                "Average_speed": "178.931",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:31.287",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "8",
+                                "Elapsed_times": "1:25.879",
+                                "Gap": "1.069",
+                                "Interval": "0.143",
+                                "Average_speed": "195.218"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "16:21:01",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "8",
+                                "Elapsed_times": "1:26.019",
+                                "Gap": "1.209",
+                                "Interval": "0.140",
+                                "Average_speed": "194.901"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "16:08:56",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "11": {
+                            "other_info": {
+                                "Car_number": "11",
+                                "Laps": "9",
+                                "Elapsed_times": "1:27.142",
+                                "Gap": "0.366",
+                                "Interval": "0.006",
+                                "Average_speed": "192.389"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "11:31:59",
+                            "drivers": [
+                                "Sebastián_Montoya"
+                            ]
+                        },
+                        "12": {
+                            "other_info": {
+                                "Car_number": "12",
+                                "Laps": "9",
+                                "Elapsed_times": "1:27.306",
+                                "Gap": "0.530",
+                                "Interval": "0.043",
+                                "Average_speed": "192.028"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "11:35:31",
+                            "drivers": [
+                                "Mari_Boya"
+                            ]
+                        }
+                    }
+                }
+            },
+            "Formula_3": {
+                "MELBOURNE": {
+                    "Feature Race": {
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "23",
+                                "Elapsed_times": "43:11.524",
+                                "Gap": "11.871",
+                                "Interval": "0.250",
+                                "Average_speed": "168.633",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:37.850",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "7",
+                                "Elapsed_times": "11:43.019",
+                                "Gap": "7.579",
+                                "Interval": "1.722",
+                                "Average_speed": "189.192",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:38.029",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "7",
+                                "Elapsed_times": "11:53.183",
+                                "Gap": "17.743",
+                                "Interval": "1.504",
+                                "Average_speed": "186.495",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:37.955",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "7",
+                                "Elapsed_times": "11:58.853",
+                                "Gap": "23.413",
+                                "Interval": "0.373",
+                                "Average_speed": "185.024",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:38.893",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "14",
+                                "Elapsed_times": "1:34.621",
+                                "Gap": "0.434",
+                                "Interval": "0.009",
+                                "Average_speed": "200.809"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "14:27:36",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "13",
+                                "Elapsed_times": "1:34.686",
+                                "Gap": "0.499",
+                                "Interval": "0.038",
+                                "Average_speed": "200.671"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "14:38:04",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "13",
+                                "Elapsed_times": "1:35.307",
+                                "Gap": "1.120",
+                                "Interval": "0.151",
+                                "Average_speed": "199.364"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "14:38:20",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "17",
+                                "Elapsed_times": "1:35.335",
+                                "Gap": "0.728",
+                                "Interval": "0.073",
+                                "Average_speed": "199.305"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "9:27:42",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "16",
+                                "Elapsed_times": "1:35.659",
+                                "Gap": "1.052",
+                                "Interval": "0.073",
+                                "Average_speed": "198.630"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "9:28:15",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "16",
+                                "Elapsed_times": "1:35.715",
+                                "Gap": "1.108",
+                                "Interval": "0.023",
+                                "Average_speed": "198.514"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "9:07:17",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    }
+                },
+                "MONACO": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "27",
+                                "Elapsed_times": "41:44.142",
+                                "Gap": "29.156",
+                                "Interval": "0.605",
+                                "Average_speed": "129.527",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:26.375",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "27",
+                                "Elapsed_times": "41:51.734",
+                                "Gap": "36.748",
+                                "Interval": "1.440",
+                                "Average_speed": "129.136",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:26.391",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "27",
+                                "Elapsed_times": "41:56.412",
+                                "Gap": "41.426",
+                                "Interval": "1.212",
+                                "Average_speed": "128.896",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:25.150",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "18",
+                                "Elapsed_times": "1:02:15.016",
+                                "Gap": "19.635",
+                                "Interval": "7.137",
+                                "Average_speed": "57.894",
+                                "Lap_of_fastest_lap": "18"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "1:26.420",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "18",
+                                "Elapsed_times": "1:02:23.660",
+                                "Gap": "28.279",
+                                "Interval": "1.631",
+                                "Average_speed": "57.761",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:25.227",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "18",
+                                "Elapsed_times": "1:02:42.367",
+                                "Gap": "46.986",
+                                "Interval": "16.233",
+                                "Average_speed": "57.434",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:26.953",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "11",
+                                "Elapsed_times": "1:25.649",
+                                "Gap": "1.178",
+                                "Interval": "0.129",
+                                "Average_speed": "140.260"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "11:46:15",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "11",
+                                "Elapsed_times": "1:25.693",
+                                "Gap": "1.081",
+                                "Interval": "0.216",
+                                "Average_speed": "140.188"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "11:22:17",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "11",
+                                "Elapsed_times": "1:26.293",
+                                "Gap": "1.681",
+                                "Interval": "0.085",
+                                "Average_speed": "139.214"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "11:19:07",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "24",
+                                "Elapsed_times": "1:26.175",
+                                "Gap": "0.381",
+                                "Interval": "0.034",
+                                "Average_speed": "139.404"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "14:25:03",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "24",
+                                "Elapsed_times": "1:27.403",
+                                "Gap": "1.609",
+                                "Interval": "0.029",
+                                "Average_speed": "137.446"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "14:26:21",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "5",
+                                "Elapsed_times": "1:29.145",
+                                "Gap": "3.351",
+                                "Interval": "1.119",
+                                "Average_speed": "134.760"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "13:33:14",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        }
+                    }
+                },
+                "BARCELONA": {
+                    "Feature Race": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "25",
+                                "Elapsed_times": "40:04.680",
+                                "Gap": "28.497",
+                                "Interval": "1.552",
+                                "Average_speed": "174.108",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:32.760",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "25",
+                                "Elapsed_times": "40:07.495",
+                                "Gap": "31.312",
+                                "Interval": "0.483",
+                                "Average_speed": "173.905",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:32.706",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "25",
+                                "Elapsed_times": "40:10.574",
+                                "Gap": "34.391",
+                                "Interval": "1.736",
+                                "Average_speed": "173.683",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:33.159",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "21",
+                                "Elapsed_times": "36:57.355",
+                                "Average_speed": "158.574",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:32.211",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "21",
+                                "Elapsed_times": "37:03.047",
+                                "Gap": "5.692",
+                                "Interval": "0.673",
+                                "Average_speed": "158.168",
+                                "Lap_of_fastest_lap": "19"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "1:32.845",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "20",
+                                "Elapsed_times": "37:16.319",
+                                "Gap": "1 LAP",
+                                "Average_speed": "149.732",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:32.554",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "11",
+                                "Elapsed_times": "1:28.820",
+                                "Gap": "0.557",
+                                "Interval": "0.065",
+                                "Average_speed": "188.754"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "15:30:50",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "10",
+                                "Elapsed_times": "1:28.999",
+                                "Gap": "0.736",
+                                "Interval": "0.005",
+                                "Average_speed": "188.375"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "15:30:24",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "11",
+                                "Elapsed_times": "1:29.458",
+                                "Gap": "1.195",
+                                "Interval": "0.004",
+                                "Average_speed": "187.408"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "15:30:36",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "10",
+                                "Elapsed_times": "1:29.590",
+                                "Gap": "1.168",
+                                "Interval": "0.027",
+                                "Average_speed": "187.132"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "10:25:26",
+                            "drivers": [
+                                "Louis_Sharp"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "11",
+                                "Elapsed_times": "1:30.190",
+                                "Gap": "1.768",
+                                "Interval": "0.004",
+                                "Average_speed": "185.887"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "10:30:46",
+                            "drivers": [
+                                "James_Wharton"
+                            ]
+                        },
+                        "22": {
+                            "other_info": {
+                                "Car_number": "22",
+                                "Laps": "12",
+                                "Elapsed_times": "1:30.714",
+                                "Gap": "2.292",
+                                "Interval": "0.059",
+                                "Average_speed": "184.813"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "10:31:22",
+                            "drivers": [
+                                "José_Garfias"
+                            ]
+                        }
+                    }
+                }
+            },
+            "F1_Academy": {
+                "SHANGHAI": {
+                    "Feature Race": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "13",
+                                "Elapsed_times": "29:20.392",
+                                "Gap": "0.872",
+                                "Average_speed": "144.526",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "2:05.752",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "13",
+                                "Elapsed_times": "29:27.786",
+                                "Gap": "8.266",
+                                "Average_speed": "143.921",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "2:05.874",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "13",
+                                "Elapsed_times": "29:32.388",
+                                "Gap": "12.868",
+                                "Average_speed": "143.548",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "2:06.692",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    },
+                    "Reverse Grid Race": {
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "13",
+                                "Elapsed_times": "28:49.733",
+                                "Gap": "0.624",
+                                "Average_speed": "147.087",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "2:06.090",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "13",
+                                "Elapsed_times": "28:52.943",
+                                "Gap": "3.834",
+                                "Average_speed": "146.815",
+                                "Lap_of_fastest_lap": "3"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "2:06.185",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "13",
+                                "Elapsed_times": "28:59.629",
+                                "Gap": "10.520",
+                                "Average_speed": "146.251",
+                                "Lap_of_fastest_lap": "12"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "2:06.125",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "11",
+                                "Elapsed_times": "2:04.680",
+                                "Gap": "0.498",
+                                "Average_speed": "157.258"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "14:45:21",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "12",
+                                "Elapsed_times": "2:04.914",
+                                "Gap": "0.732",
+                                "Average_speed": "157.096"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "14:45:24",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "11",
+                                "Elapsed_times": "2:05.673",
+                                "Gap": "1.491",
+                                "Average_speed": "156.148"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "14:21:36",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "12",
+                                "Elapsed_times": "2:05.041",
+                                "Gap": "0.491",
+                                "Average_speed": "156.937"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "9:48:48",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "12",
+                                "Elapsed_times": "2:05.237",
+                                "Gap": "0.687",
+                                "Average_speed": "156.691"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "9:51:26",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "13",
+                                "Elapsed_times": "2:05.429",
+                                "Gap": "0.879",
+                                "Average_speed": "156.451"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "9:47:37",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    }
+                },
+                "MONTREAL": {
+                    "Feature Race": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "17",
+                                "Elapsed_times": "31:26.503",
+                                "Gap": "13.215",
+                                "Average_speed": "141.475",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:49.188",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "17",
+                                "Elapsed_times": "31:27.040",
+                                "Gap": "13.752",
+                                "Average_speed": "141.434",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:49.358",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "17",
+                                "Elapsed_times": "31:32.040",
+                                "Gap": "18.752",
+                                "Average_speed": "141.061",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "1:49.235",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    },
+                    "Reverse Grid Race": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "16",
+                                "Elapsed_times": "32:33.104",
+                                "Average_speed": "128.612",
+                                "Lap_of_fastest_lap": "11"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:40.030",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "16",
+                                "Elapsed_times": "32:34.754",
+                                "Gap": "1.650",
+                                "Average_speed": "128.503",
+                                "Lap_of_fastest_lap": "11"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:39.916",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "16",
+                                "Elapsed_times": "32:34.835",
+                                "Gap": "1.731",
+                                "Average_speed": "128.498",
+                                "Lap_of_fastest_lap": "10"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "1:39.784",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    },
+                    "Opening Race": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "17",
+                                "Elapsed_times": "28:29.822",
+                                "Gap": "10.827",
+                                "Average_speed": "156.094",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "1:39.487",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "17",
+                                "Elapsed_times": "28:58.297",
+                                "Gap": "39.302",
+                                "Average_speed": "153.537",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:39.585",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        },
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "17",
+                                "Elapsed_times": "29:32.393",
+                                "Gap": "73.398",
+                                "Average_speed": "150.583",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:39.129",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        }
+                    },
+                    "Qualifying 2": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "16",
+                                "Elapsed_times": "1:39.037",
+                                "Gap": "0.511",
+                                "Average_speed": "158.522"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "18:40:20",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "17",
+                                "Elapsed_times": "1:39.200",
+                                "Gap": "0.674",
+                                "Average_speed": "158.262"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "18:46:31",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "16",
+                                "Elapsed_times": "1:39.915",
+                                "Gap": "1.389",
+                                "Average_speed": "157.129"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "18:41:01",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    },
+                    "Qualifying 1": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "16",
+                                "Elapsed_times": "1:38.856",
+                                "Gap": "0.390",
+                                "Average_speed": "158.812"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "18:43:38",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "17",
+                                "Elapsed_times": "1:39.134",
+                                "Gap": "0.668",
+                                "Average_speed": "158.367"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "18:44:52",
+                            "drivers": [
+                                "Mathilda_Paatz"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "16",
+                                "Elapsed_times": "1:39.572",
+                                "Gap": "1.106",
+                                "Average_speed": "157.670"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "18:47:40",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "9": {
+                            "other_info": {
+                                "Car_number": "9",
+                                "Laps": "17",
+                                "Elapsed_times": "1:39.948",
+                                "Gap": "0.577",
+                                "Average_speed": "157.077"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "9:41:10",
+                            "drivers": [
+                                "Payton_Westcott"
+                            ]
+                        },
+                        "19": {
+                            "other_info": {
+                                "Car_number": "19",
+                                "Laps": "15",
+                                "Elapsed_times": "1:40.559",
+                                "Gap": "1.188",
+                                "Average_speed": "156.123"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "9:40:57",
+                            "drivers": [
+                                "Natalia_Granada"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Laps": "17",
+                                "Elapsed_times": "1:41.021",
+                                "Gap": "1.650",
+                                "Average_speed": "155.409"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "9:27:13",
+                            "drivers": [
+                                "Mathilda_Paatz"
                             ]
                         }
                     }

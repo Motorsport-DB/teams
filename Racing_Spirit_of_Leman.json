@@ -15,17 +15,18 @@
                         "10": {
                             "position": "15",
                             "points": 0,
-                            "fastest_lap": "1'44.591",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
                             ],
                             "other_info": {
-                                "Average_speed": "168.966 Km/h",
+                                "Average_speed": "168.966",
                                 "Laps": "7",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'44.591"
                             }
                         }
                     },
@@ -43,7 +44,8 @@
                                 "Elapsed_times": "6:01'28.046",
                                 "Laps": "192",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "6:01'28.046"
                             }
                         }
                     },
@@ -51,17 +53,18 @@
                         "10": {
                             "position": "25",
                             "points": 0,
-                            "fastest_lap": "1'43.503",
+                            "fastest_lap": "",
                             "drivers": [
-                                "Eduardo_Barrichello",
                                 "Derek_DeBoer",
+                                "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
                             ],
                             "other_info": {
-                                "Average_speed": "170.742 Km/h",
+                                "Average_speed": "170.742",
                                 "Laps": "22",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'43.503"
                             }
                         }
                     },
@@ -69,17 +72,18 @@
                         "10": {
                             "position": "32",
                             "points": 0,
-                            "fastest_lap": "1'44.324",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
                             ],
                             "other_info": {
-                                "Average_speed": "169.399 Km/h",
+                                "Average_speed": "169.399",
                                 "Laps": "38",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'44.324"
                             }
                         }
                     },
@@ -87,99 +91,35 @@
                         "10": {
                             "position": "25",
                             "points": 0,
-                            "fastest_lap": "1'43.560",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
                             ],
                             "other_info": {
-                                "Average_speed": "170.648 Km/h",
+                                "Average_speed": "170.648",
                                 "Laps": "44",
                                 "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'43.560"
+                            }
+                        }
+                    },
+                    "Prologue": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
                                 "Class": "LMGT3"
-                            }
-                        }
-                    }
-                },
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "10": {
-                            "position": "24",
+                            },
+                            "position": "N/A",
                             "points": 0,
-                            "fastest_lap": "1:56.046",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
-                            ],
-                            "other_info": {
-                                "Laps": "34"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "10": {
-                            "position": "24",
-                            "points": 0,
-                            "fastest_lap": "1:55.419",
-                            "drivers": [
-                                "Derek_DeBoer",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ],
-                            "other_info": {
-                                "Laps": "37"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "10": {
-                            "position": "25",
-                            "points": 0,
-                            "fastest_lap": "1:55.279",
-                            "drivers": [
-                                "Derek_DeBoer",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ],
-                            "other_info": {
-                                "Laps": "17"
-                            }
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "10": {
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:56.618",
-                            "drivers": [
-                                "Derek_DeBoer",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "10": {
-                            "position": "26",
-                            "points": 3,
-                            "fastest_lap": "1:55.071",
-                            "drivers": [
-                                "Derek_DeBoer",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ],
-                            "other_info": {
-                                "Laps": "285",
-                                "Elapsed_time": "10:02:53.686",
-                                "Gap": "33 Laps",
-                                "Best_lap_number": "173",
-                                "Best_speed": "169.5 km/h"
-                            }
+                            ]
                         }
                     }
                 },
@@ -187,14 +127,15 @@
                     "Free Practice 1": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "180.661 Km/h",
+                                "Average_speed": "180.661",
                                 "Laps": "31",
                                 "Car_number": "10",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'19.565"
                             },
                             "position": "23",
                             "points": 0,
-                            "fastest_lap": "2'19.565",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -205,14 +146,15 @@
                     "Free Practice 2": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "181.486 Km/h",
+                                "Average_speed": "181.486",
                                 "Laps": "27",
                                 "Car_number": "10",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'18.931"
                             },
                             "position": "21",
                             "points": 0,
-                            "fastest_lap": "2'18.931",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -223,14 +165,15 @@
                     "Free Practice 3": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "181.559 Km/h",
+                                "Average_speed": "181.559",
                                 "Laps": "23",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "2'18.877"
                             },
                             "position": "22",
                             "points": 0,
-                            "fastest_lap": "2'18.877",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -241,14 +184,15 @@
                     "LMGT3 Qualifying": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "180.443 Km/h",
+                                "Average_speed": "180.443",
                                 "Laps": "6",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "2'19.736"
                             },
                             "position": "8",
                             "points": 0,
-                            "fastest_lap": "2'19.736",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -259,14 +203,15 @@
                     "LMGT3 Hyperpole": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "182.702 Km/h",
+                                "Average_speed": "182.702",
                                 "Laps": "5",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "2'18.008"
                             },
                             "position": "2",
                             "points": 0,
-                            "fastest_lap": "2'18.008",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -280,10 +225,27 @@
                                 "Elapsed_times": "6:01'13.832",
                                 "Laps": "136",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "6:01'13.832"
                             },
                             "position": "20",
-                            "points": "",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Prologue": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3"
+                            },
+                            "position": "N/A",
+                            "points": 0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
@@ -297,14 +259,15 @@
                     "Free Practice 1": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "206.677 Km/h",
+                                "Average_speed": "206.677",
                                 "Laps": "35",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "3'57.344"
                             },
                             "position": "41",
                             "points": 0,
-                            "fastest_lap": "3'57.344",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Valentin_Hasse-Clot",
@@ -315,14 +278,15 @@
                     "Qualifying (LMP2 & LMGT3)": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "204.840 Km/h",
+                                "Average_speed": "204.840",
                                 "Laps": "7",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "3'59.472"
                             },
                             "position": "35",
                             "points": 0,
-                            "fastest_lap": "3'59.472",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Valentin_Hasse-Clot",
@@ -333,14 +297,15 @@
                     "Free Practice 2": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "206.609 Km/h",
+                                "Average_speed": "206.609",
                                 "Laps": "23",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "3'57.422"
                             },
                             "position": "50",
                             "points": 0,
-                            "fastest_lap": "3'57.422",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Valentin_Hasse-Clot",
@@ -351,14 +316,15 @@
                     "Free Practice 3": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "207.320 Km/h",
+                                "Average_speed": "207.320",
                                 "Laps": "36",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "3'56.608"
                             },
                             "position": "42",
                             "points": 0,
-                            "fastest_lap": "3'56.608",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Valentin_Hasse-Clot",
@@ -369,14 +335,15 @@
                     "Free Practice 4": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "207.656 Km/h",
+                                "Average_speed": "207.656",
                                 "Laps": "13",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "3'56.225"
                             },
                             "position": "37",
                             "points": 0,
-                            "fastest_lap": "3'56.225",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Valentin_Hasse-Clot",
@@ -390,7 +357,8 @@
                                 "Elapsed_times": "24:03'05.865",
                                 "Laps": "336",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "24:03'05.865"
                             },
                             "position": "45",
                             "points": 0,
@@ -401,20 +369,54 @@
                                 "Eduardo_Barrichello"
                             ]
                         }
-                    }
-                },
-                "Rolex 6 Hours of Sao Paulo": {
-                    "Free Practice 1": {
+                    },
+                    "Prologue": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "162.671 Km/h",
-                                "Laps": "48",
                                 "Car_number": "10",
                                 "Class": "LMGT3"
                             },
-                            "position": "22",
+                            "position": "N/A",
                             "points": 0,
-                            "fastest_lap": "1'35.360",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Valentin_Hasse-Clot",
+                                "Eduardo_Barrichello"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "3"
+                            },
+                            "position": "44",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Valentin_Hasse-Clot",
+                                "Eduardo_Barrichello"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "10": {
+                            "other_info": {
+                                "Average_speed": "160.341",
+                                "Laps": "39",
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'42.449"
+                            },
+                            "position": "35",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -425,14 +427,15 @@
                     "Free Practice 2": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "164.164 Km/h",
-                                "Laps": "45",
+                                "Average_speed": "161.303",
+                                "Laps": "44",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'41.838"
                             },
-                            "position": "19",
+                            "position": "27",
                             "points": 0,
-                            "fastest_lap": "1'34.493",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -443,14 +446,14 @@
                     "Free Practice 3": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "164.178 Km/h",
-                                "Laps": "30",
+                                "Average_speed": " Km/h",
+                                "Laps": "26",
                                 "Car_number": "10",
                                 "Class": "LMGT3"
                             },
-                            "position": "20",
+                            "position": "33",
                             "points": 0,
-                            "fastest_lap": "1'34.485",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -461,14 +464,316 @@
                     "LMGT3 Qualifying": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "162.706 Km/h",
+                                "Average_speed": "162.251",
                                 "Laps": "7",
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'41.243"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "10": {
+                            "other_info": {
+                                "Average_speed": "164.299",
+                                "Laps": "5",
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Elapsed_time": "1'39.981"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "Elapsed_times": "6:02'59.138",
+                                "Laps": "183",
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Elapsed_time": "6:02'59.138"
+                            },
+                            "position": "33",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Prologue": {
+                        "10": {
+                            "other_info": {
                                 "Car_number": "10",
                                 "Class": "LMGT3"
                             },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    }
+                },
+                "1812km of Qatar": {
+                    "Prologue": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "34",
+                                "Elapsed_time": "1'56.046",
+                                "Average_speed": "168.078"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "37",
+                                "Elapsed_time": "1'55.419",
+                                "Average_speed": "168.991"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "17",
+                                "Elapsed_time": "1'55.279",
+                                "Average_speed": "169.196"
+                            },
+                            "position": "25",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "6",
+                                "Elapsed_time": "1'56.618",
+                                "Average_speed": "167.253"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "285",
+                                "Elapsed_time": "10:02'53.686",
+                                "Gap": "33 Laps",
+                                "Best_lap_number": "173",
+                                "Best_speed": "169.5 km/h"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Derek_DeBoer",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of São Paulo": {
+                    "Prologue": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "48",
+                                "Elapsed_time": "1'35.360",
+                                "Average_speed": "162.671"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "45",
+                                "Elapsed_time": "1'34.493",
+                                "Average_speed": "164.164"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "30",
+                                "Elapsed_time": "1'34.485",
+                                "Average_speed": "164.178"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "LMGT3 Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "7",
+                                "Elapsed_time": "1'35.340",
+                                "Average_speed": "162.706"
+                            },
                             "position": "10",
                             "points": 0,
-                            "fastest_lap": "1'35.340",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "6",
+                                "Elapsed_time": "1'33.849",
+                                "Average_speed": "165.291"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Anthony_McIntosh",
+                                "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "10": {
+                            "other_info": {
+                                "Car_number": "10",
+                                "Class": "LMGT3",
+                                "Laps": "216",
+                                "Elapsed_time": "6:01'37.138",
+                                "Elapsed_times": "6:01'37.138"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -493,38 +798,37 @@
                                 "Valentin_Hasse-Clot"
                             ]
                         }
-                    },
-                    "Race": {
+                    }
+                },
+                "6 Hours of Austin": {
+                    "Prologue": {
                         "10": {
                             "other_info": {
-                                "Elapsed_times": "6:01'37.138",
-                                "Laps": "216",
                                 "Car_number": "10",
                                 "Class": "LMGT3"
                             },
-                            "position": "20",
+                            "position": "N/A",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Anthony_McIntosh",
+                                "Derek_DeBoer",
                                 "Eduardo_Barrichello",
                                 "Valentin_Hasse-Clot"
                             ]
                         }
-                    }
-                },
-                "Lone Star Le Mans": {
+                    },
                     "Free Practice 1": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "155.668 Km/h",
-                                "Laps": "12",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "12",
+                                "Elapsed_time": "2'07.494",
+                                "Average_speed": "155.668"
                             },
                             "position": "25",
                             "points": 0,
-                            "fastest_lap": "2'07.494",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -535,14 +839,14 @@
                     "Free Practice 2": {
                         "10": {
                             "other_info": {
-                                "Average_speed": " Km/h",
-                                "Laps": "0",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "0",
+                                "Average_speed": " Km/h"
                             },
                             "position": "36",
                             "points": 0,
-                            "fastest_lap": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -553,14 +857,15 @@
                     "Free Practice 3": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "156.174 Km/h",
-                                "Laps": "24",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "24",
+                                "Elapsed_time": "2'07.081",
+                                "Average_speed": "156.174"
                             },
                             "position": "34",
                             "points": 0,
-                            "fastest_lap": "2'07.081",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -571,14 +876,15 @@
                     "LMGT3 Qualifying": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "141.377 Km/h",
-                                "Laps": "5",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "5",
+                                "Elapsed_time": "2'20.382",
+                                "Average_speed": "141.377"
                             },
                             "position": "16",
                             "points": 0,
-                            "fastest_lap": "2'20.382",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Derek_DeBoer",
                                 "Eduardo_Barrichello",
@@ -589,10 +895,11 @@
                     "Race": {
                         "10": {
                             "other_info": {
-                                "Elapsed_times": "6:02'46.895",
+                                "Car_number": "10",
+                                "Class": "LMGT3",
                                 "Laps": "115",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Elapsed_time": "6:02'46.895",
+                                "Elapsed_times": "6:02'46.895"
                             },
                             "position": "26",
                             "points": 0,
@@ -605,106 +912,14 @@
                         }
                     }
                 },
-                "6 Hours of Fuji": {
-                    "Free Practice 1": {
+                "8 Hours of Bahrain": {
+                    "Prologue": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "160.341 Km/h",
-                                "Laps": "39",
                                 "Car_number": "10",
                                 "Class": "LMGT3"
                             },
-                            "position": "35",
-                            "points": 0,
-                            "fastest_lap": "1'42.449",
-                            "drivers": [
-                                "Anthony_McIntosh",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ]
-                        }
-                    },
-                    "Free Practice 2": {
-                        "10": {
-                            "other_info": {
-                                "Average_speed": "161.303 Km/h",
-                                "Laps": "44",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
-                            },
-                            "position": "27",
-                            "points": 0,
-                            "fastest_lap": "1'41.838",
-                            "drivers": [
-                                "Anthony_McIntosh",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ]
-                        }
-                    },
-                    "Free Practice 3": {
-                        "10": {
-                            "other_info": {
-                                "Average_speed": " Km/h",
-                                "Laps": "26",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
-                            },
-                            "position": "33",
-                            "points": 0,
-                            "fastest_lap": 0,
-                            "drivers": [
-                                "Anthony_McIntosh",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ]
-                        }
-                    },
-                    "LMGT3 Qualifying": {
-                        "10": {
-                            "other_info": {
-                                "Average_speed": "162.251 Km/h",
-                                "Laps": "7",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
-                            },
-                            "position": "8",
-                            "points": 0,
-                            "fastest_lap": "1'41.243",
-                            "drivers": [
-                                "Anthony_McIntosh",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ]
-                        }
-                    },
-                    "LMGT3 Hyperpole": {
-                        "10": {
-                            "other_info": {
-                                "Average_speed": "164.299 Km/h",
-                                "Laps": "5",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
-                            },
-                            "position": "1",
-                            "points": 0,
-                            "fastest_lap": "1'39.981",
-                            "drivers": [
-                                "Anthony_McIntosh",
-                                "Eduardo_Barrichello",
-                                "Valentin_Hasse-Clot"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "10": {
-                            "other_info": {
-                                "Elapsed_times": "6:02'59.138",
-                                "Laps": "183",
-                                "Car_number": "10",
-                                "Class": "LMGT3"
-                            },
-                            "position": "33",
+                            "position": "N/A",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
@@ -713,20 +928,19 @@
                                 "Valentin_Hasse-Clot"
                             ]
                         }
-                    }
-                },
-                "Bapco Energies 8 Hours of Bahrain": {
+                    },
                     "Free Practice 1": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "156.768 Km/h",
-                                "Laps": "35",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "35",
+                                "Elapsed_time": "2'04.280",
+                                "Average_speed": "156.768"
                             },
                             "position": "27",
                             "points": 0,
-                            "fastest_lap": "2'04.280",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -737,14 +951,15 @@
                     "Free Practice 2": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "156.784 Km/h",
-                                "Laps": "33",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "33",
+                                "Elapsed_time": "2'04.267",
+                                "Average_speed": "156.784"
                             },
                             "position": "26",
                             "points": 0,
-                            "fastest_lap": "2'04.267",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -755,14 +970,15 @@
                     "Free Practice 3": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "154.108 Km/h",
-                                "Laps": "19",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "19",
+                                "Elapsed_time": "2'06.425",
+                                "Average_speed": "154.108"
                             },
                             "position": "36",
                             "points": 0,
-                            "fastest_lap": "2'06.425",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -773,14 +989,15 @@
                     "LMGT3 Qualifying": {
                         "10": {
                             "other_info": {
-                                "Average_speed": "156.715 Km/h",
-                                "Laps": "5",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "5",
+                                "Elapsed_time": "2'04.322",
+                                "Average_speed": "156.715"
                             },
                             "position": "15",
                             "points": 0,
-                            "fastest_lap": "2'04.322",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
@@ -791,10 +1008,11 @@
                     "Race": {
                         "10": {
                             "other_info": {
-                                "Elapsed_times": "8:02'46.829",
-                                "Laps": "215",
                                 "Car_number": "10",
-                                "Class": "LMGT3"
+                                "Class": "LMGT3",
+                                "Laps": "215",
+                                "Elapsed_time": "8:02'46.829",
+                                "Elapsed_times": "8:02'46.829"
                             },
                             "position": "31",
                             "points": 0,
@@ -802,6 +1020,158 @@
                             "drivers": [
                                 "Anthony_McIntosh",
                                 "Eduardo_Barrichello",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "World_Endurance_Championship_WEC": {
+                "24 Hours of Le Mans": {
+                    "Prologue": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "36",
+                                "Elapsed_time": "3'58.115",
+                                "Average_speed": "206.008"
+                            },
+                            "position": "62",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Qualifying (LMP2 & LMGT3)": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "8",
+                                "Elapsed_time": "3'58.395",
+                                "Average_speed": "205.766"
+                            },
+                            "position": "41",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "28",
+                                "Elapsed_time": "3'56.381",
+                                "Average_speed": "207.519"
+                            },
+                            "position": "50",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "39",
+                                "Elapsed_time": "3'55.167",
+                                "Average_speed": "208.590"
+                            },
+                            "position": "49",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Free Practice 4": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "15",
+                                "Elapsed_time": "3'57.231",
+                                "Average_speed": "206.775"
+                            },
+                            "position": "53",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "3"
+                            },
+                            "position": "54",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
+                                "Valentin_Hasse-Clot"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "59": {
+                            "other_info": {
+                                "Car_number": "59",
+                                "Class": "LMGT3",
+                                "Laps": "332",
+                                "Elapsed_time": "24:03'47.474"
+                            },
+                            "position": "43",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Clément_Mateu",
+                                "Marius_Fossard",
                                 "Valentin_Hasse-Clot"
                             ]
                         }

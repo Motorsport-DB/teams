@@ -1498,6 +1498,285 @@
                             ]
                         }
                     }
+                },
+                "LUSAIL": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "32",
+                                "Elapsed_times": "55:54.344",
+                                "Gap": "35.889",
+                                "Interval": "2.693",
+                                "Average_speed": "185.815",
+                                "Lap_of_fastest_lap": "27"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:41.206",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "32",
+                                "Elapsed_times": "56:55.791",
+                                "Gap": "97.336",
+                                "Interval": "43.016",
+                                "Average_speed": "182.472",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:41.388",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "23",
+                                "Elapsed_times": "42:37.451",
+                                "Gap": "0.970",
+                                "Interval": "0.970",
+                                "Average_speed": "175.062",
+                                "Lap_of_fastest_lap": "18"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:40.488",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "19",
+                                "Elapsed_times": "34:16.222",
+                                "Gap": "DNF",
+                                "Average_speed": "179.786",
+                                "Lap_of_fastest_lap": "18"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:41.543",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "14",
+                                "Elapsed_times": "1:36.773",
+                                "Gap": "0.658",
+                                "Interval": "0.007",
+                                "Average_speed": "201.589"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "19:39:46",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "14",
+                                "Elapsed_times": "1:38.098",
+                                "Gap": "1.983",
+                                "Interval": "0.764",
+                                "Average_speed": "198.866"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "19:35:48",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "20",
+                                "Elapsed_times": "1:40.339",
+                                "Gap": "1.683",
+                                "Interval": "0.252",
+                                "Average_speed": "194.424"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "14:48:28",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "19",
+                                "Elapsed_times": "1:40.520",
+                                "Gap": "1.864",
+                                "Interval": "0.181",
+                                "Average_speed": "194.074"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "14:37:55",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        }
+                    }
+                },
+                "YAS ISLAND": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "33",
+                                "Elapsed_times": "1:01:24.429",
+                                "Average_speed": "170.167",
+                                "Lap_of_fastest_lap": "30"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "1:41.386",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "1",
+                                "Elapsed_times": "1:54.329",
+                                "Gap": "DNF",
+                                "Average_speed": "162.667"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "23",
+                                "Elapsed_times": "39:16.630",
+                                "Gap": "0.982",
+                                "Interval": "0.982",
+                                "Average_speed": "185.371",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "1:40.482",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "23",
+                                "Elapsed_times": "40:07.060",
+                                "Gap": "51.412",
+                                "Interval": "14.686",
+                                "Average_speed": "181.488",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:42.303",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "12",
+                                "Elapsed_times": "1:37.152",
+                                "Gap": "0.316",
+                                "Interval": "0.023",
+                                "Average_speed": "195.689"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "15:29:00",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "12",
+                                "Elapsed_times": "1:38.308",
+                                "Gap": "1.472",
+                                "Interval": "0.232",
+                                "Average_speed": "193.388"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "15:24:54",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "19",
+                                "Elapsed_times": "1:39.875",
+                                "Gap": "0.330",
+                                "Interval": "0.234",
+                                "Average_speed": "190.353"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "11:27:58",
+                            "drivers": [
+                                "Joshua_Dürksen"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "21",
+                                "Elapsed_times": "1:40.854",
+                                "Gap": "1.309",
+                                "Interval": "0.268",
+                                "Average_speed": "188.506"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "11:49:57",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    }
                 }
             },
             "Formula_3": {
@@ -6588,6 +6867,1323 @@
                                 "Laps": "12",
                                 "Car_number": "27"
                             }
+                        }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "Formula_2": {
+                "MELBOURNE": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "33",
+                                "Elapsed_times": "56:29.632",
+                                "Gap": "24.384",
+                                "Interval": "0.382",
+                                "Average_speed": "184.983",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "1:32.667",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "33",
+                                "Elapsed_times": "56:54.247",
+                                "Gap": "48.999",
+                                "Interval": "20.602",
+                                "Average_speed": "183.649",
+                                "Lap_of_fastest_lap": "25"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:33.050",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "23",
+                                "Elapsed_times": "39:21.804",
+                                "Gap": "12.078",
+                                "Interval": "1.747",
+                                "Average_speed": "185.035",
+                                "Lap_of_fastest_lap": "21"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "1:33.142",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "23",
+                                "Elapsed_times": "39:25.164",
+                                "Gap": "15.438",
+                                "Interval": "0.949",
+                                "Average_speed": "184.772",
+                                "Lap_of_fastest_lap": "21"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:33.407",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "13",
+                                "Elapsed_times": "1:30.490",
+                                "Gap": "1.795",
+                                "Interval": "0.251",
+                                "Average_speed": "209.976"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "15:19:10",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "12",
+                                "Elapsed_times": "1:30.743",
+                                "Gap": "2.048",
+                                "Interval": "0.221",
+                                "Average_speed": "209.391"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "15:36:09",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "18",
+                                "Elapsed_times": "1:30.522",
+                                "Gap": "1.385",
+                                "Interval": "0.022",
+                                "Average_speed": "209.902"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "10:46:23",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "18",
+                                "Elapsed_times": "1:30.842",
+                                "Gap": "1.705",
+                                "Interval": "0.038",
+                                "Average_speed": "209.163"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "10:36:10",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    }
+                },
+                "MIAMI": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "25",
+                                "Elapsed_times": "56:36.329",
+                                "Gap": "14.300",
+                                "Interval": "1.694",
+                                "Average_speed": "143.246",
+                                "Lap_of_fastest_lap": "23"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "1:59.427",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "17",
+                                "Elapsed_times": "39:19.278",
+                                "Gap": "DNF",
+                                "Average_speed": "140.146",
+                                "Lap_of_fastest_lap": "14"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:59.284",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "23",
+                                "Elapsed_times": "40:14.712",
+                                "Gap": "48.439",
+                                "Interval": "17.795",
+                                "Average_speed": "185.340",
+                                "Lap_of_fastest_lap": "22"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:43.656",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "16",
+                                "Elapsed_times": "28:28.486",
+                                "Gap": "DNF",
+                                "Average_speed": "182.127",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:42.944",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "14",
+                                "Elapsed_times": "1:40.634",
+                                "Gap": "0.746",
+                                "Interval": "0.022",
+                                "Average_speed": "193.604"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "14:55:24",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "13",
+                                "Elapsed_times": "1:41.157",
+                                "Gap": "1.269",
+                                "Interval": "0.359",
+                                "Average_speed": "192.603"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "14:54:55",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "16",
+                                "Elapsed_times": "1:41.398",
+                                "Gap": "1.078",
+                                "Interval": "0.522",
+                                "Average_speed": "192.145"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "9:58:18",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "16",
+                                "Elapsed_times": "1:41.688",
+                                "Gap": "1.368",
+                                "Interval": "0.159",
+                                "Average_speed": "191.597"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "10:12:52",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    }
+                },
+                "MONTRÉAL": {
+                    "Feature Race": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "37",
+                                "Elapsed_times": "1:03:10.465",
+                                "Gap": "2.442",
+                                "Interval": "0.381",
+                                "Average_speed": "153.249",
+                                "Lap_of_fastest_lap": "20"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:25.585",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "7",
+                                "Elapsed_times": "12:58.431",
+                                "Gap": "DNF",
+                                "Average_speed": "141.177",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.499",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "28",
+                                "Elapsed_times": "43:44.488",
+                                "Gap": "7.619",
+                                "Interval": "0.632",
+                                "Average_speed": "167.495",
+                                "Lap_of_fastest_lap": "23"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "1:24.015",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "24",
+                                "Elapsed_times": "37:49.404",
+                                "Gap": "DNF",
+                                "Average_speed": "166.030",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:24.286",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "16",
+                                "Elapsed_times": "1:22.001",
+                                "Gap": "0.579",
+                                "Interval": "0.030",
+                                "Average_speed": "191.456"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "15:12:00",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "16",
+                                "Elapsed_times": "1:22.445",
+                                "Gap": "1.023",
+                                "Interval": "0.089",
+                                "Average_speed": "190.425"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "15:11:36",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "23",
+                                "Elapsed_times": "1:23.065",
+                                "Gap": "0.541",
+                                "Interval": "0.023",
+                                "Average_speed": "189.003"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "10:49:45",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        },
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "25",
+                                "Elapsed_times": "1:23.154",
+                                "Gap": "0.630",
+                                "Interval": "0.004",
+                                "Average_speed": "188.801"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "10:43:48",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    }
+                },
+                "MONACO": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "42",
+                                "Elapsed_times": "1:00:59.984",
+                                "Gap": "40.542",
+                                "Interval": "9.683",
+                                "Average_speed": "137.856",
+                                "Lap_of_fastest_lap": "16"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:23.661",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "42",
+                                "Elapsed_times": "1:01:30.133",
+                                "Gap": "70.691",
+                                "Interval": "0.088",
+                                "Average_speed": "136.730",
+                                "Lap_of_fastest_lap": "28"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:24.548",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "30",
+                                "Elapsed_times": "44:27.787",
+                                "Gap": "81.380",
+                                "Interval": "1.263",
+                                "Average_speed": "135.091",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:25.078",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "30",
+                                "Elapsed_times": "44:29.515",
+                                "Gap": "83.108",
+                                "Interval": "1.728",
+                                "Average_speed": "135.004",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:25.381",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "12",
+                                "Elapsed_times": "1:22.408",
+                                "Gap": "1.355",
+                                "Interval": "0.038",
+                                "Average_speed": "145.777"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "16:01:21",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "12",
+                                "Elapsed_times": "1:23.077",
+                                "Gap": "2.154",
+                                "Interval": "0.227",
+                                "Average_speed": "144.603"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "15:33:45",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "24",
+                                "Elapsed_times": "1:23.772",
+                                "Gap": "1.963",
+                                "Interval": "0.207",
+                                "Average_speed": "143.403"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "15:44:51",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "25",
+                                "Elapsed_times": "1:24.088",
+                                "Gap": "2.279",
+                                "Interval": "0.316",
+                                "Average_speed": "142.864"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "15:46:14",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    }
+                },
+                "BARCELONA": {
+                    "Feature Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "37",
+                                "Elapsed_times": "59:29.463",
+                                "Gap": "53.624",
+                                "Interval": "2.875",
+                                "Average_speed": "173.656",
+                                "Lap_of_fastest_lap": "23"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:30.887",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "37",
+                                "Elapsed_times": "1:00:09.471",
+                                "Gap": "93.632",
+                                "Interval": "40.008",
+                                "Average_speed": "171.731",
+                                "Lap_of_fastest_lap": "32"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:29.860",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "26",
+                                "Elapsed_times": "40:34.092",
+                                "Gap": "38.367",
+                                "Interval": "0.530",
+                                "Average_speed": "178.892",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "1:31.638",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "26",
+                                "Elapsed_times": "40:50.610",
+                                "Gap": "54.885",
+                                "Interval": "5.362",
+                                "Average_speed": "177.687",
+                                "Lap_of_fastest_lap": "17"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:30.604",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Qualifying Session": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "9",
+                                "Elapsed_times": "1:25.664",
+                                "Gap": "0.854",
+                                "Interval": "0.088",
+                                "Average_speed": "195.708"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "16:33:10",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "11",
+                                "Elapsed_times": "1:26.248",
+                                "Gap": "1.438",
+                                "Interval": "0.229",
+                                "Average_speed": "194.383"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "16:21:15",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    },
+                    "Free Practice": {
+                        "20": {
+                            "other_info": {
+                                "Car_number": "20",
+                                "Laps": "9",
+                                "Elapsed_times": "1:28.119",
+                                "Gap": "1.343",
+                                "Interval": "0.195",
+                                "Average_speed": "190.256"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "11:36:30",
+                            "drivers": [
+                                "Emerson_Fittipaldi"
+                            ]
+                        },
+                        "21": {
+                            "other_info": {
+                                "Car_number": "21",
+                                "Laps": "9",
+                                "Elapsed_times": "1:28.377",
+                                "Gap": "1.601",
+                                "Interval": "0.258",
+                                "Average_speed": "189.700"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "11:52:28",
+                            "drivers": [
+                                "Cian_Shields"
+                            ]
+                        }
+                    }
+                }
+            },
+            "Formula_3": {
+                "MELBOURNE": {
+                    "Feature Race": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "23",
+                                "Elapsed_times": "43:04.369",
+                                "Gap": "4.716",
+                                "Interval": "1.140",
+                                "Average_speed": "169.100",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "1:38.109",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "23",
+                                "Elapsed_times": "43:08.489",
+                                "Gap": "8.836",
+                                "Interval": "0.353",
+                                "Average_speed": "168.831",
+                                "Lap_of_fastest_lap": "3"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "1:37.484",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "23",
+                                "Elapsed_times": "43:09.630",
+                                "Gap": "9.977",
+                                "Interval": "0.576",
+                                "Average_speed": "168.757",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:38.097",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "7",
+                                "Elapsed_times": "11:54.334",
+                                "Gap": "18.894",
+                                "Interval": "1.151",
+                                "Average_speed": "186.195",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:38.810",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "7",
+                                "Elapsed_times": "11:58.060",
+                                "Gap": "22.620",
+                                "Interval": "0.324",
+                                "Average_speed": "185.229",
+                                "Lap_of_fastest_lap": "4"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:38.735",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "7",
+                                "Elapsed_times": "12:00.697",
+                                "Gap": "25.257",
+                                "Interval": "0.605",
+                                "Average_speed": "184.551",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:39.112",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "14",
+                                "Elapsed_times": "1:34.933",
+                                "Gap": "0.746",
+                                "Interval": "0.054",
+                                "Average_speed": "200.149"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "14:38:23",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "12",
+                                "Elapsed_times": "1:35.731",
+                                "Gap": "1.544",
+                                "Interval": "0.424",
+                                "Average_speed": "198.481"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "14:38:28",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "16",
+                                "Elapsed_times": "1:36.482",
+                                "Gap": "2.295",
+                                "Interval": "0.321",
+                                "Average_speed": "196.936"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "14:41:03",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "15",
+                                "Elapsed_times": "1:35.131",
+                                "Gap": "0.524",
+                                "Interval": "0.053",
+                                "Average_speed": "199.732"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "9:13:39",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "14",
+                                "Elapsed_times": "1:36.317",
+                                "Gap": "1.710",
+                                "Interval": "0.078",
+                                "Average_speed": "197.273"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "9:13:44",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "14",
+                                "Elapsed_times": "1:37.210",
+                                "Gap": "2.603",
+                                "Interval": "0.068",
+                                "Average_speed": "195.461"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "9:13:47",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    }
+                },
+                "MONACO": {
+                    "Feature Race": {
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "27",
+                                "Elapsed_times": "42:04.126",
+                                "Gap": "49.140",
+                                "Interval": "1.072",
+                                "Average_speed": "128.502",
+                                "Lap_of_fastest_lap": "18"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:27.446",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "17",
+                                "Elapsed_times": "27:25.779",
+                                "Gap": "DNF",
+                                "Average_speed": "124.089",
+                                "Lap_of_fastest_lap": "13"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "1:27.231",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "18",
+                                "Elapsed_times": "1:02:50.427",
+                                "Gap": "55.046",
+                                "Interval": "4.491",
+                                "Average_speed": "57.350",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "20",
+                            "points": 0,
+                            "fastest_lap": "1:27.536",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "18",
+                                "Elapsed_times": "1:02:50.784",
+                                "Gap": "55.403",
+                                "Interval": "0.357",
+                                "Average_speed": "57.345",
+                                "Lap_of_fastest_lap": "15"
+                            },
+                            "position": "21",
+                            "points": 0,
+                            "fastest_lap": "1:27.591",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Gap": "DNF"
+                            },
+                            "position": "DNF",
+                            "points": 0,
+                            "fastest_lap": "-",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        }
+                    },
+                    "Qualifying Group B": {
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "10",
+                                "Elapsed_times": "1:25.520",
+                                "Gap": "1.049",
+                                "Interval": "0.040",
+                                "Average_speed": "140.472"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "11:43:23",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        }
+                    },
+                    "Qualifying Group A": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "11",
+                                "Elapsed_times": "1:25.890",
+                                "Gap": "1.278",
+                                "Interval": "0.012",
+                                "Average_speed": "139.867"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "11:22:11",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "10",
+                                "Elapsed_times": "1:26.820",
+                                "Gap": "2.208",
+                                "Interval": "0.433",
+                                "Average_speed": "138.369"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "11:19:15",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "24",
+                                "Elapsed_times": "1:26.636",
+                                "Gap": "0.842",
+                                "Interval": "0.023",
+                                "Average_speed": "138.662"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "14:19:55",
+                            "drivers": [
+                                "Brad_Benavides"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "23",
+                                "Elapsed_times": "1:27.475",
+                                "Gap": "1.681",
+                                "Interval": "0.070",
+                                "Average_speed": "137.332"
+                            },
+                            "position": "26",
+                            "points": 0,
+                            "fastest_lap": "14:20:30",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "23",
+                                "Elapsed_times": "1:28.026",
+                                "Gap": "2.232",
+                                "Interval": "0.194",
+                                "Average_speed": "136.473"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "14:26:27",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        }
+                    }
+                },
+                "BARCELONA": {
+                    "Feature Race": {
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "25",
+                                "Elapsed_times": "40:15.294",
+                                "Gap": "39.111",
+                                "Interval": "2.256",
+                                "Average_speed": "173.343",
+                                "Lap_of_fastest_lap": "10"
+                            },
+                            "position": "23",
+                            "points": 0,
+                            "fastest_lap": "1:33.596",
+                            "drivers": [
+                                "Ricardo_Escotto"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "25",
+                                "Elapsed_times": "40:16.517",
+                                "Gap": "40.334",
+                                "Interval": "1.223",
+                                "Average_speed": "173.256",
+                                "Lap_of_fastest_lap": "6"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "1:33.031",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "25",
+                                "Elapsed_times": "40:58.025",
+                                "Gap": "81.842",
+                                "Interval": "11.784",
+                                "Average_speed": "170.330",
+                                "Lap_of_fastest_lap": "5"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "1:33.052",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        }
+                    },
+                    "Sprint Race": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "21",
+                                "Elapsed_times": "37:11.822",
+                                "Gap": "14.467",
+                                "Interval": "0.679",
+                                "Average_speed": "157.546",
+                                "Lap_of_fastest_lap": "20"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "1:33.471",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "21",
+                                "Elapsed_times": "37:13.320",
+                                "Gap": "15.965",
+                                "Interval": "0.980",
+                                "Average_speed": "157.440",
+                                "Lap_of_fastest_lap": "21"
+                            },
+                            "position": "19",
+                            "points": 0,
+                            "fastest_lap": "1:33.701",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "21",
+                                "Elapsed_times": "37:15.885",
+                                "Gap": "18.530",
+                                "Interval": "1.291",
+                                "Average_speed": "157.260",
+                                "Lap_of_fastest_lap": "20"
+                            },
+                            "position": "22",
+                            "points": 0,
+                            "fastest_lap": "1:34.079",
+                            "drivers": [
+                                "Ricardo_Escotto"
+                            ]
+                        }
+                    },
+                    "Qualifying": {
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "11",
+                                "Elapsed_times": "1:29.326",
+                                "Gap": "1.063",
+                                "Interval": "0.026",
+                                "Average_speed": "187.685"
+                            },
+                            "position": "24",
+                            "points": 0,
+                            "fastest_lap": "15:18:09",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "11",
+                                "Elapsed_times": "1:29.819",
+                                "Gap": "1.556",
+                                "Interval": "0.172",
+                                "Average_speed": "186.655"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "15:17:56",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "11",
+                                "Elapsed_times": "1:29.856",
+                                "Gap": "1.593",
+                                "Interval": "0.037",
+                                "Average_speed": "186.578"
+                            },
+                            "position": "29",
+                            "points": 0,
+                            "fastest_lap": "15:30:31",
+                            "drivers": [
+                                "Ricardo_Escotto"
+                            ]
+                        }
+                    },
+                    "Practice": {
+                        "27": {
+                            "other_info": {
+                                "Car_number": "27",
+                                "Laps": "16",
+                                "Elapsed_times": "1:30.621",
+                                "Gap": "2.199",
+                                "Interval": "0.227",
+                                "Average_speed": "185.003"
+                            },
+                            "position": "27",
+                            "points": 0,
+                            "fastest_lap": "10:35:09",
+                            "drivers": [
+                                "Yevan_David"
+                            ]
+                        },
+                        "28": {
+                            "other_info": {
+                                "Car_number": "28",
+                                "Laps": "14",
+                                "Elapsed_times": "1:30.655",
+                                "Gap": "2.233",
+                                "Interval": "0.034",
+                                "Average_speed": "184.934"
+                            },
+                            "position": "28",
+                            "points": 0,
+                            "fastest_lap": "10:10:47",
+                            "drivers": [
+                                "Fernando_Barrichello"
+                            ]
+                        },
+                        "26": {
+                            "other_info": {
+                                "Car_number": "26",
+                                "Laps": "15",
+                                "Elapsed_times": "1:30.730",
+                                "Gap": "2.308",
+                                "Interval": "0.016",
+                                "Average_speed": "184.781"
+                            },
+                            "position": "30",
+                            "points": 0,
+                            "fastest_lap": "10:35:04",
+                            "drivers": [
+                                "Ricardo_Escotto"
+                            ]
                         }
                     }
                 }

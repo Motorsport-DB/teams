@@ -4,203 +4,40 @@
     "seasons": {
         "2025": {
             "World_Endurance_Championship_WEC": {
-                "Qatar 1812Km": {
-                    "Free Practice 1": {
-                        "8": {
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1:42.466",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ],
-                            "other_info": {
-                                "Laps": "35"
-                            }
-                        },
-                        "7": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:43.241",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "38"
-                            }
-                        }
-                    },
-                    "Free Practice 2": {
-                        "8": {
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1:40.505",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ],
-                            "other_info": {
-                                "Laps": "44"
-                            }
-                        },
-                        "7": {
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1:40.925",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "43"
-                            }
-                        }
-                    },
-                    "Free Practice 3": {
-                        "8": {
-                            "position": "12",
-                            "points": 0,
-                            "fastest_lap": "1:41.945",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ],
-                            "other_info": {
-                                "Laps": "31"
-                            }
-                        },
-                        "7": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:42.477",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "31"
-                            }
-                        }
-                    },
-                    "Hypercar Qualifying": {
-                        "7": {
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1:39.720",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        },
-                        "8": {
-                            "position": "17",
-                            "points": 0,
-                            "fastest_lap": "1:46.289",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ],
-                            "other_info": {
-                                "Laps": "6"
-                            }
-                        }
-                    },
-                    "Hypercar Hyperpole": {
-                        "7": {
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1:39.279",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "5"
-                            }
-                        }
-                    },
-                    "Race": {
-                        "8": {
-                            "position": "5",
-                            "points": 15,
-                            "fastest_lap": "1:42.065",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ],
-                            "other_info": {
-                                "Laps": "318",
-                                "Elapsed_time": "10:01:58.726",
-                                "Gap": "+19.628",
-                                "Best_lap_number": "172",
-                                "Best_speed": "191.1 km/h"
-                            }
-                        },
-                        "7": {
-                            "position": "6",
-                            "points": 12,
-                            "fastest_lap": "1:42.269",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ],
-                            "other_info": {
-                                "Laps": "318",
-                                "Elapsed_time": "10:02:02.364",
-                                "Gap": "+23.266",
-                                "Best_lap_number": "172",
-                                "Best_speed": "190.7 km/h"
-                            }
-                        }
-                    }
-                },
                 "6 Hours of Imola": {
                     "Hypercar Hyperpole": {
                         "8": {
                             "position": "4",
                             "points": 0,
-                            "fastest_lap": "1'30.042",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ],
                             "other_info": {
-                                "Average_speed": "196.268 Km/h",
+                                "Average_speed": "196.268",
                                 "Laps": "5",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'30.042"
                             }
                         },
                         "7": {
                             "position": "5",
                             "points": 0,
-                            "fastest_lap": "1'30.043",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ],
                             "other_info": {
-                                "Average_speed": "196.266 Km/h",
+                                "Average_speed": "196.266",
                                 "Laps": "5",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'30.043"
                             }
                         }
                     },
@@ -210,10 +47,11 @@
                                 "Elapsed_times": "6:00'51.575",
                                 "Laps": "212",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:00'51.575"
                             },
                             "position": "5",
-                            "points": "10",
+                            "points": 10.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
@@ -226,10 +64,11 @@
                                 "Elapsed_times": "6:00'59.843",
                                 "Laps": "212",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:00'59.843"
                             },
                             "position": "7",
-                            "points": "6",
+                            "points": 6.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
@@ -242,33 +81,35 @@
                         "8": {
                             "position": "6",
                             "points": 0,
-                            "fastest_lap": "1'30.534",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ],
                             "other_info": {
-                                "Average_speed": "195.201 Km/h",
+                                "Average_speed": "195.201",
                                 "Laps": "6",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'30.534"
                             }
                         },
                         "7": {
                             "position": "4",
                             "points": 0,
-                            "fastest_lap": "1'30.477",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ],
                             "other_info": {
-                                "Average_speed": "195.324 Km/h",
+                                "Average_speed": "195.324",
                                 "Laps": "7",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'30.477"
                             }
                         }
                     },
@@ -276,33 +117,35 @@
                         "8": {
                             "position": "7",
                             "points": 0,
-                            "fastest_lap": "1'32.865",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ],
                             "other_info": {
-                                "Average_speed": "190.302 Km/h",
+                                "Average_speed": "190.302",
                                 "Laps": "50",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'32.865"
                             }
                         },
                         "7": {
                             "position": "9",
                             "points": 0,
-                            "fastest_lap": "1'33.131",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ],
                             "other_info": {
-                                "Average_speed": "189.758 Km/h",
+                                "Average_speed": "189.758",
                                 "Laps": "51",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'33.131"
                             }
                         }
                     },
@@ -310,33 +153,35 @@
                         "7": {
                             "position": "8",
                             "points": 0,
-                            "fastest_lap": "1'31.760",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ],
                             "other_info": {
-                                "Average_speed": "192.593 Km/h",
+                                "Average_speed": "192.593",
                                 "Laps": "51",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'31.760"
                             }
                         },
                         "8": {
                             "position": "14",
                             "points": 0,
-                            "fastest_lap": "1'32.266",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ],
                             "other_info": {
-                                "Average_speed": "191.537 Km/h",
+                                "Average_speed": "191.537",
                                 "Laps": "40",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'32.266"
                             }
                         }
                     },
@@ -344,34 +189,66 @@
                         "8": {
                             "position": "5",
                             "points": 0,
-                            "fastest_lap": "1'31.743",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ],
                             "other_info": {
-                                "Average_speed": "192.629 Km/h",
+                                "Average_speed": "192.629",
                                 "Laps": "20",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'31.743"
                             }
                         },
                         "7": {
                             "position": "12",
                             "points": 0,
-                            "fastest_lap": "1'33.084",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ],
                             "other_info": {
-                                "Average_speed": "189.854 Km/h",
+                                "Average_speed": "189.854",
                                 "Laps": "24",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'33.084"
                             }
+                        }
+                    },
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
                         }
                     }
                 },
@@ -379,14 +256,15 @@
                     "Free Practice 1": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "203.045 Km/h",
+                                "Average_speed": "203.045",
                                 "Laps": "36",
                                 "Car_number": "8",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'04.179"
                             },
                             "position": "9",
                             "points": 0,
-                            "fastest_lap": "2'04.179",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -395,14 +273,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "202.449 Km/h",
+                                "Average_speed": "202.449",
                                 "Laps": "35",
                                 "Car_number": "7",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'04.545"
                             },
                             "position": "13",
                             "points": 0,
-                            "fastest_lap": "2'04.545",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -413,14 +292,15 @@
                     "Free Practice 2": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "206.474 Km/h",
+                                "Average_speed": "206.474",
                                 "Laps": "27",
                                 "Car_number": "7",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'02.117"
                             },
                             "position": "7",
                             "points": 0,
-                            "fastest_lap": "2'02.117",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -429,14 +309,15 @@
                         },
                         "8": {
                             "other_info": {
-                                "Average_speed": "205.105 Km/h",
+                                "Average_speed": "205.105",
                                 "Laps": "30",
                                 "Car_number": "8",
-                                "Class": ""
+                                "Class": "",
+                                "Elapsed_time": "2'02.932"
                             },
                             "position": "12",
                             "points": 0,
-                            "fastest_lap": "2'02.932",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -447,14 +328,15 @@
                     "Free Practice 3": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "207.938 Km/h",
+                                "Average_speed": "207.938",
                                 "Laps": "26",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "2'01.259"
                             },
                             "position": "5",
                             "points": 0,
-                            "fastest_lap": "2'01.259",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -463,14 +345,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "207.161 Km/h",
+                                "Average_speed": "207.161",
                                 "Laps": "25",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "2'01.714"
                             },
                             "position": "7",
                             "points": 0,
-                            "fastest_lap": "2'01.714",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -481,14 +364,15 @@
                     "Hypercar Qualifying": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "206.831 Km/h",
+                                "Average_speed": "206.831",
                                 "Laps": "6",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "2'01.908"
                             },
                             "position": "15",
                             "points": 0,
-                            "fastest_lap": "2'01.908",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -497,14 +381,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "206.826 Km/h",
+                                "Average_speed": "206.826",
                                 "Laps": "6",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "2'01.911"
                             },
                             "position": "16",
                             "points": 0,
-                            "fastest_lap": "2'01.911",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -518,10 +403,11 @@
                                 "Elapsed_times": "6:01'40.059",
                                 "Laps": "150",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:01'40.059"
                             },
                             "position": "4",
-                            "points": "12",
+                            "points": 12.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
@@ -534,15 +420,46 @@
                                 "Elapsed_times": "6:01'53.321",
                                 "Laps": "150",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:01'53.321"
                             },
                             "position": "7",
-                            "points": "6",
+                            "points": 6.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
                             ]
                         }
                     }
@@ -551,14 +468,15 @@
                     "Free Practice 1": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "238.469 Km/h",
+                                "Average_speed": "238.469",
                                 "Laps": "44",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'25.702"
                             },
                             "position": "4",
                             "points": 0,
-                            "fastest_lap": "3'25.702",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -567,14 +485,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "237.811 Km/h",
+                                "Average_speed": "237.811",
                                 "Laps": "44",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'26.271"
                             },
                             "position": "11",
                             "points": 0,
-                            "fastest_lap": "3'26.271",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -619,14 +538,15 @@
                     "Free Practice 2": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "237.944 Km/h",
+                                "Average_speed": "237.944",
                                 "Laps": "28",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'26.156"
                             },
                             "position": "1",
                             "points": 0,
-                            "fastest_lap": "3'26.156",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -635,14 +555,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "236.072 Km/h",
+                                "Average_speed": "236.072",
                                 "Laps": "28",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'27.790"
                             },
                             "position": "14",
                             "points": 0,
-                            "fastest_lap": "3'27.790",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -653,14 +574,15 @@
                     "Free Practice 3": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "236.567 Km/h",
+                                "Average_speed": "236.567",
                                 "Laps": "42",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'27.356"
                             },
                             "position": "11",
                             "points": 0,
-                            "fastest_lap": "3'27.356",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -669,14 +591,15 @@
                         },
                         "8": {
                             "other_info": {
-                                "Average_speed": "236.128 Km/h",
+                                "Average_speed": "236.128",
                                 "Laps": "45",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'27.741"
                             },
                             "position": "14",
                             "points": 0,
-                            "fastest_lap": "3'27.741",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -723,14 +646,15 @@
                     "Free Practice 4": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "235.458 Km/h",
+                                "Average_speed": "235.458",
                                 "Laps": "14",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'28.332"
                             },
                             "position": "9",
                             "points": 0,
-                            "fastest_lap": "3'28.332",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -739,14 +663,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "235.067 Km/h",
+                                "Average_speed": "235.067",
                                 "Laps": "15",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "3'28.679"
                             },
                             "position": "12",
                             "points": 0,
-                            "fastest_lap": "3'28.679",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -760,10 +685,11 @@
                                 "Elapsed_times": "24:03'08.984",
                                 "Laps": "386",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "24:03'08.984"
                             },
                             "position": "5",
-                            "points": "21",
+                            "points": 20.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
@@ -776,7 +702,8 @@
                                 "Elapsed_times": "24:05'28.156",
                                 "Laps": "380",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "24:05'28.156"
                             },
                             "position": "15",
                             "points": 0,
@@ -787,20 +714,16 @@
                                 "Ryo_Hirakawa"
                             ]
                         }
-                    }
-                },
-                "Rolex 6 Hours of Sao Paulo": {
-                    "Free Practice 1": {
+                    },
+                    "Prologue": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "181.763 Km/h",
-                                "Laps": "52",
                                 "Car_number": "7",
                                 "Class": "HYPERCAR"
                             },
-                            "position": "4",
+                            "position": "N/A",
                             "points": 0,
-                            "fastest_lap": "1'25.344",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -809,14 +732,653 @@
                         },
                         "8": {
                             "other_info": {
-                                "Average_speed": "180.584 Km/h",
-                                "Laps": "51",
                                 "Car_number": "8",
                                 "Class": "HYPERCAR"
                             },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Qualifying (Hypercar)": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "3'23.988",
+                                "Average_speed": "240.472"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "8",
+                                "Elapsed_time": "3'25.062",
+                                "Average_speed": "239.213"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying Hyperpole H1 (Hypercar)": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "3'23.546",
+                                "Average_speed": "240.995"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Qualifying Hyperpole H2 (Hypercar)": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "2"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "4",
+                                "Elapsed_time": "3'29.294",
+                                "Average_speed": "234.376"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "3",
+                                "Elapsed_time": "4'54.355",
+                                "Average_speed": "166.647"
+                            },
+                            "position": "42",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of Fuji": {
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Average_speed": "180.067",
+                                "Laps": "50",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'31.226"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Average_speed": "178.800",
+                                "Laps": "47",
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'31.872"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "8": {
+                            "other_info": {
+                                "Average_speed": "182.812",
+                                "Laps": "48",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.856"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Average_speed": "182.771",
+                                "Laps": "50",
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.876"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "8": {
+                            "other_info": {
+                                "Average_speed": "182.845",
+                                "Laps": "32",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.840"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Average_speed": "182.333",
+                                "Laps": "34",
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'30.092"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "8": {
+                            "other_info": {
+                                "Average_speed": "184.049",
+                                "Laps": "7",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.252"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Average_speed": "183.549",
+                                "Laps": "8",
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.495"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "8": {
+                            "other_info": {
+                                "Average_speed": "184.423",
+                                "Laps": "6",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "1'29.071"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'23.198",
+                                "Laps": "202",
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:01'23.198"
+                            },
+                            "position": "7",
+                            "points": 6.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Elapsed_times": "6:01'31.851",
+                                "Laps": "200",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Elapsed_time": "6:01'31.851"
+                            },
+                            "position": "16",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    }
+                },
+                "1812km of Qatar": {
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "35",
+                                "Elapsed_time": "1'42.466",
+                                "Average_speed": "190.353"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "38",
+                                "Elapsed_time": "1'43.241",
+                                "Average_speed": "188.924"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "44",
+                                "Elapsed_time": "1'40.505",
+                                "Average_speed": "194.067"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "43",
+                                "Elapsed_time": "1'40.925",
+                                "Average_speed": "193.260"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "31",
+                                "Elapsed_time": "1'41.945",
+                                "Average_speed": "191.326"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "31",
+                                "Elapsed_time": "1'42.477",
+                                "Average_speed": "190.333"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "1'39.720",
+                                "Average_speed": "195.595"
+                            },
+                            "position": "9",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "1'46.289",
+                                "Average_speed": "183.507"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "1'39.279",
+                                "Average_speed": "196.464"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "318",
+                                "Elapsed_time": "10:01'58.726",
+                                "Gap": "+19.628",
+                                "Best_lap_number": "172",
+                                "Best_speed": "191.1 km/h"
+                            },
+                            "position": "5",
+                            "points": 15.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "318",
+                                "Elapsed_time": "10:02'02.364",
+                                "Gap": "+23.266",
+                                "Best_lap_number": "172",
+                                "Best_speed": "190.7 km/h"
+                            },
+                            "position": "6",
+                            "points": 12.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "6 Hours of São Paulo": {
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "52",
+                                "Elapsed_time": "1'25.344",
+                                "Average_speed": "181.763"
+                            },
+                            "position": "4",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "51",
+                                "Elapsed_time": "1'25.901",
+                                "Average_speed": "180.584"
+                            },
                             "position": "15",
                             "points": 0,
-                            "fastest_lap": "1'25.901",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
@@ -826,14 +1388,15 @@
                     "Free Practice 2": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "184.620 Km/h",
-                                "Laps": "58",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "58",
+                                "Elapsed_time": "1'24.023",
+                                "Average_speed": "184.620"
                             },
                             "position": "7",
                             "points": 0,
-                            "fastest_lap": "1'24.023",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -842,14 +1405,15 @@
                         },
                         "8": {
                             "other_info": {
-                                "Average_speed": "183.424 Km/h",
-                                "Laps": "53",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "53",
+                                "Elapsed_time": "1'24.571",
+                                "Average_speed": "183.424"
                             },
                             "position": "16",
                             "points": 0,
-                            "fastest_lap": "1'24.571",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
@@ -859,14 +1423,15 @@
                     "Free Practice 3": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "185.344 Km/h",
-                                "Laps": "38",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "38",
+                                "Elapsed_time": "1'23.695",
+                                "Average_speed": "185.344"
                             },
                             "position": "1",
                             "points": 0,
-                            "fastest_lap": "1'23.695",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
@@ -874,18 +1439,107 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "183.907 Km/h",
-                                "Laps": "36",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "36",
+                                "Elapsed_time": "1'24.349",
+                                "Average_speed": "183.907"
                             },
                             "position": "4",
                             "points": 0,
-                            "fastest_lap": "1'24.349",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "LMGT3 Hyperpole": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "1'23.673",
+                                "Average_speed": "185.393"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "1'24.153",
+                                "Average_speed": "184.335"
+                            },
+                            "position": "18",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "1'23.496",
+                                "Average_speed": "185.786"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "239",
+                                "Elapsed_time": "6:01'20.329",
+                                "Elapsed_times": "6:01'20.329"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "239",
+                                "Elapsed_time": "6:01'21.870",
+                                "Elapsed_times": "6:01'21.870"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
                             ]
                         }
                     },
@@ -921,70 +1575,51 @@
                                 "Nyck_de Vries"
                             ]
                         }
-                    },
-                    "Hypercar Hyperpole": {
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "185.786 Km/h",
-                                "Laps": "7",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "10",
-                            "points": 0,
-                            "fastest_lap": "1'23.496",
-                            "drivers": [
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        }
-                    },
-                    "Race": {
+                    }
+                },
+                "6 Hours of Austin": {
+                    "Prologue": {
                         "7": {
                             "other_info": {
-                                "Elapsed_times": "6:01'20.329",
-                                "Laps": "239",
                                 "Car_number": "7",
                                 "Class": "HYPERCAR"
                             },
-                            "position": "14",
+                            "position": "N/A",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "Mike_Conway",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
                         },
                         "8": {
                             "other_info": {
-                                "Elapsed_times": "6:01'21.870",
-                                "Laps": "239",
                                 "Car_number": "8",
                                 "Class": "HYPERCAR"
                             },
-                            "position": "15",
+                            "position": "N/A",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
+                                "Sébastien_Buemi",
                                 "Brendon_Hartley",
                                 "Ryo_Hirakawa"
                             ]
                         }
-                    }
-                },
-                "Lone Star Le Mans": {
+                    },
                     "Free Practice 1": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "173.395 Km/h",
-                                "Laps": "34",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "34",
+                                "Elapsed_time": "1'54.460",
+                                "Average_speed": "173.395"
                             },
                             "position": "11",
                             "points": 0,
-                            "fastest_lap": "1'54.460",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -993,16 +1628,17 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "173.345 Km/h",
-                                "Laps": "31",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "31",
+                                "Elapsed_time": "1'54.493",
+                                "Average_speed": "173.345"
                             },
                             "position": "12",
                             "points": 0,
-                            "fastest_lap": "1'54.493",
+                            "fastest_lap": "",
                             "drivers": [
-                                "José María_López",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
@@ -1011,30 +1647,32 @@
                     "Free Practice 2": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "175.422 Km/h",
-                                "Laps": "37",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "37",
+                                "Elapsed_time": "1'53.137",
+                                "Average_speed": "175.422"
                             },
                             "position": "9",
                             "points": 0,
-                            "fastest_lap": "1'53.137",
+                            "fastest_lap": "",
                             "drivers": [
-                                "José María_López",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
                         },
                         "8": {
                             "other_info": {
-                                "Average_speed": "173.940 Km/h",
-                                "Laps": "41",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "41",
+                                "Elapsed_time": "1'54.101",
+                                "Average_speed": "173.940"
                             },
                             "position": "17",
                             "points": 0,
-                            "fastest_lap": "1'54.101",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1045,14 +1683,15 @@
                     "Free Practice 3": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "176.001 Km/h",
-                                "Laps": "28",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "28",
+                                "Elapsed_time": "1'52.765",
+                                "Average_speed": "176.001"
                             },
                             "position": "9",
                             "points": 0,
-                            "fastest_lap": "1'52.765",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1061,16 +1700,17 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "175.464 Km/h",
-                                "Laps": "27",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "27",
+                                "Elapsed_time": "1'53.110",
+                                "Average_speed": "175.464"
                             },
                             "position": "13",
                             "points": 0,
-                            "fastest_lap": "1'53.110",
+                            "fastest_lap": "",
                             "drivers": [
-                                "José María_López",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
@@ -1079,14 +1719,15 @@
                     "Hypercar Qualifying": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "164.748 Km/h",
-                                "Laps": "6",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "2'00.467",
+                                "Average_speed": "164.748"
                             },
                             "position": "10",
                             "points": 0,
-                            "fastest_lap": "2'00.467",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1095,16 +1736,17 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "158.417 Km/h",
-                                "Laps": "5",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "2'05.282",
+                                "Average_speed": "158.417"
                             },
                             "position": "18",
                             "points": 0,
-                            "fastest_lap": "2'05.282",
+                            "fastest_lap": "",
                             "drivers": [
-                                "José María_López",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
@@ -1113,14 +1755,15 @@
                     "Hypercar Hyperpole": {
                         "8": {
                             "other_info": {
-                                "Average_speed": "161.453 Km/h",
-                                "Laps": "5",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "2'02.926",
+                                "Average_speed": "161.453"
                             },
                             "position": "8",
                             "points": 0,
-                            "fastest_lap": "2'02.926",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1131,13 +1774,14 @@
                     "Race": {
                         "8": {
                             "other_info": {
-                                "Elapsed_times": "6:02'39.925",
-                                "Laps": "120",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "120",
+                                "Elapsed_time": "6:02'39.925",
+                                "Elapsed_times": "6:02'39.925"
                             },
                             "position": "9",
-                            "points": "2",
+                            "points": 2.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
@@ -1147,34 +1791,66 @@
                         },
                         "7": {
                             "other_info": {
-                                "Elapsed_times": "6:01'57.876",
-                                "Laps": "116",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "116",
+                                "Elapsed_time": "6:01'57.876",
+                                "Elapsed_times": "6:01'57.876"
                             },
                             "position": "14",
                             "points": 0,
                             "fastest_lap": "",
                             "drivers": [
-                                "José María_López",
+                                "Jose_Maria Lopez",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
                         }
                     }
                 },
-                "6 Hours of Fuji": {
-                    "Free Practice 1": {
+                "8 Hours of Bahrain": {
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
                         "8": {
                             "other_info": {
-                                "Average_speed": "180.067 Km/h",
-                                "Laps": "50",
                                 "Car_number": "8",
                                 "Class": "HYPERCAR"
                             },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "43",
+                                "Elapsed_time": "1'51.909",
+                                "Average_speed": "174.098"
+                            },
                             "position": "6",
                             "points": 0,
-                            "fastest_lap": "1'31.226",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1183,14 +1859,15 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "178.800 Km/h",
-                                "Laps": "47",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "44",
+                                "Elapsed_time": "1'51.995",
+                                "Average_speed": "173.964"
                             },
-                            "position": "17",
+                            "position": "7",
                             "points": 0,
-                            "fastest_lap": "1'31.872",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -1199,118 +1876,142 @@
                         }
                     },
                     "Free Practice 2": {
-                        "8": {
+                        "7": {
                             "other_info": {
-                                "Average_speed": "182.812 Km/h",
-                                "Laps": "48",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "45",
+                                "Elapsed_time": "1'49.342",
+                                "Average_speed": "178.185"
                             },
                             "position": "4",
                             "points": 0,
-                            "fastest_lap": "1'29.856",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        },
-                        "7": {
-                            "other_info": {
-                                "Average_speed": "182.771 Km/h",
-                                "Laps": "50",
-                                "Car_number": "7",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "6",
-                            "points": 0,
-                            "fastest_lap": "1'29.876",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "43",
+                                "Elapsed_time": "1'49.473",
+                                "Average_speed": "177.972"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
                             ]
                         }
                     },
                     "Free Practice 3": {
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "182.845 Km/h",
-                                "Laps": "32",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "9",
-                            "points": 0,
-                            "fastest_lap": "1'29.840",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        },
                         "7": {
                             "other_info": {
-                                "Average_speed": "182.333 Km/h",
-                                "Laps": "34",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "30",
+                                "Elapsed_time": "1'49.737",
+                                "Average_speed": "177.544"
                             },
-                            "position": "12",
+                            "position": "2",
                             "points": 0,
-                            "fastest_lap": "1'30.092",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "30",
+                                "Elapsed_time": "1'51.574",
+                                "Average_speed": "174.621"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
                             ]
                         }
                     },
                     "Hypercar Qualifying": {
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "184.049 Km/h",
-                                "Laps": "7",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1'29.252",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        },
                         "7": {
                             "other_info": {
-                                "Average_speed": "183.549 Km/h",
-                                "Laps": "8",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "4",
+                                "Elapsed_time": "1'47.500",
+                                "Average_speed": "181.239"
                             },
-                            "position": "14",
+                            "position": "3",
                             "points": 0,
-                            "fastest_lap": "1'29.495",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
                                 "Nyck_de Vries"
                             ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "4",
+                                "Elapsed_time": "1'47.836",
+                                "Average_speed": "180.674"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
                         }
                     },
                     "Hypercar Hyperpole": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "4",
+                                "Elapsed_time": "1'46.826",
+                                "Average_speed": "182.382"
+                            },
+                            "position": "1",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
                         "8": {
                             "other_info": {
-                                "Average_speed": "184.423 Km/h",
-                                "Laps": "6",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "4",
+                                "Elapsed_time": "1'46.977",
+                                "Average_speed": "182.125"
                             },
-                            "position": "8",
+                            "position": "2",
                             "points": 0,
-                            "fastest_lap": "1'29.071",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1321,13 +2022,14 @@
                     "Race": {
                         "7": {
                             "other_info": {
-                                "Elapsed_times": "6:01'23.198",
-                                "Laps": "202",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "237",
+                                "Elapsed_time": "8:01'08.626",
+                                "Elapsed_times": "8:01'08.626"
                             },
-                            "position": "7",
-                            "points": "6",
+                            "position": "1",
+                            "points": 39.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
@@ -1337,10 +2039,377 @@
                         },
                         "8": {
                             "other_info": {
-                                "Elapsed_times": "6:01'31.851",
-                                "Laps": "200",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "237",
+                                "Elapsed_time": "8:01'28.004",
+                                "Elapsed_times": "8:01'28.004"
+                            },
+                            "position": "2",
+                            "points": 27.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "2026": {
+            "World_Endurance_Championship_WEC": {
+                "6 Hours of Imola": {
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "48",
+                                "Elapsed_time": "1'32.573",
+                                "Average_speed": "190.9"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "47",
+                                "Elapsed_time": "1'32.948",
+                                "Average_speed": "190.1"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "53",
+                                "Elapsed_time": "1'31.012",
+                                "Average_speed": "194.176"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "52",
+                                "Elapsed_time": "1'31.555",
+                                "Average_speed": "193.024"
+                            },
+                            "position": "10",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "33",
+                                "Elapsed_time": "1'30.946",
+                                "Average_speed": "194.317"
+                            },
+                            "position": "5",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "30",
+                                "Elapsed_time": "1'31.254",
+                                "Average_speed": "193.661"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "1'30.274",
+                                "Average_speed": "195.764"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "1'30.471",
+                                "Average_speed": "195.337"
+                            },
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Hypercar Hyperpole": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "1'30.138",
+                                "Average_speed": "196.059"
+                            },
+                            "position": "2",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "1'30.432",
+                                "Average_speed": "195.421"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "213",
+                                "Elapsed_time": "6:00'10.939"
+                            },
+                            "position": "1",
+                            "points": 25.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "213",
+                                "Elapsed_time": "6:00'52.126"
+                            },
+                            "position": "3",
+                            "points": 15.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    }
+                },
+                "TotalEnergies 6 Hours of Spa-Francorchamps": {
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "38",
+                                "Elapsed_time": "2'05.118",
+                                "Average_speed": "201.524"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "37",
+                                "Elapsed_time": "2'05.537",
+                                "Average_speed": "200.852"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Free Practice 2": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "34",
+                                "Elapsed_time": "2'02.527",
+                                "Average_speed": "205.786"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "33",
+                                "Elapsed_time": "2'03.404",
+                                "Average_speed": "204.324"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "23",
+                                "Elapsed_time": "2'03.179",
+                                "Average_speed": "204.697"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "20",
+                                "Elapsed_time": "2'04.737",
+                                "Average_speed": "202.140"
+                            },
+                            "position": "17",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Hypercar Qualifying": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "2'01.592",
+                                "Average_speed": "207.368"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "2'02.164",
+                                "Average_speed": "206.397"
                             },
                             "position": "16",
                             "points": 0,
@@ -1351,20 +2420,85 @@
                                 "Ryo_Hirakawa"
                             ]
                         }
-                    }
-                },
-                "Bapco Energies 8 Hours of Bahrain": {
-                    "Free Practice 1": {
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "151",
+                                "Elapsed_time": "6:01'23.051"
+                            },
+                            "position": "5",
+                            "points": 10.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
                         "8": {
                             "other_info": {
-                                "Average_speed": "174.098 Km/h",
-                                "Laps": "43",
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "151",
+                                "Elapsed_time": "6:01'49.201"
+                            },
+                            "position": "10",
+                            "points": 1.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    }
+                },
+                "24 Hours of Le Mans": {
+                    "Prologue": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR"
+                            },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
                                 "Car_number": "8",
                                 "Class": "HYPERCAR"
                             },
+                            "position": "N/A",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 1": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "44",
+                                "Elapsed_time": "3'26.491",
+                                "Average_speed": "237.558"
+                            },
                             "position": "6",
                             "points": 0,
-                            "fastest_lap": "1'51.909",
+                            "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
                                 "Brendon_Hartley",
@@ -1373,14 +2507,51 @@
                         },
                         "7": {
                             "other_info": {
-                                "Average_speed": "173.964 Km/h",
-                                "Laps": "44",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "42",
+                                "Elapsed_time": "3'26.600",
+                                "Average_speed": "237.432"
                             },
-                            "position": "7",
+                            "position": "11",
                             "points": 0,
-                            "fastest_lap": "1'51.995",
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying (Hypercar)": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "9",
+                                "Elapsed_time": "3'23.791",
+                                "Average_speed": "240.705"
+                            },
+                            "position": "8",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "9",
+                                "Elapsed_time": "3'24.314",
+                                "Average_speed": "240.089"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
                                 "Kamui_Kobayashi",
@@ -1391,149 +2562,14 @@
                     "Free Practice 2": {
                         "7": {
                             "other_info": {
-                                "Average_speed": "178.185 Km/h",
-                                "Laps": "45",
                                 "Car_number": "7",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "4",
-                            "points": 0,
-                            "fastest_lap": "1'49.342",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ]
-                        },
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "177.972 Km/h",
-                                "Laps": "43",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "7",
-                            "points": 0,
-                            "fastest_lap": "1'49.473",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        }
-                    },
-                    "Free Practice 3": {
-                        "7": {
-                            "other_info": {
-                                "Average_speed": "177.544 Km/h",
-                                "Laps": "30",
-                                "Car_number": "7",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1'49.737",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ]
-                        },
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "174.621 Km/h",
-                                "Laps": "30",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "13",
-                            "points": 0,
-                            "fastest_lap": "1'51.574",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        }
-                    },
-                    "Hypercar Qualifying": {
-                        "7": {
-                            "other_info": {
-                                "Average_speed": "181.239 Km/h",
-                                "Laps": "4",
-                                "Car_number": "7",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "3",
-                            "points": 0,
-                            "fastest_lap": "1'47.500",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ]
-                        },
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "180.674 Km/h",
-                                "Laps": "4",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "5",
-                            "points": 0,
-                            "fastest_lap": "1'47.836",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        }
-                    },
-                    "Hypercar Hyperpole": {
-                        "7": {
-                            "other_info": {
-                                "Average_speed": "182.382 Km/h",
-                                "Laps": "4",
-                                "Car_number": "7",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "26",
+                                "Elapsed_time": "3'26.096",
+                                "Average_speed": "238.013"
                             },
                             "position": "1",
                             "points": 0,
-                            "fastest_lap": "1'46.826",
-                            "drivers": [
-                                "Mike_Conway",
-                                "Kamui_Kobayashi",
-                                "Nyck_de Vries"
-                            ]
-                        },
-                        "8": {
-                            "other_info": {
-                                "Average_speed": "182.125 Km/h",
-                                "Laps": "4",
-                                "Car_number": "8",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "2",
-                            "points": 0,
-                            "fastest_lap": "1'46.977",
-                            "drivers": [
-                                "Sébastien_Buemi",
-                                "Brendon_Hartley",
-                                "Ryo_Hirakawa"
-                            ]
-                        }
-                    },
-                    "Race": {
-                        "7": {
-                            "other_info": {
-                                "Elapsed_times": "8:01'08.626",
-                                "Laps": "237",
-                                "Car_number": "7",
-                                "Class": "HYPERCAR"
-                            },
-                            "position": "1",
-                            "points": "39",
                             "fastest_lap": "",
                             "drivers": [
                                 "Mike_Conway",
@@ -1543,13 +2579,192 @@
                         },
                         "8": {
                             "other_info": {
-                                "Elapsed_times": "8:01'28.004",
-                                "Laps": "237",
                                 "Car_number": "8",
-                                "Class": "HYPERCAR"
+                                "Class": "HYPERCAR",
+                                "Laps": "32",
+                                "Elapsed_time": "3'26.912",
+                                "Average_speed": "237.074"
                             },
-                            "position": "2",
-                            "points": "27",
+                            "position": "7",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 3": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "44",
+                                "Elapsed_time": "3'25.231",
+                                "Average_speed": "239.016"
+                            },
+                            "position": "12",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "45",
+                                "Elapsed_time": "3'25.348",
+                                "Average_speed": "238.880"
+                            },
+                            "position": "13",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Qualifying Hyperpole H1 (Hypercar)": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "7",
+                                "Elapsed_time": "3'24.268",
+                                "Average_speed": "240.143"
+                            },
+                            "position": "14",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "6",
+                                "Elapsed_time": "3'24.578",
+                                "Average_speed": "239.779"
+                            },
+                            "position": "15",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Free Practice 4": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "16",
+                                "Elapsed_time": "3'27.146",
+                                "Average_speed": "236.806"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "15",
+                                "Elapsed_time": "3'28.431",
+                                "Average_speed": "235.346"
+                            },
+                            "position": "11",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        }
+                    },
+                    "Warm Up": {
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "3'27.001",
+                                "Average_speed": "236.972"
+                            },
+                            "position": "3",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Sébastien_Buemi",
+                                "Brendon_Hartley",
+                                "Ryo_Hirakawa"
+                            ]
+                        },
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "5",
+                                "Elapsed_time": "3'27.369",
+                                "Average_speed": "236.552"
+                            },
+                            "position": "6",
+                            "points": 0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        }
+                    },
+                    "Race": {
+                        "7": {
+                            "other_info": {
+                                "Car_number": "7",
+                                "Class": "HYPERCAR",
+                                "Laps": "381",
+                                "Elapsed_time": "24:03'01.030"
+                            },
+                            "position": "1",
+                            "points": 50.0,
+                            "fastest_lap": "",
+                            "drivers": [
+                                "Mike_Conway",
+                                "Kamui_Kobayashi",
+                                "Nyck_de Vries"
+                            ]
+                        },
+                        "8": {
+                            "other_info": {
+                                "Car_number": "8",
+                                "Class": "HYPERCAR",
+                                "Laps": "381",
+                                "Elapsed_time": "24:03'21.447"
+                            },
+                            "position": "3",
+                            "points": 30.0,
                             "fastest_lap": "",
                             "drivers": [
                                 "Sébastien_Buemi",
